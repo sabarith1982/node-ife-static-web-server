@@ -14,8 +14,8 @@ const PopularMedia = {
 					  "audiotracks": "en, sp",
 					  "closedcaption": "en",
 					  "subtitles": "en, sp",
-					  "trailormid": "100101",
-					  "duration": "0090",
+					  "trailorURL": "./videos/trailor.mp4",
+					  "duration": "1:30:00",
 					  "director": "Rian Johnson",
 					  "cast": "Mark Hamill,Carrie Fisher,Adam Driver",
 					  "userrating": "3.0",
@@ -45,7 +45,7 @@ const PopularMedia = {
 									  "audiotracks": "en, sp",
 									  "closedcaption": "en",
 									  "subtitles": "en, sp",
-									  "duration": "0023",
+									  "duration": "00:23:00",
 									  "director": "Kevin Bright",
 									  "cast": "Jennifer Aniston, Courteney Cox, Lisa Kudrow...",
 									  "userrating": "4.2",
@@ -60,7 +60,7 @@ const PopularMedia = {
 									  "audiotracks": "en, sp",
 									  "closedcaption": "en",
 									  "subtitles": "en, sp",
-									  "duration": "0022",
+									  "duration": "00:22:00",
 									  "director": "Kevin Bright",
 									  "cast": "Jennifer Aniston, Courteney Cox, Lisa Kudrow...",
 									  "userrating": "4.1",
@@ -82,8 +82,8 @@ const PopularMedia = {
 					  "audiotracks": "en, sp",
 					  "closedcaption": "en",
 					  "subtitles": "en, sp",
-					  "trailormid": "100111",
-					  "duration": "0090",
+					  "trailorURL": "./videos/trailor.mp4",
+					  "duration": "01:30:00",
 					  "director": "Rian Johnson",
 					  "cast": "Mark Hamill,Carrie Fisher,Adam Driver",
 					  "userrating": "3.0",
@@ -97,56 +97,56 @@ const PopularMedia = {
 					  "album": "Thriller",
 					  "year": "1982",
 					  "rating": "PG-13",
-					  "duration": "0090",
+					  "duration": "00:55:00",
 					  "userrating": "4.9",
 					  "genres": "R&amp;&B &gt; Funk",
 					  "tracks": [
 						{
 						"trackmid": "300101",
 						"tracktitle": "Wanna Be Startin' Somethin'",
-						"duration" : "6:03",
+						"duration" : "00:06:03",
 						"audioURL" : "./audio/300101.mp3"
 						},
 						{
 						"trackmid": "300102",
 						"tracktitle": "Baby Be Mine",
-						"duration" : "4:20",
+						"duration" : "00:04:20",
 						"audioURL" : "./audio/300101.mp3"
 						},
 						{
 						"trackmid": "300103",
 						"tracktitle": "The Girl Is Mine",
-						"duration" : "3:42",
+						"duration" : "00:03:42",
 						"audioURL" : "./audio/300101.mp3"
 						},
 						{
 						"trackmid": "300104",
 						"tracktitle": "Thriller",
-						"duration" : "5:57",
+						"duration" : "00:05:57",
 						"audioURL" : "./audio/300101.mp3"
 						},
 						{
 						"trackmid": "300105",
 						"tracktitle": "Beat It (Single Version)",
-						"duration" : "4:18",
+						"duration" : "00:04:18",
 						"audioURL" : "./audio/300101.mp3"
 						},
 						{
 						"trackmid": "300106",
 						"tracktitle": "Billie Jean",
-						"duration" : "4:54",
+						"duration" : "00:04:54",
 						"audioURL" : "./audio/300101.mp3"
 						},
 						{
 						"trackmid": "300107",
 						"tracktitle": "Human Nature",
-						"duration" : "4:54",
+						"duration" : "00:04:54",
 						"audioURL" : "./audio/300101.mp3"
 						},
 						{
 						"trackmid": "300108",
 						"tracktitle": "P.Y.T. (Pretty Young Thing)",
-						"duration" : "3:59",
+						"duration" : "00:03:59",
 						"audioURL" : "./audio/300101.mp3"
 						}
 					  ]

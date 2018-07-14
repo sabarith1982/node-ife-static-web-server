@@ -5,12 +5,29 @@ var {Menu} = require('./Menu.js');
 var {SlideShow} = require('./SlideShow.js');
 var {FlightData} = require('./FlightData.js');
 var {PopularMedia} = require('./PopularMedia.js');
+var {MovieList} = require('./movielist.js');
+
+var {InteractiveEnglish} = require('./InteractiveEnglish.js');
+var {InteractiveChinese} = require('./InteractiveChinese.js');
+
+var LanguageArr = new Array();
+LanguageArr['EN'] = InteractiveEnglish;
+LanguageArr['CH'] = InteractiveChinese;
 
 
 const port = process.env.PORT || 3000;
 var app = new express();
 
 app.use(bodyParser.json());
+
+app.post('/setlanguage/:lang',(req, res) => {
+  var languageData = LanguageArr[req.params.lang]
+  res.send({
+    languageData
+   })
+  },(e) => {
+    res.status(400).send(e);
+});
 
 app.get('/menu',(req, res) => {
   res.send({
@@ -39,6 +56,14 @@ app.get('/flightdata',(req, res) => {
 app.get('/media/popularmedia',(req, res) => {
   res.send({
     PopularMedia
+   })
+  },(e) => {
+    res.status(400).send(e);
+});
+
+app.get('/movielist',(req, res) => {
+  res.send({
+    MovieList
    })
   },(e) => {
     res.status(400).send(e);

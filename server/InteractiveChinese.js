@@ -1,0 +1,47 @@
+const InteractiveChinese = {
+  "code": "200",
+  "message": "success",
+  "data":
+    {
+      "origintxt":"洛杉矶",
+      "destinationtxt": "厦门",
+      "ttdtxt": "到目的地的时间",
+      "dfotxt": "原点距离",
+      "dtdtxt": "到目的地的距离",
+      "altitudetxt": "高度",
+      "headingtxt": "真正的标题",
+      "watchtxt": "看",
+      "moviestxt": "电影",
+      "tvtxt": "电视",
+      "mvtxt": "音乐视频",
+      "newstxt": "新闻",
+      "sporttxt": "体育",
+      "listentxt": "听",
+      "musictxt": "音乐",
+      "abookstxt": "有声读物",
+      "readtxt": "读",
+      "magazinetxt": "杂志",
+      "newspapertxt": "新闻报纸",
+      "ebookstxt": "电子书",
+      "surftxt": "冲浪",
+      "playtxt": "玩",
+      "maptxt": "地图",
+      "shoptxt": "店",
+      "eattxt": "吃",
+      "kidstxt": "童装",
+      "exptxt": "经验",
+      "abouttxt": "关于厦门航空",
+      "egrettxt": "白鹭俱乐部",
+      "desttxt": "目的地",
+      "surveytxt": "调查",
+      "talktxt": "谈论",
+      "chattxt": "聊",
+      "msgtxt": "消息",
+      "settingstxt": "设置",
+      "callfatxt": "致电空乘人员",
+      "lighttxt": "光控制",
+      "langtxt": "语言"
+    }
+}
+
+module.exports = {InteractiveChinese};
