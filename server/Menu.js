@@ -64,27 +64,7 @@ const Menu = {
       "menuID": "M003",
       "text": "readtxt",
       "iconURL": "images/menu/read.ico",
-      "type": "folder",
-      "menuitems": [
-        {
-          "menuitemID": "M003-1",
-          "text": "magazinetxt",
-          "iconURL": "images/menu/magazine.ico",
-          "type": "page"
-        },
-        {
-          "menuitemID": "M003-2",
-          "text": "newspapertxt",
-          "iconURL": "images/menu/newspaper.ico",
-          "type": "page"
-        },
-        {
-          "menuitemID": "M003-3",
-          "text": "ebookstxt",
-          "iconURL": "images/menu/ebooks.ico",
-          "type": "page"
-        }
-      ]
+      "type": "page",
     },
     {
       "menuID": "M004",
