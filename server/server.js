@@ -21,7 +21,11 @@ var app = new express();
 app.use(bodyParser.json());
 
 app.post('/setlanguage/:lang',(req, res) => {
+  console.log('IP is: ',req.ip.split(':')[3]);
   var languageData = LanguageArr[req.params.lang]
+  res.set({
+    "Access-Control-Allow-Origin": "*"
+  })
   res.send({
     languageData
    })
@@ -30,6 +34,7 @@ app.post('/setlanguage/:lang',(req, res) => {
 });
 
 app.get('/menu',(req, res) => {
+  console.log('IP is: ',req.ip.split(':')[3]);
   res.send({
     Menu
    })
