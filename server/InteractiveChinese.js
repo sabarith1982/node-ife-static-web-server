@@ -29,7 +29,7 @@ const InteractiveChinese = {
       "shoptxt": "购物",
       "eattxt": "餐饮",
       "kidstxt": "儿童",
-      "exptxt": "经验",
+      "exptxt": "体验",
       "abouttxt": "关于厦门航空",
       "egrettxt": "白鹭俱乐部",
       "desttxt": "目的地信息",
