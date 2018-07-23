@@ -40,7 +40,15 @@ const InteractiveChinese = {
       "settingstxt": "设置",
       "callfatxt": "请求帮助",
       "lighttxt": "灯光控制",
-      "langtxt": "语言"
+      "langtxt": "语言",
+      "helptxt": "帮助",
+      "hometxt": "首页",
+      "connecttxt": "上网",
+      "alerttxt": "提醒",
+      "profiletxt": "个人档案",
+      "feedbacktxt": "意见和反馈",
+      "mmhtxt": "浏览记录",
+      "aboutmenutxt": "关于"
     }
 }
 

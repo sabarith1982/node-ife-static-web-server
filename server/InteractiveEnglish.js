@@ -40,7 +40,15 @@ const InteractiveEnglish = {
       "settingstxt": "Settings",
       "callfatxt": "Call Flight Attendant",
       "lighttxt": "Light Control",
-      "langtxt": "Languages"
+      "langtxt": "Languages",
+      "helptxt": "Help",
+      "hometxt": "Home",
+      "connecttxt": "Connect",
+      "alerttxt": "Alert",
+      "profiletxt": "Profile",
+      "feedbacktxt": "Feedback",
+      "mmhtxt": "My Media History",
+      "aboutmenutxt": "About"
     }
 }
 
