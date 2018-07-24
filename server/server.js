@@ -6,23 +6,28 @@ var {SlideShow} = require('./SlideShow.js');
 var {FlightData} = require('./FlightData.js');
 var {PopularMedia} = require('./PopularMedia.js');
 var {MovieList} = require('./movielist.js');
+var {MovieList_CH} = require('./movielist.js');
 
 var {InteractiveEnglish} = require('./InteractiveEnglish.js');
 var {InteractiveChinese} = require('./InteractiveChinese.js');
+var {trackIP} = require('./trackIP.js');
+
 
 var LanguageArr = new Array();
 LanguageArr['EN'] = InteractiveEnglish;
 LanguageArr['CH'] = InteractiveChinese;
 
-
 const port = process.env.PORT || 3000;
 var app = new express();
+var _trackIP = new trackIP();
 
 app.use(bodyParser.json());
 
 app.post('/setlanguage/:lang',(req, res) => {
-  console.log('IP is: ',req.ip.split(':')[3]);
+  console.log('IP is: ',req.ip, " :", req.ip.split(':')[3]);
+  var ip = req.ip.split(':')[3] ? req.ip.split(':')[3]+"" : "localhost";
   var languageData = LanguageArr[req.params.lang]
+  _trackIP.setIPandLanguage(ip, req.params.lang);
   res.set({
     "Access-Control-Allow-Origin": "*"
   })
@@ -34,7 +39,7 @@ app.post('/setlanguage/:lang',(req, res) => {
 });
 
 app.get('/menu',(req, res) => {
-  console.log('IP is: ',req.ip.split(':')[3]);
+  console.log('IP is: ',req.ip);
   res.send({
     Menu
    })
@@ -67,8 +72,15 @@ app.get('/media/popularmedia',(req, res) => {
 });
 
 app.get('/movielist',(req, res) => {
+  var ip = req.ip.split(':')[3] ? req.ip.split(':')[3]+"" : "localhost";
+  var lang = _trackIP.getIPLanguage(ip);
+
+  var lvMovieList = MovieList;
+  if(lang === 'CH')
+    lvMovieList = MovieList_CH;
+
   res.send({
-    MovieList
+    lvMovieList
    })
   },(e) => {
     res.status(400).send(e);
