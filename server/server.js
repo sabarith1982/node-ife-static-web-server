@@ -11,7 +11,7 @@ var {MovieList_CH} = require('./movielist.js');
 var {InteractiveEnglish} = require('./InteractiveEnglish.js');
 var {InteractiveChinese} = require('./InteractiveChinese.js');
 var {trackIP} = require('./trackIP.js');
-
+var {searchList} = require('./searchList.js');
 
 var LanguageArr = new Array();
 LanguageArr['EN'] = InteractiveEnglish;
@@ -33,6 +33,20 @@ app.post('/setlanguage/:lang',(req, res) => {
   })
   res.send({
     languageData
+   })
+  },(e) => {
+    res.status(400).send(e);
+});
+
+app.post('/search',(req, res) => {
+  console.log('IP is: ',req.ip, " :", req.ip.split(':')[3]);
+  var ip = req.ip.split(':')[3] ? req.ip.split(':')[3]+"" : "localhost";
+  var dataObj = req.body.data;
+  res.set({
+    "Access-Control-Allow-Origin": "*"
+  })
+  res.send({
+    searchList
    })
   },(e) => {
     res.status(400).send(e);
