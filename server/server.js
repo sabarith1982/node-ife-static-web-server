@@ -12,6 +12,7 @@ var {InteractiveEnglish} = require('./InteractiveEnglish.js');
 var {InteractiveChinese} = require('./InteractiveChinese.js');
 var {trackIP} = require('./trackIP.js');
 var {searchList} = require('./searchList.js');
+var {searchOptions} = require('./searchOptions.js');
 
 var LanguageArr = new Array();
 LanguageArr['EN'] = InteractiveEnglish;
@@ -47,6 +48,15 @@ app.post('/search',(req, res) => {
   })
   res.send({
     searchList
+   })
+  },(e) => {
+    res.status(400).send(e);
+});
+
+app.get('/searchoptions',(req, res) => {
+  console.log('IP is: ',req.ip);
+  res.send({
+    searchOptions
    })
   },(e) => {
     res.status(400).send(e);
