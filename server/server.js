@@ -2,6 +2,7 @@ var express = require('express');
 var bodyParser = require('body-parser');
 
 var {Menu} = require('./Menu.js');
+var {KidsMenu} = require('./KidsMenu.js');
 var {SlideShow} = require('./SlideShow.js');
 var {FlightData} = require('./FlightData.js');
 var {PopularMedia} = require('./PopularMedia.js');
@@ -48,6 +49,38 @@ app.post('/search',(req, res) => {
   })
   res.send({
     searchList
+   })
+  },(e) => {
+    res.status(400).send(e);
+});
+
+app.post('/setKidsMode/:password',(req, res) => {
+  console.log('IP is: ',req.ip, " :", req.ip.split(':')[3]);
+  var ip = req.ip.split(':')[3] ? req.ip.split(':')[3]+"" : "localhost";
+  var menu = {"code": "201", "message": "Kids Mode Cannot be set."}
+  if(_trackIP.setIPandKidsMode(ip, req.params.password))
+    var menu = KidsMenu;
+  res.set({
+    "Access-Control-Allow-Origin": "*"
+  })
+  res.send({
+    menu
+   })
+  },(e) => {
+    res.status(400).send(e);
+});
+
+app.post('/resetKidsMode/:password',(req, res) => {
+  console.log('IP is: ',req.ip, " :", req.ip.split(':')[3]);
+  var ip = req.ip.split(':')[3] ? req.ip.split(':')[3]+"" : "localhost";
+  var menu = {"code": "201", "message": "Cannot reset Kids mode."}
+  if(_trackIP.resetIPandKidsMode(ip, req.params.password))
+    var menu = Menu;
+  res.set({
+    "Access-Control-Allow-Origin": "*"
+  })
+  res.send({
+    menu
    })
   },(e) => {
     res.status(400).send(e);
