@@ -97,8 +97,12 @@ app.get('/searchoptions',(req, res) => {
 
 app.get('/menu',(req, res) => {
   console.log('IP is: ',req.ip);
+  var ip = req.ip.split(':')[3] ? req.ip.split(':')[3]+"" : "localhost";
+  var lmenu = Menu;
+  if(_trackIP.checkKidsMode(ip))
+    lmenu = KidsMenu;
   res.send({
-    Menu
+    lmenu
    })
   },(e) => {
     res.status(400).send(e);

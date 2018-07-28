@@ -35,6 +35,13 @@ class trackIP{
     }
     return false;
   }
+
+  checkKidsMode(ip){
+    if(this.kidsMode[ip]){
+      return true;
+    }
+    return false;
+  }
 }
 
 module.exports = {trackIP};
