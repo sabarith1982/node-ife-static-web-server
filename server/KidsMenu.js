@@ -109,22 +109,21 @@ const KidsMenu = {
       "type": "page"
     },
     {
-      "menuID": "M004",
-      "text": "Surf",
-      "iconURL": "images/menu/surf.ico",
-      "type": "link",
-      "URL": ""
+      "menuID": "M006",
+      "text": "Map",
+      "iconURL": "images/menu/map.ico",
+      "type": "page"
+    },
+    {
+      "menuID": "M013",
+      "text": "Learn",
+      "iconURL": "images/menu/learn.ico",
+      "type": "page"
     },
     {
       "menuID": "M005",
       "text": "Play",
       "iconURL": "images/menu/play.ico",
-      "type": "page"
-    },
-    {
-      "menuID": "M006",
-      "text": "Map",
-      "iconURL": "images/menu/map.ico",
       "type": "page"
     },
     {
@@ -140,10 +139,25 @@ const KidsMenu = {
       "type": "page"
     },
     {
-      "menuID": "M013",
-      "text": "Learn",
-      "iconURL": "images/menu/learn.ico",
-      "type": "page"
+      "menuID": "M011",
+      "text": "Message",
+      "iconURL": "images/menu/message.ico",
+      "type": "folder",
+      "menuitems": [
+        {
+          "menuitemID": "M011-2",
+          "text": "Crew Messages",
+          "iconURL": "images/menu/messages.ico",
+          "type": "page"
+        }
+      ]
+    },
+    {
+      "menuID": "M004",
+      "text": "Surf",
+      "iconURL": "images/menu/surf.ico",
+      "type": "link",
+      "URL": ""
     },
     {
       "menuID": "M010",
@@ -173,20 +187,6 @@ const KidsMenu = {
           "menuitemID": "M010-4",
           "text": "Survey",
           "iconURL": "images/menu/survey.ico",
-          "type": "page"
-        }
-      ]
-    },
-    {
-      "menuID": "M011",
-      "text": "Message",
-      "iconURL": "images/menu/message.ico",
-      "type": "folder",
-      "menuitems": [
-        {
-          "menuitemID": "M011-2",
-          "text": "Crew Messages",
-          "iconURL": "images/menu/messages.ico",
           "type": "page"
         }
       ]
