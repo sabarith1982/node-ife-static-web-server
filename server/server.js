@@ -26,9 +26,9 @@ var _trackIP = new trackIP();
 var _hashing = new Hashing();
 app.use(bodyParser.json());
 
-
+//POST API to setlanguage.
 app.post('/setlanguage/:lang',(req, res) => {
-  console.log('IP is: ',req.ip, " :", req.ip.split(':')[3]);
+  console.log('In setLanguage IP is: ',req.ip, " :", req.ip.split(':')[3]);
   var ip = req.ip.split(':')[3] ? req.ip.split(':')[3]+"" : "localhost";
   var xauthtoken;
   if(!req.headers.xauth || req.headers.xauth == ""){
@@ -44,12 +44,11 @@ app.post('/setlanguage/:lang',(req, res) => {
         var menuAuth = {"code": "401", "message": "Cannot be authorized"}
         res.send({
           menuAuth
-         })
-        ,(e) => {
+        }),(e) => {
           res.status(401).send(e);
+        }
         return;
       }
-    }
   }
 
   var languageData = LanguageArr[req.params.lang]
@@ -60,12 +59,14 @@ app.post('/setlanguage/:lang',(req, res) => {
   })
   res.send({
     languageData
-   })
- },(e) => {
+  })
+  },(e) => {
     res.status(400).send(e);
 });
 
+//POST API to search media in the media dataset
 app.post('/search',(req, res) => {
+  console.log("In search");
   var menuAuth = {"code": "401", "message": "Cannot be authorized"}
   if(verifyHeader(req, res)){
     var dataObj = req.body.data;
@@ -75,14 +76,15 @@ app.post('/search',(req, res) => {
     })
     res.send({
       searchList
-     })
-    ,(e) => {
+    }),(e) => {
       res.status(400).send(e);
     }
   }
 });
 
+//POST API to set Kids Mode with password
 app.post('/setKidsMode/:password',(req, res) => {
+  console.log("In setKidsMode");
   var menu = {"code": "201", "message": "Kids Mode Cannot be set."}
   if(verifyHeader(req, res)){
     if(_trackIP.setIPandKidsMode(req.headers.xauth, req.params.password))
@@ -94,14 +96,15 @@ app.post('/setKidsMode/:password',(req, res) => {
     })
     res.send({
       menu
-     })
-    ,(e) => {
+    }),(e) => {
       res.status(400).send(e);
     }
   }
 });
 
+// POST API to reset from Kids Mode
 app.post('/resetKidsMode/:password',(req, res) => {
+  console.log("In resetKidsMode");
   var menu = {"code": "201", "message": "Kids Mode Cannot be set."}
   if(verifyHeader(req, res)){
     if(_trackIP.resetIPandKidsMode(req.headers.xauth, req.params.password))
@@ -112,26 +115,28 @@ app.post('/resetKidsMode/:password',(req, res) => {
     })
     res.send({
       menu
-     })
-    ,(e) => {
+    }),(e) => {
       res.status(400).send(e);
     }
   }
 });
 
+//Returns searchoptions required to display on the search dialog
 app.get('/searchoptions',(req, res) => {
+  console.log("In searchOptions");
   var menuAuth = {"code": "401", "message": "Cannot be authorized"}
   if(verifyHeader(req, res)){
     res.send({
       searchOptions
-     })
-    ,(e) => {
+    }),(e) => {
       res.status(400).send(e);
     }
   }
 });
 
+//Returns regular / kids menu based on setting
 app.get('/menu',(req, res) => {
+  console.log("In getMenu");
   var menuAuth = {"code": "401", "message": "Cannot be authorized"}
   if(verifyHeader(req, res)){
     var lmenu = Menu;
@@ -139,50 +144,54 @@ app.get('/menu',(req, res) => {
       lmenu = KidsMenu;
     res.send({
       lmenu
-     })
-    ,(e) => {
+    }),(e) => {
       res.status(400).send(e);
     }
   }
 });
 
+//Returns slideshow dataset (Advertisement)
 app.get('/adengine/slideshow',(req, res) => {
+  console.log("In slideshow");
   var menuAuth = {"code": "401", "message": "Cannot be authorized"}
   if(verifyHeader(req, res)){
     res.send({
       SlideShow
-     })
-    ,(e) => {
+    }),(e) => {
       res.status(400).send(e);
     }
   }
 });
 
+//Returns flight data, should it move to socket.io?
 app.get('/flightdata',(req, res) => {
+  console.log("In flightdata");
   var menuAuth = {"code": "401", "message": "Cannot be authorized"}
   if(verifyHeader(req, res)){
     res.send({
       FlightData
-     })
-    ,(e) => {
+    }),(e) => {
       res.status(400).send(e);
     }
   }
 });
 
+//Returns popularmedia dataset
 app.get('/media/popularmedia',(req, res) => {
+  console.log("In PopularMedia");
   var menuAuth = {"code": "401", "message": "Cannot be authorized"}
   if(verifyHeader(req, res)){
     res.send({
       PopularMedia
-     })
-    ,(e) => {
+    }),(e) => {
       res.status(400).send(e);
     }
   }
 });
 
+//Returns movielist, It also checks current langauge and returns the movie list
 app.get('/movielist',(req, res) => {
+  console.log("In Movielist");
   var menuAuth = {"code": "401", "message": "Cannot be authorized"}
   if(verifyHeader(req, res)){
     var lang = _trackIP.getIPLanguage(req.headers.xauth);
@@ -191,13 +200,13 @@ app.get('/movielist',(req, res) => {
       lvMovieList = MovieList_CH;
     res.send({
       lvMovieList
-     })
-    ,(e) => {
+    }),(e) => {
       res.status(400).send(e);
     }
   }
 });
 
+//Function to Verify if the header has xauth and verify using jwt
 function verifyHeader(req, res){
   var menuAuth = {"code": "401", "message": "Cannot be authorized"}
   var processData = true;
@@ -210,14 +219,11 @@ function verifyHeader(req, res){
   if(!processData){
     res.send({
       menuAuth
-     })
-    ,(e) => {
+    }),(e) => {
       res.status(401).send(e);
-    return false;
     }
   }
-
-  return true;
+  return processData;
 }
 
 app.listen(port, ()=> {

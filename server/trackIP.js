@@ -1,3 +1,5 @@
+//Class to track language settings and kids settings
+
 class trackIP{
   constructor(){
     this.iptable = new Object();
@@ -37,6 +39,7 @@ class trackIP{
   }
 
   checkKidsMode(ip){
+    console.log("In checkKidsMode");
     if(this.kidsMode[ip]){
       return true;
     }
