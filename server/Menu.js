@@ -165,12 +165,6 @@ const Menu = {
       ]
     },
     {
-      "menuID": "M009",
-      "text": "kidstxt",
-      "iconURL": "images/menu/kids.ico",
-      "type": "page"
-    },
-    {
       "menuID": "M010",
       "text": "exptxt",
       "iconURL": "images/menu/experience.ico",
@@ -201,6 +195,12 @@ const Menu = {
           "type": "page"
         }
       ]
+    },
+    {
+      "menuID": "M009",
+      "text": "kidstxt",
+      "iconURL": "images/menu/kids.ico",
+      "type": "page"
     },
     {
       "menuID": "M012",

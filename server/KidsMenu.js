@@ -114,21 +114,22 @@ const KidsMenu = {
       "type": "page"
     },
     {
-      "menuID": "M006",
-      "text": "maptxt",
-      "iconURL": "images/menu/map.ico",
-      "type": "page"
-    },
-    {
       "menuID": "M013",
       "text": "learntxt",
       "iconURL": "images/menu/learn.ico",
       "type": "page"
     },
     {
-      "menuID": "M005",
-      "text": "playtxt",
-      "iconURL": "images/menu/play.ico",
+      "menuID": "M004",
+      "text": "surftxt",
+      "iconURL": "images/menu/surf.ico",
+      "type": "link",
+      "URL": ""
+    },
+    {
+      "menuID": "M006",
+      "text": "maptxt",
+      "iconURL": "images/menu/map.ico",
       "type": "page"
     },
     {
@@ -156,13 +157,6 @@ const KidsMenu = {
           "type": "page"
         }
       ]
-    },
-    {
-      "menuID": "M004",
-      "text": "surftxt",
-      "iconURL": "images/menu/surf.ico",
-      "type": "link",
-      "URL": ""
     },
     {
       "menuID": "M010",
@@ -195,6 +189,12 @@ const KidsMenu = {
           "type": "page"
         }
       ]
+    },
+    {
+      "menuID": "M005",
+      "text": "playtxt",
+      "iconURL": "images/menu/play.ico",
+      "type": "page"
     },
     {
       "menuID": "M012",
