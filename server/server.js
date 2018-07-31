@@ -214,11 +214,11 @@ app.get('/movielist',(req, res) => {
 function verifyHeader(req, res){
   var menuAuth = {"code": "401", "message": "Cannot be authorized"}
   var processData = true;
-  if(!req.headers.xauth || req.headers.xauth == ""){
-    processData = false;
-  }else {
-    processData = _hashing.verifyToken(req.headers.xauth);
-  }
+  // if(!req.headers.xauth || req.headers.xauth == ""){
+  //   processData = false;
+  // }else {
+  //   processData = _hashing.verifyToken(req.headers.xauth);
+  // }
 
   if(!processData){
     res.send({
