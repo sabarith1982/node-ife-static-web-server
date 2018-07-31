@@ -55,7 +55,8 @@ app.post('/setlanguage/:lang',(req, res) => {
   _trackIP.setIPandLanguage(xauthtoken, req.params.lang);
   res.set({
     "Access-Control-Allow-Origin": "*",
-    "xauth": xauthtoken
+    "xauth": xauthtoken,
+    "Access-Control-Expose-Headers" : "xauth"
   })
   res.send({
     languageData
@@ -72,7 +73,8 @@ app.post('/search',(req, res) => {
     var dataObj = req.body.data;
     res.set({
       "Access-Control-Allow-Origin": "*",
-      "xauth": req.headers.xauth
+      "xauth": req.headers.xauth,
+      "Access-Control-Expose-Headers" : "xauth"
     })
     res.send({
       searchList
@@ -92,7 +94,8 @@ app.post('/setKidsMode/:password',(req, res) => {
 
     res.set({
       "Access-Control-Allow-Origin": "*",
-      "xauth":req.headers.xauth
+      "xauth":req.headers.xauth,
+      "Access-Control-Expose-Headers" : "xauth"
     })
     res.send({
       menu
@@ -111,7 +114,8 @@ app.post('/resetKidsMode/:password',(req, res) => {
       var menu = Menu;
     res.set({
       "Access-Control-Allow-Origin": "*",
-      "xauth": req.headers.xauth
+      "xauth": req.headers.xauth,
+      "Access-Control-Expose-Headers" : "xauth"
     })
     res.send({
       menu
