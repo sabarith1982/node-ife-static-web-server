@@ -47,7 +47,7 @@ const InteractiveEnglish = {
       "alerttxt": "Alert",
       "profiletxt": "Profile",
       "feedbacktxt": "Feedback",
-      "mmhtxt": "My Media History",
+      "mymedialibrarytxt": "My Media History",
       "aboutmenutxt": "About"
     }
 }

@@ -8,6 +8,11 @@ const KidsMenu = {
       "iconURL": ""
     },
     {
+      "menuID": "DM010",
+      "text": "exitkidstxt",
+      "iconURL": ""
+    },
+    {
       "menuID": "DM002",
       "text": "connecttxt",
       "iconURL": ""
@@ -34,7 +39,7 @@ const KidsMenu = {
     },
     {
       "menuID": "DM007",
-      "text": "abouttxt",
+      "text": "aboutmenutxt",
       "iconURL": ""
     },
     {

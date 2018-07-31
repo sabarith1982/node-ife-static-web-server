@@ -47,7 +47,7 @@ const InteractiveChinese = {
       "alerttxt": "提醒",
       "profiletxt": "个人档案",
       "feedbacktxt": "意见和反馈",
-      "mmhtxt": "浏览记录",
+      "mymedialibrarytxt": "浏览记录",
       "aboutmenutxt": "关于"
     }
 }

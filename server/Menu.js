@@ -34,7 +34,7 @@ const Menu = {
     },
     {
       "menuID": "DM007",
-      "text": "abouttxt",
+      "text": "aboutmenutxt",
       "iconURL": ""
     },
     {
@@ -230,5 +230,4 @@ const Menu = {
     }
   ]
 }
-
 module.exports = {Menu};
