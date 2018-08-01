@@ -48,7 +48,24 @@ const InteractiveEnglish = {
       "profiletxt": "Profile",
       "feedbacktxt": "Feedback",
       "mymedialibrarytxt": "My Media History",
-      "aboutmenutxt": "About"
+      "aboutmenutxt": "About",
+  	  "hometxt": "Home",
+  	  "watchnowtxt":"Watch Now",
+  	  "playtrailertxt": "Play Trailer",
+  	  "addtowatchlisttxt": "Add To Watchlist",
+  	  "descriptiontxt": "Description",
+  	  "genrestxt": "Genres",
+  	  "directortxt": "Director",
+  	  "casttxt": "Cast",
+  	  "searchtexttxt": "Please type text to search",
+  	  "searchflighttimetxt": "Short than remaining flight time",
+  	  "searchaudiolanguagetxt": "Audio track language",
+  	  "searchsubtitlelanguagetxt": "Subtitle language",
+  	  "searchgenrestxt": "Genres",
+  	  "searchuserratingstxt": "User ratings",
+  	  "searchtxt": "Search",
+  	  "searchresultstxt": "Search results",
+  	  "searchfoundtxt": "found"
     }
 }
 
