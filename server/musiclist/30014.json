@@ -1,0 +1,142 @@
+{
+  "30014": {
+    "code": "200",
+    "message": "success",
+    "music": [
+      {
+        "mid": "3001401",
+        "title": "Song for the Saints",
+        "artist": "Kenny Chesney",
+        "year": "2018",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:03:38",
+        "audioURL": "audio/3001401.mp3"
+      },
+      {
+        "mid": "3001402",
+        "title": "Every Heart",
+        "artist": "Kenny Chesney",
+        "year": "2018",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:03:54",
+        "audioURL": "audio/3001402.mp3"
+      },
+      {
+        "mid": "3001403",
+        "title": "Get Along",
+        "artist": "Kenny Chesney",
+        "year": "2018",
+        "userrating": "5.0",
+        "genres": "Country",
+        "duration": "00:03:19",
+        "audioURL": "audio/3001403.mp3"
+      },
+      {
+        "mid": "3001404",
+        "title": "Pirate Song",
+        "artist": "Kenny Chesney",
+        "year": "2018",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:04:18",
+        "audioURL": "audio/3001404.mp3"
+      },
+      {
+        "mid": "3001405",
+        "title": "Love for Love City",
+        "artist": "Kenny Chesney,Ziggy Marley",
+        "year": "2018",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:03:49",
+        "audioURL": "audio/3001405.mp3"
+      },
+      {
+        "mid": "3001406",
+        "title": "Ends of the Earth",
+        "artist": "Kenny Chesney",
+        "year": "2018",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:04:24",
+        "audioURL": "audio/3001406.mp3"
+      },
+      {
+        "mid": "3001407",
+        "title": "Gulf Moon",
+        "artist": "Kenny Chesney",
+        "year": "2018",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:03:18",
+        "audioURL": "audio/3001407.mp3"
+      },
+      {
+        "mid": "3001408",
+        "title": "Island Rain",
+        "artist": "Kenny Chesney",
+        "year": "2018",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:04:27",
+        "audioURL": "audio/3001408.mp3"
+      },
+      {
+        "mid": "3001409",
+        "title": "Trying to Reason With Hurricane Season",
+        "artist": "Kenny Chesney,Jimmy Buffett",
+        "year": "2018",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:04:09",
+        "audioURL": "audio/3001409.mp3"
+      },
+      {
+        "mid": "3001410",
+        "title": "We're All Here",
+        "artist": "Kenny Chesney",
+        "year": "2018",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:04:15",
+        "audioURL": "audio/3001410.mp3"
+      },
+      {
+        "mid": "3001411",
+        "title": "Better Boat",
+        "artist": "Kenny Chesney,Mindy Smith",
+        "year": "2018",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:03:44",
+        "audioURL": "audio/3001411.mp3"
+      }
+    ],
+    "data": {
+      "listid": "30014",
+      "imageURL": "images/media/music/30014.jpg",
+      "title": "Songs for the Saints",
+      "type": "album",
+      "artist": "Kenny Chesney",
+      "year": "2018",
+      "duration": "00:43:00",
+      "userrating": "3.9",
+      "genres": "Country",
+      "musiclist": [
+        3001401,
+        3001402,
+        3001403,
+        3001404,
+        3001405,
+        3001406,
+        3001407,
+        3001408,
+        3001409,
+        3001410,
+        3001411
+      ]
+    }
+  }
+}

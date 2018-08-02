@@ -1,0 +1,32 @@
+{
+  "30021": {
+    "code": "200",
+    "message": "success",
+    "music": [
+      {
+        "mid": "3002101",
+        "title": "All Night",
+        "artist": "COTIS",
+        "year": "2018",
+        "userrating": "5.0",
+        "genres": "Pop",
+        "duration": "00:03:23",
+        "audioURL": "audio/3002101.mp3"
+      }
+    ],
+    "data": {
+      "listid": "30021",
+      "imageURL": "images/media/music/30021.jpg",
+      "title": "All Night",
+      "type": "album",
+      "artist": "COTIS",
+      "year": "2018",
+      "duration": "00:03:23",
+      "userrating": "5.0",
+      "genres": "Pop",
+      "musiclist": [
+        3002101
+      ]
+    }
+  }
+}

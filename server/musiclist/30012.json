@@ -1,0 +1,175 @@
+{
+  "30012": {
+    "code": "200",
+    "message": "success",
+    "music": [
+      {
+        "mid": "3001201",
+        "title": "Finally Here",
+        "artist": "Flo Rida",
+        "year": "2009",
+        "userrating": "0.3",
+        "genres": "Rap",
+        "duration": "00:04:02",
+        "audioURL": "audio/3001201.mp3"
+      },
+      {
+        "mid": "3001202",
+        "title": "Jump",
+        "artist": "Flo Rida,Nelly Furtado",
+        "year": "2009",
+        "userrating": "1.2",
+        "genres": "Rap",
+        "duration": "00:03:28",
+        "audioURL": "audio/3001202.mp3"
+      },
+      {
+        "mid": "3001203",
+        "title": "Gotta Get It",
+        "artist": "Flo Rida",
+        "year": "2009",
+        "userrating": "0.2",
+        "genres": "Rap",
+        "duration": "00:04:00",
+        "audioURL": "audio/3001203.mp3"
+      },
+      {
+        "mid": "3001204",
+        "title": "Shone",
+        "artist": "Flo Rida,Pleasure P",
+        "year": "2009",
+        "userrating": "0.2",
+        "genres": "Rap",
+        "duration": "00:04:15",
+        "audioURL": "audio/3001204.mp3"
+      },
+      {
+        "mid": "3001205",
+        "title": "Right Round",
+        "artist": "Flo Rida",
+        "year": "2009",
+        "userrating": "5.0",
+        "genres": "Rap",
+        "duration": "00:03:24",
+        "audioURL": "audio/3001205.mp3"
+      },
+      {
+        "mid": "3001206",
+        "title": "R.O.O.T.S.",
+        "artist": "Flo Rida",
+        "year": "2009",
+        "userrating": "0.3",
+        "genres": "Rap",
+        "duration": "00:03:45",
+        "audioURL": "audio/3001206.mp3"
+      },
+      {
+        "mid": "3001207",
+        "title": "Be On You",
+        "artist": "Flo Rida,Ne-Yo",
+        "year": "2009",
+        "userrating": "1.1",
+        "genres": "Rap",
+        "duration": "00:04:03",
+        "audioURL": "audio/3001207.mp3"
+      },
+      {
+        "mid": "3001208",
+        "title": "Mind On My Money",
+        "artist": "Flo Rida",
+        "year": "2009",
+        "userrating": "0.3",
+        "genres": "Rap",
+        "duration": "00:03:31",
+        "audioURL": "audio/3001208.mp3"
+      },
+      {
+        "mid": "3001209",
+        "title": "Available",
+        "artist": "Flo Rida,Akon",
+        "year": "2009",
+        "userrating": "0.3",
+        "genres": "Rap",
+        "duration": "00:04:24",
+        "audioURL": "audio/3001209.mp3"
+      },
+      {
+        "mid": "3001210",
+        "title": "Touch Me",
+        "artist": "Flo Rida",
+        "year": "2009",
+        "userrating": "0.3",
+        "genres": "Rap",
+        "duration": "00:03:10",
+        "audioURL": "audio/3001210.mp3"
+      },
+      {
+        "mid": "3001211",
+        "title": "Never",
+        "artist": "Flo Rida",
+        "year": "2009",
+        "userrating": "0.3",
+        "genres": "Rap",
+        "duration": "00:04:21",
+        "audioURL": "audio/3001211.mp3"
+      },
+      {
+        "mid": "3001212",
+        "title": "Sugar",
+        "artist": "Flo Rida,Wynter",
+        "year": "2009",
+        "userrating": "2.3",
+        "genres": "Rap",
+        "duration": "00:04:12",
+        "audioURL": "audio/3001212.mp3"
+      },
+      {
+        "mid": "3001213",
+        "title": "Rewind",
+        "artist": "Flo Rida,Wyclef Jean",
+        "year": "2009",
+        "userrating": "0.3",
+        "genres": "Rap",
+        "duration": "00:04:29",
+        "audioURL": "audio/3001213.mp3"
+      },
+      {
+        "mid": "3001214",
+        "title": "Yayo",
+        "artist": "Flo Rida",
+        "year": "2009",
+        "userrating": "0.3",
+        "genres": "Rap",
+        "duration": "00:07:53",
+        "audioURL": "audio/3001214.mp3"
+      }
+    ],
+    "data": {
+      "listid": "30012",
+      "imageURL": "images/media/music/30012.jpg",
+      "title": "R.O.O.T.S. (Route Of Overcoming The Struggle)",
+      "type": "album",
+      "artist": "Flo Rida",
+      "year": "2009",
+      "duration": "00:58:00",
+      "userrating": "4.2",
+      "genres": "Rap",
+      "musiclist": [
+        3001201,
+        3001202,
+        3001203,
+        3001204,
+        3001205,
+        3001206,
+        3001207,
+        3001208,
+        3001209,
+        3001210,
+        3001211,
+        3001212,
+        3001213,
+        3001214
+      ]
+    }
+  }
+}

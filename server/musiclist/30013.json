@@ -1,0 +1,186 @@
+{
+  "30013": {
+    "code": "200",
+    "message": "success",
+    "music": [
+      {
+        "mid": "3001301",
+        "title": "...Ready For It?",
+        "artist": "Taylor Swift",
+        "year": "2017",
+        "userrating": "3.0",
+        "genres": "Country,Pop",
+        "duration": "00:03:28",
+        "audioURL": "audio/3001301.mp3"
+      },
+      {
+        "mid": "3001302",
+        "title": "End Game",
+        "artist": "Taylor Swift,Ed Sheeran,Future",
+        "year": "2017",
+        "userrating": "3.3",
+        "genres": "Country,Pop",
+        "duration": "00:04:04",
+        "audioURL": "audio/3001302.mp3"
+      },
+      {
+        "mid": "3001303",
+        "title": "I Did Something Bad",
+        "artist": "Taylor Swift",
+        "year": "2017",
+        "userrating": "1.5",
+        "genres": "Country,Pop",
+        "duration": "00:03:58",
+        "audioURL": "audio/3001303.mp3"
+      },
+      {
+        "mid": "3001304",
+        "title": "Don't Blame Me",
+        "artist": "Taylor Swift",
+        "year": "2017",
+        "userrating": "1.7",
+        "genres": "Country,Pop",
+        "duration": "00:03:56",
+        "audioURL": "audio/3001304.mp3"
+      },
+      {
+        "mid": "3001305",
+        "title": "Delicate",
+        "artist": "Taylor Swift",
+        "year": "2017",
+        "userrating": "3.9",
+        "genres": "Country,Pop",
+        "duration": "00:03:52",
+        "audioURL": "audio/3001305.mp3"
+      },
+      {
+        "mid": "3001306",
+        "title": "Look What You Made Me Do",
+        "artist": "Taylor Swift",
+        "year": "2017",
+        "userrating": "5.0",
+        "genres": "Country,Pop",
+        "duration": "00:03:31",
+        "audioURL": "audio/3001306.mp3"
+      },
+      {
+        "mid": "3001307",
+        "title": "So It Goes...",
+        "artist": "Taylor Swift",
+        "year": "2017",
+        "userrating": "1.3",
+        "genres": "Country,Pop",
+        "duration": "00:03:47",
+        "audioURL": "audio/3001307.mp3"
+      },
+      {
+        "mid": "3001308",
+        "title": "Gorgeous",
+        "artist": "Taylor Swift",
+        "year": "2017",
+        "userrating": "1.9",
+        "genres": "Country,Pop",
+        "duration": "00:03:29",
+        "audioURL": "audio/3001308.mp3"
+      },
+      {
+        "mid": "3001309",
+        "title": "Gataway Car",
+        "artist": "Taylor Swift",
+        "year": "2017",
+        "userrating": "1.7",
+        "genres": "Country,Pop",
+        "duration": "00:03:53",
+        "audioURL": "audio/3001309.mp3"
+      },
+      {
+        "mid": "3001310",
+        "title": "King Of My Heart",
+        "artist": "Taylor Swift",
+        "year": "2017",
+        "userrating": "1.3",
+        "genres": "Country,Pop",
+        "duration": "00:03:34",
+        "audioURL": "audio/3001310.mp3"
+      },
+      {
+        "mid": "3001311",
+        "title": "Dancing With Our Hands Tied",
+        "artist": "Taylor Swift",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Country,Pop",
+        "duration": "00:03:31",
+        "audioURL": "audio/3001311.mp3"
+      },
+      {
+        "mid": "3001312",
+        "title": "Dress",
+        "artist": "Taylor Swift",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Country,Pop",
+        "duration": "00:03:50",
+        "audioURL": "audio/3001312.mp3"
+      },
+      {
+        "mid": "3001313",
+        "title": "This Is Why We Can't Have Nice Things",
+        "artist": "Taylor Swift",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Country,Pop",
+        "duration": "00:03:27",
+        "audioURL": "audio/3001313.mp3"
+      },
+      {
+        "mid": "3001314",
+        "title": "Call It What You Want",
+        "artist": "Taylor Swift",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Country,Pop",
+        "duration": "00:03:23",
+        "audioURL": "audio/3001314.mp3"
+      },
+      {
+        "mid": "3001315",
+        "title": "New Year's Day",
+        "artist": "Taylor Swift",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Country,Pop",
+        "duration": "00:03:55",
+        "audioURL": "audio/3001315.mp3"
+      }
+    ],
+    "data": {
+      "listid": "30013",
+      "imageURL": "images/media/music/30013.jpg",
+      "title": "reputation",
+      "type": "album",
+      "artist": "Taylor Swift",
+      "year": "2017",
+      "duration": "00:55:00",
+      "userrating": "4.9",
+      "genres": "Country,Pop",
+      "musiclist": [
+        3001301,
+        3001302,
+        3001303,
+        3001304,
+        3001305,
+        3001306,
+        3001307,
+        3001308,
+        3001309,
+        3001310,
+        3001311,
+        3001312,
+        3001313,
+        3001314,
+        3001315
+      ]
+    }
+  }
+}

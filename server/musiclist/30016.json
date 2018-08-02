@@ -1,0 +1,153 @@
+{
+  "30016": {
+    "code": "200",
+    "message": "success",
+    "music": [
+      {
+        "mid": "3001601",
+        "title": "Sleep Without You",
+        "artist": "Brett Young",
+        "year": "2017",
+        "userrating": "2.0",
+        "genres": "Country",
+        "duration": "00:03:07",
+        "audioURL": "audio/3001601.mp3"
+      },
+      {
+        "mid": "3001602",
+        "title": "Close Enough",
+        "artist": "Brett Young",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:03:06",
+        "audioURL": "audio/3001602.mp3"
+      },
+      {
+        "mid": "3001603",
+        "title": "Like I Loved You",
+        "artist": "Brett Young",
+        "year": "2017",
+        "userrating": "4.4",
+        "genres": "Country",
+        "duration": "00:03:27",
+        "audioURL": "audio/3001603.mp3"
+      },
+      {
+        "mid": "3001604",
+        "title": "In Case You Didn't Know",
+        "artist": "Brett Young",
+        "year": "2017",
+        "userrating": "5.0",
+        "genres": "Country",
+        "duration": "00:03:44",
+        "audioURL": "audio/3001604.mp3"
+      },
+      {
+        "mid": "3001605",
+        "title": "Olivia Mae",
+        "artist": "Brett Young",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:03:42",
+        "audioURL": "audio/3001605.mp3"
+      },
+      {
+        "mid": "3001606",
+        "title": "Left Side of Leavin'",
+        "artist": "Brett Young",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:03:34",
+        "audioURL": "audio/3001606.mp3"
+      },
+      {
+        "mid": "3001607",
+        "title": "You Ain't Here to Kiss Me",
+        "artist": "Brett Young",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:03:37",
+        "audioURL": "audio/3001607.mp3"
+      },
+      {
+        "mid": "3001608",
+        "title": "Back on the Wagon",
+        "artist": "Brett Young",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:03:33",
+        "audioURL": "audio/3001608.mp3"
+      },
+      {
+        "mid": "3001609",
+        "title": "Makin' Me Say",
+        "artist": "Brett Young",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:03:08",
+        "audioURL": "audio/3001609.mp3"
+      },
+      {
+        "mid": "3001610",
+        "title": "Memory Won't Let Me",
+        "artist": "Brett Young",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:03:31",
+        "audioURL": "audio/3001610.mp3"
+      },
+      {
+        "mid": "3001611",
+        "title": "Beautiful Believer",
+        "artist": "Brett Young",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:03:32",
+        "audioURL": "audio/3001611.mp3"
+      },
+      {
+        "mid": "3001612",
+        "title": "Mercy",
+        "artist": "Brett Young",
+        "year": "2017",
+        "userrating": "4.2",
+        "genres": "Country",
+        "duration": "00:03:37",
+        "audioURL": "audio/3001612.mp3"
+      }
+    ],
+    "data": {
+      "listid": "30016",
+      "imageURL": "images/media/music/30016.jpg",
+      "title": "Brett Young",
+      "type": "album",
+      "artist": "Brett Young",
+      "year": "2018",
+      "duration": "00:41:00",
+      "userrating": "4.2",
+      "genres": "Country",
+      "musiclist": [
+        3001601,
+        3001602,
+        3001603,
+        3001604,
+        3001605,
+        3001606,
+        3001607,
+        3001608,
+        3001609,
+        3001610,
+        3001611,
+        3001612
+      ]
+    }
+  }
+}

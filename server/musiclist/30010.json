@@ -1,0 +1,186 @@
+{
+  "30010": {
+    "code": "200",
+    "message": "success",
+    "music": [
+      {
+        "mid": "3001001",
+        "title": "Feel Free",
+        "artist": "RL Grime",
+        "year": "2018",
+        "userrating": "3.5",
+        "genres": "Pop",
+        "duration": "00:04:12",
+        "audioURL": "audio/3001001.mp3"
+      },
+      {
+        "mid": "3001002",
+        "title": "Shrine",
+        "artist": "RL Grime,Freya Ridings",
+        "year": "2018",
+        "userrating": "3.5",
+        "genres": "Pop",
+        "duration": "00:04:43",
+        "audioURL": "audio/3001001.mp3"
+      },
+      {
+        "mid": "3001003",
+        "title": "Light Me Up",
+        "artist": "RL Grime,Miguel,Jujia Michaels",
+        "year": "2018",
+        "userrating": "3.5",
+        "genres": "Pop",
+        "duration": "00:03:21",
+        "audioURL": "audio/3001001.mp3"
+      },
+      {
+        "mid": "3001004",
+        "title": "Undo",
+        "artist": "RL Grime,Jeremih,Tory Lanez",
+        "year": "2018",
+        "userrating": "3.5",
+        "genres": "Pop",
+        "duration": "00:03:28",
+        "audioURL": "audio/3001001.mp3"
+      },
+      {
+        "mid": "3001005",
+        "title": "Take It Away",
+        "artist": "RL Grime,Ty Dolla $ign,TK Kravitz",
+        "year": "2018",
+        "userrating": "3.5",
+        "genres": "Pop",
+        "duration": "00:03:56",
+        "audioURL": "audio/3001001.mp3"
+      },
+      {
+        "mid": "3001006",
+        "title": "OMG",
+        "artist": "RL Grime,Joji,Chief Keef",
+        "year": "2018",
+        "userrating": "3.5",
+        "genres": "Pop",
+        "duration": "00:03:18",
+        "audioURL": "audio/3001001.mp3"
+      },
+      {
+        "mid": "3001007",
+        "title": "Shoulda",
+        "artist": "RL Grime",
+        "year": "2018",
+        "userrating": "3.5",
+        "genres": "Pop",
+        "duration": "00:03:52",
+        "audioURL": "audio/3001001.mp3"
+      },
+      {
+        "mid": "3001008",
+        "title": "Reims",
+        "artist": "RL Grime",
+        "year": "2018",
+        "userrating": "3.5",
+        "genres": "Pop",
+        "duration": "00:03:55",
+        "audioURL": "audio/3001001.mp3"
+      },
+      {
+        "mid": "3001009",
+        "title": "Pressure",
+        "artist": "RL Grime",
+        "year": "2018",
+        "userrating": "3.5",
+        "genres": "Pop",
+        "duration": "00:03:29",
+        "audioURL": "audio/3001001.mp3"
+      },
+      {
+        "mid": "3001010",
+        "title": "Era",
+        "artist": "RL Grime",
+        "year": "2018",
+        "userrating": "3.5",
+        "genres": "Pop",
+        "duration": "00:04:09",
+        "audioURL": "audio/3001001.mp3"
+      },
+      {
+        "mid": "3001011",
+        "title": "Run For Your Life (Interlude)",
+        "artist": "RL Grime",
+        "year": "2018",
+        "userrating": "3.5",
+        "genres": "Pop",
+        "duration": "00:04:09",
+        "audioURL": "audio/3001001.mp3"
+      },
+      {
+        "mid": "3001012",
+        "title": "I Wanna Know",
+        "artist": "RL Grime,Daya",
+        "year": "2018",
+        "userrating": "3.5",
+        "genres": "Pop",
+        "duration": "00:04:09",
+        "audioURL": "audio/3001001.mp3"
+      },
+      {
+        "mid": "3001013",
+        "title": "UCLA",
+        "artist": "RL Grime,24hrs",
+        "year": "2018",
+        "userrating": "3.5",
+        "genres": "Pop",
+        "duration": "00:04:09",
+        "audioURL": "audio/3001001.mp3"
+      },
+      {
+        "mid": "3001014",
+        "title": "Rainet",
+        "artist": "RL Grime",
+        "year": "2018",
+        "userrating": "",
+        "genres": "Pop",
+        "duration": "00:04:09",
+        "audioURL": "audio/3001001.mp3"
+      },
+      {
+        "mid": "3001015",
+        "title": "Atoms",
+        "artist": "RL Grime,Jeremy Zucker",
+        "year": "2018",
+        "userrating": "3.5",
+        "genres": "Pop",
+        "duration": "00:04:09",
+        "audioURL": "audio/3001001.mp3"
+      }
+    ],
+    "data": {
+      "listid": "30010",
+      "imageURL": "images/media/music/30010.jpg",
+      "title": "NOVA",
+      "type": "album",
+      "artist": "RL Grime",
+      "year": "2018",
+      "duration": "00:55:00",
+      "userrating": "4.3",
+      "genres": "Pop",
+      "musiclist": [
+        3001001,
+        3001002,
+        3001003,
+        3001004,
+        3001005,
+        3001006,
+        3001007,
+        3001008,
+        3001009,
+        3001010,
+        3001011,
+        3001012,
+        3001013,
+        3001014,
+        3001015
+      ]
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "30011": {
+    "code": "200",
+    "message": "success",
+    "music": [
+      {
+        "mid": "3001101",
+        "title": "Just Dance",
+        "artist": "Lady Gaga,Colby O'Donis",
+        "year": "2008",
+        "userrating": "5.0",
+        "genres": "Pop",
+        "duration": "00:04:01",
+        "audioURL": "audio/3001101.mp3"
+      },
+      {
+        "mid": "3001102",
+        "title": "LoveGame",
+        "artist": "Lady Gaga",
+        "year": "2008",
+        "userrating": "2.0",
+        "genres": "Pop",
+        "duration": "00:03:36",
+        "audioURL": "audio/3001102.mp3"
+      },
+      {
+        "mid": "3001103",
+        "title": "Paparazzi",
+        "artist": "Lady Gaga",
+        "year": "2008",
+        "userrating": "2.5",
+        "genres": "Pop",
+        "duration": "00:03:28",
+        "audioURL": "audio/3001103.mp3"
+      },
+      {
+        "mid": "3001104",
+        "title": "Poker Face",
+        "artist": "Lady Gaga",
+        "year": "2008",
+        "userrating": "5.0",
+        "genres": "Pop",
+        "duration": "00:03:57",
+        "audioURL": "audio/3001104.mp3"
+      },
+      {
+        "mid": "3001105",
+        "title": "Eh, Eh (Nothing Else I Can Say)",
+        "artist": "Lady Gaga",
+        "year": "2008",
+        "userrating": "1.0",
+        "genres": "Pop",
+        "duration": "00:02:55",
+        "audioURL": "audio/3001105.mp3"
+      },
+      {
+        "mid": "3001106",
+        "title": "Beautiful, Dirty, Rich",
+        "artist": "Lady Gaga",
+        "year": "2008",
+        "userrating": "0.6",
+        "genres": "Pop",
+        "duration": "00:02:52",
+        "audioURL": "audio/3001106.mp3"
+      },
+      {
+        "mid": "3001107",
+        "title": "The Fame",
+        "artist": "Lady Gaga",
+        "year": "2008",
+        "userrating": "0.5",
+        "genres": "Pop",
+        "duration": "00:03:42",
+        "audioURL": "audio/3001107.mp3"
+      },
+      {
+        "mid": "3001108",
+        "title": "Money Honey",
+        "artist": "Lady Gaga",
+        "year": "2008",
+        "userrating": "0.5",
+        "genres": "Pop",
+        "duration": "00:02:50",
+        "audioURL": "audio/3001108.mp3"
+      },
+      {
+        "mid": "3001109",
+        "title": "Starstruck",
+        "artist": "Lady Gaga,Space Cowboy,Flo Rida",
+        "year": "2008",
+        "userrating": "1.5",
+        "genres": "Pop",
+        "duration": "00:03:37",
+        "audioURL": "audio/3001109.mp3"
+      },
+      {
+        "mid": "3001110",
+        "title": "Boys Boys Boys",
+        "artist": "Lady Gaga",
+        "year": "2008",
+        "userrating": "0.6",
+        "genres": "Pop",
+        "duration": "00:03:20",
+        "audioURL": "audio/3001110.mp3"
+      },
+      {
+        "mid": "3001111",
+        "title": "Paper Gangsta",
+        "artist": "Lady Gaga",
+        "year": "2008",
+        "userrating": "0.5",
+        "genres": "Pop",
+        "duration": "00:04:23",
+        "audioURL": "audio/3001111.mp3"
+      },
+      {
+        "mid": "3001112",
+        "title": "Brown Eyes",
+        "artist": "Lady Gaga",
+        "year": "2008",
+        "userrating": "2.3",
+        "genres": "Pop",
+        "duration": "00:04:03",
+        "audioURL": "audio/3001112.mp3"
+      },
+      {
+        "mid": "3001113",
+        "title": "I Like It Rough",
+        "artist": "Lady Gaga",
+        "year": "2008",
+        "userrating": "1.5",
+        "genres": "Pop",
+        "duration": "00:03:22",
+        "audioURL": "audio/3001113.mp3"
+      },
+      {
+        "mid": "3001114",
+        "title": "Summerboy",
+        "artist": "Lady Gaga",
+        "year": "2008",
+        "userrating": "0.3",
+        "genres": "Pop",
+        "duration": "00:04:13",
+        "audioURL": "audio/3001114.mp3"
+      }
+    ],
+    "data": {
+      "listid": "30011",
+      "imageURL": "images/media/music/30011.jpg",
+      "title": "The Fame",
+      "type": "album",
+      "artist": "Lady Gaga",
+      "year": "2008",
+      "duration": "00:50:00",
+      "userrating": "4.8",
+      "genres": "Pop",
+      "musiclist": [
+        3001101,
+        3001102,
+        3001103,
+        3001104,
+        3001105,
+        3001106,
+        3001107,
+        3001108,
+        3001109,
+        3001110,
+        3001111,
+        3001112,
+        3001113,
+        3001114
+      ]
+    }
+  }
+}

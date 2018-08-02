@@ -1,0 +1,87 @@
+{
+  "30015": {
+    "code": "200",
+    "message": "success",
+    "music": [
+      {
+        "mid": "3001501",
+        "title": "That's It",
+        "artist": "Bebe Rexha,Gucci Mane,2 Chainz",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Pop",
+        "duration": "00:03:27",
+        "audioURL": "audio/3001501.mp3"
+      },
+      {
+        "mid": "3001502",
+        "title": "I Got Time",
+        "artist": "Bebe Rexha",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Pop",
+        "duration": "00:03:50",
+        "audioURL": "audio/3001502.mp3"
+      },
+      {
+        "mid": "3001503",
+        "title": "The Way I Are (Dance With Somebody)",
+        "artist": "Bebe Rexha,Lil Wayne",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Pop",
+        "duration": "00:03:07",
+        "audioURL": "audio/3001503.mp3"
+      },
+      {
+        "mid": "3001504",
+        "title": "(Not) The One",
+        "artist": "Bebe Rexha",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Pop",
+        "duration": "00:03:01",
+        "audioURL": "audio/3001504.mp3"
+      },
+      {
+        "mid": "3001505",
+        "title": "Comfortable",
+        "artist": "Bebe Rexha,Kranium",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Pop",
+        "duration": "00:03:24",
+        "audioURL": "audio/3001505.mp3"
+      },
+      {
+        "mid": "3001506",
+        "title": "Meant to Be",
+        "artist": "Bebe Rexha,Florida Georgia Line",
+        "year": "2017",
+        "userrating": "5.0",
+        "genres": "Pop",
+        "duration": "00:02:43",
+        "audioURL": "audio/3001506.mp3"
+      }
+    ],
+    "data": {
+      "listid": "30015",
+      "imageURL": "images/media/music/30015.jpg",
+      "title": "All Your Fault: Pt. 2",
+      "type": "album",
+      "artist": "Bebe Rexha",
+      "year": "2017",
+      "duration": "00:19:00",
+      "userrating": "3.7",
+      "genres": "Pop",
+      "musiclist": [
+        3001501,
+        3001502,
+        3001503,
+        3001504,
+        3001505,
+        3001506
+      ]
+    }
+  }
+}

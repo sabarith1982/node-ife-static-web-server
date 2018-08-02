@@ -1,0 +1,131 @@
+{
+  "30018": {
+    "code": "200",
+    "message": "success",
+    "music": [
+      {
+        "mid": "3001801",
+        "title": "Mr. Misunderstood",
+        "artist": "Eric Church",
+        "year": "2015",
+        "userrating": "3.0",
+        "genres": "Country",
+        "duration": "00:05:19",
+        "audioURL": "audio/3001801.mp3"
+      },
+      {
+        "mid": "3001802",
+        "title": "Mistress Named Music",
+        "artist": "Eric Church",
+        "year": "2015",
+        "userrating": "1.8",
+        "genres": "Country",
+        "duration": "00:05:22",
+        "audioURL": "audio/3001802.mp3"
+      },
+      {
+        "mid": "3001803",
+        "title": "Chattanooga Lucy",
+        "artist": "Eric Church",
+        "year": "2015",
+        "userrating": "1.8",
+        "genres": "Country",
+        "duration": "00:03:22",
+        "audioURL": "audio/3001803.mp3"
+      },
+      {
+        "mid": "3001804",
+        "title": "Mixed Drinks About Feelings",
+        "artist": "Eric Church,Susan Tedeschi",
+        "year": "2015",
+        "userrating": "2.0",
+        "genres": "Country",
+        "duration": "00:02:58",
+        "audioURL": "audio/3001804.mp3"
+      },
+      {
+        "mid": "3001805",
+        "title": "Knives Of New Orleans",
+        "artist": "Eric Church",
+        "year": "2015",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:04:01",
+        "audioURL": "audio/3001805.mp3"
+      },
+      {
+        "mid": "3001806",
+        "title": "Round Here Buzz",
+        "artist": "Eric Church",
+        "year": "2015",
+        "userrating": "5.0",
+        "genres": "Country",
+        "duration": "00:03:34",
+        "audioURL": "audio/3001806.mp3"
+      },
+      {
+        "mid": "3001807",
+        "title": "Kill A Word",
+        "artist": "Eric Church",
+        "year": "2015",
+        "userrating": "2.8",
+        "genres": "Country",
+        "duration": "00:03:19",
+        "audioURL": "audio/3001807.mp3"
+      },
+      {
+        "mid": "3001808",
+        "title": "Holdin' My Own",
+        "artist": "Eric Church",
+        "year": "2015",
+        "userrating": "2.0",
+        "genres": "Country",
+        "duration": "00:03:55",
+        "audioURL": "audio/3001808.mp3"
+      },
+      {
+        "mid": "3001809",
+        "title": "Record Year",
+        "artist": "Eric Church",
+        "year": "2015",
+        "userrating": "5.0",
+        "genres": "Country",
+        "duration": "00:02:59",
+        "audioURL": "audio/3001809.mp3"
+      },
+      {
+        "mid": "3001810",
+        "title": "Three Year Old",
+        "artist": "Eric Church",
+        "year": "2015",
+        "userrating": "2.0",
+        "genres": "Country",
+        "duration": "00:03:46",
+        "audioURL": "audio/3001810.mp3"
+      }
+    ],
+    "data": {
+      "listid": "30018",
+      "imageURL": "images/media/music/30018.jpg",
+      "title": "Mr. Misunderstood",
+      "type": "album",
+      "artist": "Eric Church",
+      "year": "2015",
+      "duration": "00:38:00",
+      "userrating": "4.2",
+      "genres": "Country",
+      "musiclist": [
+        3001801,
+        3001802,
+        3001803,
+        3001804,
+        3001805,
+        3001806,
+        3001807,
+        3001808,
+        3001809,
+        3001810
+      ]
+    }
+  }
+}

@@ -1,5 +1,6 @@
 var express = require('express');
 var bodyParser = require('body-parser');
+var fs = require('fs');
 
 var {Menu} = require('./Menu.js');
 var {KidsMenu} = require('./KidsMenu.js');
@@ -8,6 +9,9 @@ var {FlightData} = require('./FlightData.js');
 var {PopularMedia} = require('./PopularMedia.js');
 var {MovieList} = require('./movielist.js');
 var {MovieList_CH} = require('./movielist.js');
+
+var {MusicList} = require('./musiclist.js');
+var {MusicList_CH} = require('./musiclist_ch.js');
 
 var {InteractiveEnglish} = require('./InteractiveEnglish.js');
 var {InteractiveChinese} = require('./InteractiveChinese.js');
@@ -68,7 +72,6 @@ app.post('/setlanguage/:lang',(req, res) => {
 //POST API to search media in the media dataset
 app.post('/search',(req, res) => {
   console.log("In search");
-  var menuAuth = {"code": "401", "message": "Cannot be authorized"}
   if(verifyHeader(req, res)){
     var dataObj = req.body.data;
     res.set({
@@ -128,7 +131,6 @@ app.post('/resetKidsMode/:password',(req, res) => {
 //Returns searchoptions required to display on the search dialog
 app.get('/searchoptions',(req, res) => {
   console.log("In searchOptions");
-  var menuAuth = {"code": "401", "message": "Cannot be authorized"}
   if(verifyHeader(req, res)){
     res.send({
       searchOptions
@@ -141,7 +143,6 @@ app.get('/searchoptions',(req, res) => {
 //Returns regular / kids menu based on setting
 app.get('/menu',(req, res) => {
   console.log("In getMenu");
-  var menuAuth = {"code": "401", "message": "Cannot be authorized"}
   if(verifyHeader(req, res)){
     var lmenu = Menu;
     if(_trackIP.checkKidsMode(req.headers.xauth))
@@ -157,7 +158,6 @@ app.get('/menu',(req, res) => {
 //Returns slideshow dataset (Advertisement)
 app.get('/adengine/slideshow',(req, res) => {
   console.log("In slideshow");
-  var menuAuth = {"code": "401", "message": "Cannot be authorized"}
   if(verifyHeader(req, res)){
     res.send({
       SlideShow
@@ -170,7 +170,6 @@ app.get('/adengine/slideshow',(req, res) => {
 //Returns flight data, should it move to socket.io?
 app.get('/flightdata',(req, res) => {
   console.log("In flightdata");
-  var menuAuth = {"code": "401", "message": "Cannot be authorized"}
   if(verifyHeader(req, res)){
     res.send({
       FlightData
@@ -183,7 +182,6 @@ app.get('/flightdata',(req, res) => {
 //Returns popularmedia dataset
 app.get('/media/popularmedia',(req, res) => {
   console.log("In PopularMedia");
-  var menuAuth = {"code": "401", "message": "Cannot be authorized"}
   if(verifyHeader(req, res)){
     res.send({
       PopularMedia
@@ -196,7 +194,6 @@ app.get('/media/popularmedia',(req, res) => {
 //Returns movielist, It also checks current langauge and returns the movie list
 app.get('/movielist',(req, res) => {
   console.log("In Movielist");
-  var menuAuth = {"code": "401", "message": "Cannot be authorized"}
   if(verifyHeader(req, res)){
     var lang = _trackIP.getIPLanguage(req.headers.xauth);
     var lvMovieList = MovieList;
@@ -204,6 +201,42 @@ app.get('/movielist',(req, res) => {
       lvMovieList = MovieList_CH;
     res.send({
       lvMovieList
+    }),(e) => {
+      res.status(400).send(e);
+    }
+  }
+});
+
+//Returns musiclist, It also checks current langauge and returns the music list
+app.get('/musiclist',(req, res) => {
+  console.log("In MusicList");
+  if(verifyHeader(req, res)){
+    var lang = _trackIP.getIPLanguage(req.headers.xauth);
+    var lvMusicList = MusicList;
+    if(lang === 'CH')
+      lvMusicList = MusicList_CH;
+    res.send({
+      lvMusicList
+    }),(e) => {
+      res.status(400).send(e);
+    }
+  }
+});
+
+//Returns requested music MID details
+app.get('/musiclist/:id',(req, res) => {
+  console.log("In MusicList Extract");
+  if(verifyHeader(req, res)){
+    var lang = _trackIP.getIPLanguage(req.headers.xauth);
+    var id = req.params.id;
+    var filename = "./server/musiclist/"+id+".json";
+    var lvMusicList={"code": "404", "message": "Media not found"}
+    if (fs.existsSync(filename))
+      lvMusicList = JSON.parse(fs.readFileSync(filename, 'utf8'));
+    // if(lang === 'CH')
+    //   lvMusicList = MusicList_CH;
+    res.send({
+      lvMusicList
     }),(e) => {
       res.status(400).send(e);
     }

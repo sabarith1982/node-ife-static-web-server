@@ -1,0 +1,142 @@
+{
+  "30017": {
+    "code": "200",
+    "message": "success",
+    "music": [
+      {
+        "mid": "3001701",
+        "title": "Alone Together",
+        "artist": "Dan + Shay",
+        "year": "2018",
+        "userrating": "1.0",
+        "genres": "Country",
+        "duration": "00:02:51",
+        "audioURL": "audio/3001701.mp3"
+      },
+      {
+        "mid": "3001702",
+        "title": "Tequila",
+        "artist": "Dan + Shay",
+        "year": "2018",
+        "userrating": "5.0",
+        "genres": "Country",
+        "duration": "00:03:16",
+        "audioURL": "audio/3001702.mp3"
+      },
+      {
+        "mid": "3001703",
+        "title": "What Keeps You Up At Night",
+        "artist": "Dan + Shay",
+        "year": "2018",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:03:21",
+        "audioURL": "audio/3001703.mp3"
+      },
+      {
+        "mid": "3001704",
+        "title": "All To Myself",
+        "artist": "Dan + Shay",
+        "year": "2018",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:02:49",
+        "audioURL": "audio/3001704.mp3"
+      },
+      {
+        "mid": "3001705",
+        "title": "Keeping Score",
+        "artist": "Dan + Shay,Kelly Clarkson",
+        "year": "2018",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:03:40",
+        "audioURL": "audio/3001705.mp3"
+      },
+      {
+        "mid": "3001706",
+        "title": "Make or Break",
+        "artist": "Dan + Shay",
+        "year": "2018",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:02:35",
+        "audioURL": "audio/3001706.mp3"
+      },
+      {
+        "mid": "3001707",
+        "title": "Speechless",
+        "artist": "Dan + Shay",
+        "year": "2018",
+        "userrating": "3.0",
+        "genres": "Country",
+        "duration": "00:03:33",
+        "audioURL": "audio/3001707.mp3"
+      },
+      {
+        "mid": "3001708",
+        "title": "Stupid Love",
+        "artist": "Dan + Shay",
+        "year": "2018",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:03:14",
+        "audioURL": "audio/3001708.mp3"
+      },
+      {
+        "mid": "3001709",
+        "title": "No Such Thing",
+        "artist": "Dan + Shay",
+        "year": "2018",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:02:59",
+        "audioURL": "audio/3001709.mp3"
+      },
+      {
+        "mid": "3001710",
+        "title": "My Side of the Fence",
+        "artist": "Dan + Shay",
+        "year": "2018",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:03:39",
+        "audioURL": "audio/3001710.mp3"
+      },
+      {
+        "mid": "3001711",
+        "title": "Island Time",
+        "artist": "Dan + Shay",
+        "year": "2018",
+        "userrating": "0.0",
+        "genres": "Country",
+        "duration": "00:03:19",
+        "audioURL": "audio/3001711.mp3"
+      }
+    ],
+    "data": {
+      "listid": "30017",
+      "imageURL": "images/media/music/30017.jpg",
+      "title": "Dan + Shay",
+      "type": "album",
+      "artist": "Dan + Shay",
+      "year": "2018",
+      "duration": "00:35:00",
+      "userrating": "3.6",
+      "genres": "Country",
+      "musiclist": [
+        3001701,
+        3001702,
+        3001703,
+        3001704,
+        3001705,
+        3001706,
+        3001707,
+        3001708,
+        3001709,
+        3001710,
+        3001711
+      ]
+    }
+  }
+}
