@@ -29,7 +29,7 @@ var app = new express();
 var _trackIP = new trackIP();
 var _hashing = new Hashing();
 app.use(bodyParser.json());
-
+app.use(express.static('public'));
 //POST API to setlanguage.
 app.post('/setlanguage/:lang',(req, res) => {
   console.log('In setLanguage IP is: ',req.ip, " :", req.ip.split(':')[3]);
