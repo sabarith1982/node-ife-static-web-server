@@ -65,7 +65,13 @@ const InteractiveChinese = {
 	  "searchgenrestxt": "类型",
 	  "searchuserratingstxt": "评分",
 	  "searchtxt": "搜索",
-	  "searchfoundtxt": "条记录"
+	  "searchfoundtxt": "条记录",
+	  "kidspin": "输入密码以打开儿童模式",
+	  "kidspininfo": "仅限四位数字",
+	  "kidssubmit": "提交",
+	  "kidsquitpin": "输入密码以退出儿童模式",
+	  "kidsquitpininfo": "仅限四位数字。如需帮助请联系空服人员",
+	  "kidsinvalidpwd": "密码错误"
     }
 }
 
