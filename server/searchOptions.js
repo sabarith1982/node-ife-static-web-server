@@ -8,4 +8,14 @@ const searchOptions = {
   }
 }
 
-module.exports = {searchOptions};
+const searchOptions_CH = {
+  "code": "200",
+  "message": "success",
+  "data": {
+    "audio": "中文,英语,日语,韩语,法语,德语,西班牙语",
+    "subtitle": "中文,英语,日语,韩语,法语,德语,西班牙语",
+    "genres": "动作,喜剧,剧情,家庭,恐怖,战争"
+  }
+}
+
+module.exports = {searchOptions, searchOptions_CH};

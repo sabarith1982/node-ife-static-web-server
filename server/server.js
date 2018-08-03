@@ -18,7 +18,7 @@ var {InteractiveEnglish} = require('./InteractiveEnglish.js');
 var {InteractiveChinese} = require('./InteractiveChinese.js');
 var {trackIP} = require('./trackIP.js');
 var {searchList} = require('./searchList.js');
-var {searchOptions} = require('./searchOptions.js');
+var {searchOptions, searchOptions_CH} = require('./searchOptions.js');
 var {Hashing} = require('./hashing.js');
 
 var LanguageArr = new Array();
@@ -133,8 +133,12 @@ app.post('/resetKidsMode/:password',(req, res) => {
 app.get('/searchoptions',(req, res) => {
   console.log("In searchOptions");
   if(verifyHeader(req, res)){
+    var lang = _trackIP.getIPLanguage(req.headers.xauth);
+    var lvsearchOptions = searchOptions;
+    if(lang === 'CH')
+      lvsearchOptions = searchOptions_CH;
     res.send({
-      searchOptions
+      lvsearchOptions
     }),(e) => {
       res.status(400).send(e);
     }
