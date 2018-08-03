@@ -31,14 +31,6 @@ var _trackIP = new trackIP();
 var _hashing = new Hashing();
 app.use(bodyParser.json());
 
-//Serve static files
-app.use(express.static('public'));
-
-//Route the rest of the APIs
-app.get('*', function(req, res) {
-    res.sendFile(path.join(__dirname + '/public/index.html'));
-});
-
 //POST API to setlanguage.
 app.post('/setlanguage/:lang',(req, res) => {
   console.log('In setLanguage IP is: ',req.ip, " :", req.ip.split(':')[3]);
@@ -250,6 +242,14 @@ app.get('/musiclist/:id',(req, res) => {
       res.status(400).send(e);
     }
   }
+});
+
+//Serve static files
+app.use(express.static('public'));
+
+//Route the rest of the APIs
+app.get('*', function(req, res) {
+    res.sendFile(path.join(__dirname + '/public/index.html'));
 });
 
 //Function to Verify if the header has xauth and verify using jwt
