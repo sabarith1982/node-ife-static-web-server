@@ -1,6 +1,7 @@
 var express = require('express');
 var bodyParser = require('body-parser');
 var fs = require('fs');
+const path = require('path');
 
 var {Menu} = require('./Menu.js');
 var {KidsMenu} = require('./KidsMenu.js');
@@ -29,7 +30,15 @@ var app = new express();
 var _trackIP = new trackIP();
 var _hashing = new Hashing();
 app.use(bodyParser.json());
+
+//Serve static files
 app.use(express.static('public'));
+
+//Route the rest of the APIs
+app.get('*', function(req, res) {
+    res.sendFile(path.join(__dirname + '/public/index.html'));
+});
+
 //POST API to setlanguage.
 app.post('/setlanguage/:lang',(req, res) => {
   console.log('In setLanguage IP is: ',req.ip, " :", req.ip.split(':')[3]);
