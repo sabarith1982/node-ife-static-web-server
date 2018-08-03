@@ -20,6 +20,7 @@ const InteractiveChinese = {
       "musictxt": "音乐",
       "abookstxt": "有声读物",
       "readtxt": "阅读",
+      "learntxt": "学习",
       "magazinetxt": "杂志",
       "newspapertxt": "报纸",
       "ebookstxt": "电子书",

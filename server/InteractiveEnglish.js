@@ -20,6 +20,7 @@ const InteractiveEnglish = {
       "musictxt": "Music",
       "abookstxt": "Audio Books",
       "readtxt": "Read",
+      "learntxt": "Learn",
       "magazinetxt": "Magazine",
       "newspapertxt": "News Paper",
       "ebookstxt": "e-Books",
