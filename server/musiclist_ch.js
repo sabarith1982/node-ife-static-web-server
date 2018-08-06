@@ -359,6 +359,31 @@ const MusicList_CH = {
             "musiclist": [
               3002101
             ]
+          },
+          {
+            "listid": "30022",
+            "imageURL": "images/media/music/30022.jpg",
+            "title": "Evolve",
+            "type": "album",
+            "artist": "Imagine Dragons",
+            "year": "2017",
+            "duration": "00:43:00",
+            "userrating": "3.3",
+            "genres": "Alternative Rock",
+            "musiclist": [
+              3002201,
+              3002202,
+              3002203,
+              3002204,
+              3002205,
+              3002206,
+              3002207,
+              3002208,
+              3002209,
+              3002210,
+              3002211,
+              3002212
+            ]
           }
         ]
       },

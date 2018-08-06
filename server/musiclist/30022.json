@@ -1,0 +1,153 @@
+{
+  "30022": {
+    "code": "200",
+    "message": "success",
+    "music": [
+      {
+        "mid": "3002201",
+        "title": "Next To Me",
+        "artist": "Imagine Dragons",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Alternative Rock",
+        "duration": "00:03:50",
+        "audioURL": "audio/3002201.mp3"
+      },
+      {
+        "mid": "3002202",
+        "title": "I Don't Know Why",
+        "artist": "Imagine Dragons",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Alternative Rock",
+        "duration": "00:03:10",
+        "audioURL": "audio/3002202.mp3"
+      },
+      {
+        "mid": "3002203",
+        "title": "Whatever It Takes",
+        "artist": "Imagine Dragons",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Alternative Rock",
+        "duration": "00:03:21",
+        "audioURL": "audio/3002203.mp3"
+      },
+      {
+        "mid": "3002204",
+        "title": "Believer",
+        "artist": "Imagine Dragons",
+        "year": "2017",
+        "userrating": "5.0",
+        "genres": "Alternative Rock",
+        "duration": "00:03:24",
+        "audioURL": "audio/3002204.mp3"
+      },
+      {
+        "mid": "3002205",
+        "title": "Walking The Wire",
+        "artist": "Imagine Dragons",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Alternative Rock",
+        "duration": "00:03:52",
+        "audioURL": "audio/3002205.mp3"
+      },
+      {
+        "mid": "3002206",
+        "title": "Rise Up",
+        "artist": "Imagine Dragons",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Alternative Rock",
+        "duration": "00:03:51",
+        "audioURL": "audio/3002206.mp3"
+      },
+      {
+        "mid": "3002207",
+        "title": "I'll Make It Up To You",
+        "artist": "Imagine Dragons",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Alternative Rock",
+        "duration": "00:04:22",
+        "audioURL": "audio/3002207.mp3"
+      },
+      {
+        "mid": "3002208",
+        "title": "Yesterday",
+        "artist": "Imagine Dragons",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Alternative Rock",
+        "duration": "00:03:25",
+        "audioURL": "audio/3002208.mp3"
+      },
+      {
+        "mid": "3002209",
+        "title": "Mouth Of The River",
+        "artist": "Imagine Dragons",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Alternative Rock",
+        "duration": "00:03:41",
+        "audioURL": "audio/3002209.mp3"
+      },
+      {
+        "mid": "3002210",
+        "title": "Thunder",
+        "artist": "Imagine Dragons",
+        "year": "2017",
+        "userrating": "4.0",
+        "genres": "Alternative Rock",
+        "duration": "00:03:07",
+        "audioURL": "audio/3002210.mp3"
+      },
+      {
+        "mid": "3002211",
+        "title": "Start Over",
+        "artist": "Imagine Dragons",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Alternative Rock",
+        "duration": "00:03:06",
+        "audioURL": "audio/3002211.mp3"
+      },
+      {
+        "mid": "3002212",
+        "title": "Dacing In The Dark",
+        "artist": "Imagine Dragons",
+        "year": "2017",
+        "userrating": "0.0",
+        "genres": "Alternative Rock",
+        "duration": "00:03:53",
+        "audioURL": "audio/3002212.mp3"
+      }
+    ],
+    "data": {
+      "listid": "30022",
+      "imageURL": "images/media/music/30022.jpg",
+      "title": "Evolve",
+      "type": "album",
+      "artist": "Imagine Dragons",
+      "year": "2017",
+      "duration": "00:43:00",
+      "userrating": "3.3",
+      "genres": "Alternative Rock",
+      "musiclist": [
+        3002201,
+        3002202,
+        3002203,
+        3002204,
+        3002205,
+        3002206,
+        3002207,
+        3002208,
+        3002209,
+        3002210,
+        3002211,
+        3002212
+      ]
+    }
+  }
+}
