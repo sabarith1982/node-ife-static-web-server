@@ -1,0 +1,43 @@
+{
+  "30202": {
+    "code": "200",
+    "message": "success",
+    "music": [
+      {
+        "mid": "3020201",
+        "title": "精挑细选1",
+        "artist": "精挑细选歌星1",
+        "year": "2018",
+        "userrating": "3.0",
+        "genres": "Pop",
+        "duration": "00:06:00",
+        "audioURL": "audio/3020201.mp3"
+      },
+      {
+        "mid": "3020202",
+        "title": "精挑细选2",
+        "artist": "精挑细选歌星2",
+        "year": "2018",
+        "userrating": "3.0",
+        "genres": "Pop",
+        "duration": "00:04:00",
+        "audioURL": "audio/3020202.mp3"
+      }
+    ],
+    "data": {
+      "listid": "30202",
+      "imageURL": "images/media/music/30202.jpg",
+      "title": "精挑细选",
+      "type": "playlist",
+      "artist": "",
+      "year": "2018",
+      "duration": "00:10:00",
+      "userrating": "3.0",
+      "genres": "Pop",
+      "musiclist": [
+        3020201,
+        3020202
+      ]
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "30201": {
+    "code": "200",
+    "message": "success",
+    "music": [
+      {
+        "mid": "3020101",
+        "title": "热门歌曲1",
+        "artist": "热门歌星1",
+        "year": "2018",
+        "userrating": "5.0",
+        "genres": "Pop",
+        "duration": "00:06:01",
+        "audioURL": "audio/3020101.mp3"
+      },
+      {
+        "mid": "3020102",
+        "title": "热门歌曲2",
+        "artist": "热门歌星2",
+        "year": "2018",
+        "userrating": "5.0",
+        "genres": "Pop",
+        "duration": "00:04:59",
+        "audioURL": "audio/3020102.mp3"
+      }
+    ],
+    "data": {
+      "listid": "30201",
+      "imageURL": "images/media/music/30201.jpg",
+      "title": "热门歌曲",
+      "type": "playlist",
+      "artist": "",
+      "year": "2018",
+      "duration": "00:11:00",
+      "userrating": "5.0",
+      "genres": "Pop",
+      "musiclist": [
+        3020101,
+        3020102
+      ]
+    }
+  }
+}

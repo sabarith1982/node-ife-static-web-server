@@ -19,6 +19,7 @@ var {InteractiveChinese} = require('./InteractiveChinese.js');
 var {trackIP} = require('./trackIP.js');
 var {searchList} = require('./searchList.js');
 var {searchOptions, searchOptions_CH} = require('./searchOptions.js');
+var {MusicSearch, MusicSearch_CH} = require('./musicsearch.js');
 var {Hashing} = require('./hashing.js');
 
 var LanguageArr = new Array();
@@ -82,6 +83,28 @@ app.post('/search',(req, res) => {
     })
     res.send({
       searchList
+    }),(e) => {
+      res.status(400).send(e);
+    }
+  }
+});
+
+//POST API to search music media in the media dataset
+app.post('/musicsearch',(req, res) => {
+  console.log("In music search");
+  if(verifyHeader(req, res)){
+    var dataObj = req.body.data;
+    var lang = _trackIP.getIPLanguage(req.headers.xauth);
+    var lvMusicSearch = MusicSearch;
+    if(lang === 'CH')
+      lvMusicSearch = MusicSearch_CH;
+    res.set({
+      "Access-Control-Allow-Origin": "*",
+      "xauth": req.headers.xauth,
+      "Access-Control-Expose-Headers" : "xauth"
+    })
+    res.send({
+      lvMusicSearch
     }),(e) => {
       res.status(400).send(e);
     }
