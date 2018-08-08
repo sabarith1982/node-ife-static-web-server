@@ -1,0 +1,54 @@
+{
+  "30204": {
+    "code": "200",
+    "message": "success",
+    "music": [
+      {
+        "mid": "3020401",
+        "title": "引音隐印",
+        "artist": "窦唯,译乐队",
+        "year": "2018-08-07",
+        "userrating": "0.0",
+        "genres": "Pop",
+        "duration": "00:06:00",
+        "audioURL": "audio/3020401.mp3"
+      },
+      {
+        "mid": "3020402",
+        "title": "伤败文明",
+        "artist": "窦唯,译乐队",
+        "year": "2018-08-07",
+        "userrating": "0.0",
+        "genres": "Pop",
+        "duration": "00:06:37",
+        "audioURL": "audio/3020402.mp3"
+      },
+      {
+        "mid": "3020403",
+        "title": "净音息止",
+        "artist": "窦唯,译乐队",
+        "year": "2018-08-07",
+        "userrating": "0.0",
+        "genres": "Pop",
+        "duration": "00:09:19",
+        "audioURL": "audio/3020403.mp3"
+      }
+    ],
+    "data": {
+      "listid": "30204",
+      "imageURL": "images/media/music/30204.jpg",
+      "title": "引音隐印",
+      "type": "album",
+      "artist": "窦唯,译乐队",
+      "year": "2018-08-07",
+      "duration": "00:22:00",
+      "userrating": "3.0",
+      "genres": "Pop",
+      "musiclist": [
+        3020401,
+        3020402,
+        3020403
+      ]
+    }
+  }
+}

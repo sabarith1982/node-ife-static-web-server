@@ -4,6 +4,21 @@ const MusicList_CH = {
     "message": "success",
     "slideshow": [
       {
+        "slideid": "30203",
+        "imageURL": "images/media/music/30203-slide.jpg",
+        "type": "album"
+      },
+      {
+        "slideid": "30204",
+        "imageURL": "images/media/music/30204-slide.jpg",
+        "type": "album"
+      },
+      {
+        "slideid": "30301",
+        "imageURL": "images/media/music/30301-slide.jpg",
+        "type": "album"
+      },
+      {
         "slideid": "30020",
         "imageURL": "images/media/music/30020-slide.jpg",
         "type": "album"
@@ -25,6 +40,75 @@ const MusicList_CH = {
       }
     ],
     "list": [
+      {
+        "cid": "3002",
+        "name": "华语音乐",
+        "total": "1000",
+        "current": "200",
+        "clist": [
+          {
+            "listid": "30203",
+            "imageURL": "images/media/music/30203.jpg",
+            "title": "Moonlight",
+            "type": "album",
+            "artist": "潘玮柏,袁娅维",
+            "year": "2018",
+            "duration": "00:6:24",
+            "userrating": "3.0",
+            "genres": "Pop",
+            "musiclist": [
+              3020301,
+              3020302
+            ]
+          },
+          {
+            "listid": "30204",
+            "imageURL": "images/media/music/30204.jpg",
+            "title": "引音隐印",
+            "type": "album",
+            "artist": "窦唯,译乐队",
+            "year": "2018-08-07",
+            "duration": "00:22:00",
+            "userrating": "3.0",
+            "genres": "Pop",
+            "musiclist": [
+              3020401,
+              3020402,
+              3020403
+            ]
+          },
+          {
+            "listid": "30201",
+            "imageURL": "images/media/music/30201.jpg",
+            "title": "热门歌曲",
+            "type": "playlist",
+            "artist": "",
+            "year": "2018",
+            "duration": "00:11:00",
+            "userrating": "5.0",
+            "genres": "Pop",
+            "musiclist": [
+              3020101,
+              3020102
+            ]
+          },
+          {
+            "listid": "30202",
+            "imageURL": "images/media/music/30202.jpg",
+            "title": "精挑细选",
+            "type": "playlist",
+            "artist": "",
+            "year": "2018",
+            "duration": "00:10:00",
+            "userrating": "3.0",
+            "genres": "Pop",
+            "musiclist": [
+              3020201,
+              3020202
+            ]
+          }
+        ]
+      },
       {
         "cid": "3000",
         "name": "热门专辑",
@@ -557,44 +641,6 @@ const MusicList_CH = {
               3010320,
               3010321,
               3010322
-            ]
-          }
-        ]
-      },
-      {
-        "cid": "3002",
-        "name": "华语音乐",
-        "total": "1000",
-        "current": "200",
-        "clist": [
-          {
-            "listid": "30201",
-            "imageURL": "images/media/music/30201.jpg",
-            "title": "热门歌曲",
-            "type": "playlist",
-            "artist": "",
-            "year": "2018",
-            "duration": "00:11:00",
-            "userrating": "5.0",
-            "genres": "Pop",
-            "musiclist": [
-              3020101,
-              3020102
-            ]
-          },
-          {
-            "listid": "30202",
-            "imageURL": "images/media/music/30202.jpg",
-            "title": "精挑细选",
-            "type": "playlist",
-            "artist": "",
-            "year": "2018",
-            "duration": "00:10:00",
-            "userrating": "3.0",
-            "genres": "Pop",
-            "musiclist": [
-              3020201,
-              3020202
             ]
           }
         ]

@@ -1,0 +1,43 @@
+{
+  "30203": {
+    "code": "200",
+    "message": "success",
+    "music": [
+      {
+        "mid": "3020301",
+        "title": "Moonlight",
+        "artist": "潘玮柏,袁娅维",
+        "year": "2018-08-07",
+        "userrating": "0.0",
+        "genres": "Pop",
+        "duration": "00:03:12",
+        "audioURL": "audio/3020301.mp3"
+      },
+      {
+        "mid": "3020302",
+        "title": "Moonlight (中文版)",
+        "artist": "潘玮柏,袁娅维",
+        "year": "2018",
+        "userrating": "0.0",
+        "genres": "Pop",
+        "duration": "00:03:12",
+        "audioURL": "audio/3020302.mp3"
+      }
+    ],
+    "data": {
+      "listid": "30203",
+      "imageURL": "images/media/music/30203.jpg",
+      "title": "Moonlight",
+      "type": "album",
+      "artist": "潘玮柏,袁娅维",
+      "year": "2018",
+      "duration": "00:06:24",
+      "userrating": "3.0",
+      "genres": "Pop",
+      "musiclist": [
+        3020301,
+        3020302
+      ]
+    }
+  }
+}
