@@ -1,0 +1,161 @@
+{
+  "ReadList": {
+    "code": "200",
+    "message": "success",
+    "items": [
+      {
+        "itemid": "10001",
+        "imageURL": "images/media/read/10001.jpg",
+        "itemURL": "read/pdf/10001.pdf",
+        "type": "pdf",
+        "title": "National Geographic Kids – August 2018",
+        "description": "",
+        "month": "8",
+        "year": "2018",
+        "language": "en",
+        "userrating": "4.5"
+      },
+      {
+        "itemid": "10002",
+        "imageURL": "images/media/read/10002.jpg",
+        "itemURL": "read/pdf/10002.pdf",
+        "type": "pdf",
+        "title": "National Geographic Kids – May 2018",
+        "description": "",
+        "month": "5",
+        "year": "2018",
+        "language": "en",
+        "userrating": "4.5"
+      },
+      {
+        "itemid": "10003",
+        "imageURL": "images/media/read/10003.jpg",
+        "itemURL": "read/pdf/10003.pdf",
+        "type": "pdf",
+        "title": "National Geographic Kids – March 2018",
+        "description": "",
+        "month": "3",
+        "year": "2018",
+        "language": "en",
+        "userrating": "4.5"
+      },
+      {
+        "itemid": "10004",
+        "imageURL": "images/media/read/10004.jpg",
+        "itemURL": "read/pdf/10004.pdf",
+        "type": "pdf",
+        "title": "National Geographic Kids – February 2018",
+        "description": "",
+        "month": "2",
+        "year": "2018",
+        "language": "en",
+        "userrating": "4.5"
+      },
+      {
+        "itemid": "10005",
+        "imageURL": "images/media/read/10005.jpg",
+        "itemURL": "read/pdf/10005.pdf",
+        "type": "pdf",
+        "title": "National Geographic Kids – December 2017 / January 2018",
+        "description": "",
+        "month": "1",
+        "year": "2018",
+        "language": "en",
+        "userrating": "4.5"
+      },
+      {
+        "itemid": "10006",
+        "imageURL": "images/media/read/10006.jpg",
+        "itemURL": "read/pdf/10006.pdf",
+        "type": "pdf",
+        "title": "National Geographic Kids – November 2017",
+        "description": "",
+        "month": "11",
+        "year": "2017",
+        "language": "en",
+        "userrating": "4.5"
+      },
+      {
+        "itemid": "10007",
+        "imageURL": "images/media/read/10007.jpg",
+        "itemURL": "read/pdf/10007.pdf",
+        "type": "pdf",
+        "title": "National Geographic Kids – September / October 2017",
+        "description": "",
+        "month": "10",
+        "year": "2017",
+        "language": "en",
+        "userrating": "4.5"
+      },
+      {
+        "itemid": "10008",
+        "imageURL": "images/media/read/10008.jpg",
+        "itemURL": "read/pdf/10008.pdf",
+        "type": "pdf",
+        "title": "National Geographic Kids – July / August 2017",
+        "description": "",
+        "month": "8",
+        "year": "2017",
+        "language": "en",
+        "userrating": "4.5"
+      },
+      {
+        "itemid": "10009",
+        "imageURL": "images/media/read/10009.jpg",
+        "itemURL": "read/pdf/10009.pdf",
+        "type": "pdf",
+        "title": "National Geographic Kids – May / June 2017",
+        "description": "",
+        "month": "6",
+        "year": "2017",
+        "language": "en",
+        "userrating": "4.5"
+      },
+      {
+        "itemid": "10010",
+        "imageURL": "images/media/read/10010.jpg",
+        "itemURL": "read/pdf/10010.pdf",
+        "type": "pdf",
+        "title": "National Geographic Kids – March / April 2017",
+        "description": "",
+        "month": "4",
+        "year": "2017",
+        "language": "en",
+        "userrating": "4.5"
+      },
+      {
+        "itemid": "10011",
+        "imageURL": "images/media/read/10011.jpg",
+        "itemURL": "read/pdf/10011.pdf",
+        "type": "pdf",
+        "title": "National Geographic Kids – January / February 2017",
+        "description": "",
+        "month": "2",
+        "year": "2017",
+        "language": "en",
+        "userrating": "4.5"
+      }
+    ],
+    "data": [
+      {
+        "cid": "1003",
+        "name": "Magazines For Kids",
+        "total": "100",
+        "current": "25",
+        "items": [
+          10001,
+          10002,
+          10003,
+          10004,
+          10005,
+          10006,
+          10007,
+          10008,
+          10009,
+          10010,
+          10011
+        ]
+      }
+    ]
+  }
+}

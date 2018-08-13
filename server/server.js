@@ -21,6 +21,7 @@ var {searchList} = require('./searchList.js');
 var {searchOptions, searchOptions_CH} = require('./searchOptions.js');
 var {MusicSearch, MusicSearch_CH} = require('./musicsearch.js');
 var {Hashing} = require('./hashing.js');
+var {ReadList, ReadList_CH, ReadKidsList, ReadKidsList_CH, ReadSearch, ReadSearch_CH, ReadKidsSearch, ReadKidsSearch_CH} = require('./readlist.js');
 
 var LanguageArr = new Array();
 LanguageArr['EN'] = InteractiveEnglish;
@@ -105,6 +106,34 @@ app.post('/musicsearch',(req, res) => {
     })
     res.send({
       lvMusicSearch
+    }),(e) => {
+      res.status(400).send(e);
+    }
+  }
+});
+
+//POST API to search read media in the media dataset
+app.post('/readsearch',(req, res) => {
+  console.log("In read search");
+  if(verifyHeader(req, res)){
+    var dataObj = req.body.data;
+    var lang = _trackIP.getIPLanguage(req.headers.xauth);
+    var kidsMode = _trackIP.checkKidsMode(req.headers.xauth);
+    var lvReadSearch = ReadSearch;
+    if(lang === 'EN' && kidsMode)
+      lvReadSearch = ReadKidsSearch;
+    else if(lang === 'CH' && kidsMode)
+      lvReadSearch = ReadKidsSearch_CH;
+    else if(lang === 'CH')
+      lvReadSearch = ReadSearch_CH;
+
+    res.set({
+      "Access-Control-Allow-Origin": "*",
+      "xauth": req.headers.xauth,
+      "Access-Control-Expose-Headers" : "xauth"
+    })
+    res.send({
+      lvReadSearch
     }),(e) => {
       res.status(400).send(e);
     }
@@ -245,6 +274,28 @@ app.get('/musiclist',(req, res) => {
       lvMusicList = MusicList_CH;
     res.send({
       lvMusicList
+    }),(e) => {
+      res.status(400).send(e);
+    }
+  }
+});
+
+//Returns readlist, It also checks current langauge, kids mode and returns the read list
+app.get('/readlist',(req, res) => {
+  console.log("In readList");
+  if(verifyHeader(req, res)){
+    var lang = _trackIP.getIPLanguage(req.headers.xauth);
+    var kidsMode = _trackIP.checkKidsMode(req.headers.xauth);
+    var lvReadList = ReadList;
+    if(lang === 'EN' && kidsMode)
+      lvReadList = ReadKidsList;
+    else if(lang === 'CH' && kidsMode)
+      lvReadList = ReadKidsList_CH;
+    else if(lang === 'CH')
+      lvReadList = ReadList_CH;
+
+    res.send({
+      lvReadList
     }),(e) => {
       res.status(400).send(e);
     }
