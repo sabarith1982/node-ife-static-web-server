@@ -8,10 +8,9 @@
         "imageURL": "images/media/read/10001.jpg",
         "itemURL": "read/pdf/10001.pdf",
         "type": "pdf",
-        "title": "National Geographic Kids – August 2018",
+        "title": "National Geographic Kids – 2018年8月",
         "description": "",
-        "month": "8",
-        "year": "2018",
+        "issue": "2018年8月",
         "language": "en",
         "userrating": "4.5"
       },
@@ -22,8 +21,7 @@
         "type": "pdf",
         "title": "National Geographic Kids – May 2018",
         "description": "",
-        "month": "5",
-        "year": "2018",
+        "issue": "2018年5月",
         "language": "en",
         "userrating": "4.5"
       },
@@ -34,8 +32,7 @@
         "type": "pdf",
         "title": "National Geographic Kids – March 2018",
         "description": "",
-        "month": "3",
-        "year": "2018",
+        "issue": "2018年3月",
         "language": "en",
         "userrating": "4.5"
       },
@@ -46,8 +43,7 @@
         "type": "pdf",
         "title": "National Geographic Kids – February 2018",
         "description": "",
-        "month": "2",
-        "year": "2018",
+        "issue": "2018年2月",
         "language": "en",
         "userrating": "4.5"
       },
@@ -58,8 +54,7 @@
         "type": "pdf",
         "title": "National Geographic Kids – December 2017 / January 2018",
         "description": "",
-        "month": "1",
-        "year": "2018",
+        "issue": "2018年1月",
         "language": "en",
         "userrating": "4.5"
       },
@@ -70,8 +65,7 @@
         "type": "pdf",
         "title": "National Geographic Kids – November 2017",
         "description": "",
-        "month": "11",
-        "year": "2017",
+        "issue": "2017年11月",
         "language": "en",
         "userrating": "4.5"
       },
@@ -82,8 +76,7 @@
         "type": "pdf",
         "title": "National Geographic Kids – September / October 2017",
         "description": "",
-        "month": "10",
-        "year": "2017",
+        "issue": "2017年10月",
         "language": "en",
         "userrating": "4.5"
       },
@@ -94,8 +87,7 @@
         "type": "pdf",
         "title": "National Geographic Kids – July / August 2017",
         "description": "",
-        "month": "8",
-        "year": "2017",
+        "issue": "2017年8月",
         "language": "en",
         "userrating": "4.5"
       },
@@ -106,8 +98,7 @@
         "type": "pdf",
         "title": "National Geographic Kids – May / June 2017",
         "description": "",
-        "month": "6",
-        "year": "2017",
+        "issue": "2017年6月",
         "language": "en",
         "userrating": "4.5"
       },
@@ -118,8 +109,7 @@
         "type": "pdf",
         "title": "National Geographic Kids – March / April 2017",
         "description": "",
-        "month": "4",
-        "year": "2017",
+        "issue": "2017年4月",
         "language": "en",
         "userrating": "4.5"
       },
@@ -130,8 +120,7 @@
         "type": "pdf",
         "title": "National Geographic Kids – January / February 2017",
         "description": "",
-        "month": "2",
-        "year": "2017",
+        "issue": "2017年2月",
         "language": "en",
         "userrating": "4.5"
       }
