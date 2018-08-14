@@ -189,6 +189,9 @@ app.get('/searchoptions',(req, res) => {
     var lvsearchOptions = searchOptions;
     if(lang === 'CH')
       lvsearchOptions = searchOptions_CH;
+    res.set({
+      "Access-Control-Allow-Origin": "*"
+    })
     res.send({
       lvsearchOptions
     }),(e) => {
@@ -204,6 +207,9 @@ app.get('/menu',(req, res) => {
     var lmenu = Menu;
     if(_trackIP.checkKidsMode(req.headers.xauth))
       lmenu = KidsMenu;
+    res.set({
+      "Access-Control-Allow-Origin": "*"
+    })
     res.send({
       lmenu
     }),(e) => {
@@ -216,6 +222,9 @@ app.get('/menu',(req, res) => {
 app.get('/adengine/slideshow',(req, res) => {
   console.log("In slideshow");
   if(verifyHeader(req, res)){
+    res.set({
+      "Access-Control-Allow-Origin": "*"
+    })
     res.send({
       SlideShow
     }),(e) => {
@@ -228,6 +237,9 @@ app.get('/adengine/slideshow',(req, res) => {
 app.get('/flightdata',(req, res) => {
   console.log("In flightdata");
   if(verifyHeader(req, res)){
+    res.set({
+      "Access-Control-Allow-Origin": "*"
+    })
     res.send({
       FlightData
     }),(e) => {
@@ -240,6 +252,9 @@ app.get('/flightdata',(req, res) => {
 app.get('/media/popularmedia',(req, res) => {
   console.log("In PopularMedia");
   if(verifyHeader(req, res)){
+    res.set({
+      "Access-Control-Allow-Origin": "*"
+    })
     res.send({
       PopularMedia
     }),(e) => {
@@ -256,6 +271,9 @@ app.get('/movielist',(req, res) => {
     var lvMovieList = MovieList;
     if(lang === 'CH')
       lvMovieList = MovieList_CH;
+    res.set({
+      "Access-Control-Allow-Origin": "*"
+    })
     res.send({
       lvMovieList
     }),(e) => {
@@ -272,6 +290,9 @@ app.get('/musiclist',(req, res) => {
     var lvMusicList = MusicList;
     if(lang === 'CH')
       lvMusicList = MusicList_CH;
+    res.set({
+      "Access-Control-Allow-Origin": "*"
+    })
     res.send({
       lvMusicList
     }),(e) => {
@@ -293,7 +314,9 @@ app.get('/readlist',(req, res) => {
       lvReadList = ReadKidsList_CH;
     else if(lang === 'CH')
       lvReadList = ReadList_CH;
-
+    res.set({
+      "Access-Control-Allow-Origin": "*"
+    })
     res.send({
       lvReadList
     }),(e) => {
@@ -314,6 +337,9 @@ app.get('/musiclist/:id',(req, res) => {
       lvMusicList = JSON.parse(fs.readFileSync(filename, 'utf8'));
     // if(lang === 'CH')
     //   lvMusicList = MusicList_CH;
+    res.set({
+      "Access-Control-Allow-Origin": "*"
+    })
     res.send({
       lvMusicList
     }),(e) => {
@@ -327,7 +353,10 @@ app.use(express.static('public'));
 
 //Route the rest of the APIs
 app.get('*', function(req, res) {
-    res.sendFile(path.join(__dirname + '/public/index.html'));
+  res.set({
+    "Access-Control-Allow-Origin": "*"
+  })
+  res.sendFile(path.join(__dirname + '/public/index.html'));
 });
 
 //Function to Verify if the header has xauth and verify using jwt
