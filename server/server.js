@@ -22,7 +22,7 @@ var {searchOptions, searchOptions_CH} = require('./searchOptions.js');
 var {MusicSearch, MusicSearch_CH} = require('./musicsearch.js');
 var {Hashing} = require('./hashing.js');
 var {ReadList, ReadList_CH, ReadKidsList, ReadKidsList_CH, ReadSearch, ReadSearch_CH, ReadKidsSearch, ReadKidsSearch_CH} = require('./readlist.js');
-
+var cors = require('cors');
 var LanguageArr = new Array();
 LanguageArr['EN'] = InteractiveEnglish;
 LanguageArr['CH'] = InteractiveChinese;
@@ -32,6 +32,7 @@ var app = new express();
 var _trackIP = new trackIP();
 var _hashing = new Hashing();
 app.use(bodyParser.json());
+app.use(cors());
 
 //POST API to setlanguage.
 app.post('/setlanguage/:lang',(req, res) => {
