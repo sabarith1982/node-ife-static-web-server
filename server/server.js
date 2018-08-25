@@ -22,6 +22,7 @@ var {searchOptions, searchOptions_CH} = require('./searchOptions.js');
 var {MusicSearch, MusicSearch_CH} = require('./musicsearch.js');
 var {Hashing} = require('./hashing.js');
 var {ReadList, ReadList_CH, ReadKidsList, ReadKidsList_CH, ReadSearch, ReadSearch_CH, ReadKidsSearch, ReadKidsSearch_CH} = require('./readlist.js');
+var {TVList, TVList_CH} = require('./tv.js');
 var cors = require('cors');
 var LanguageArr = new Array();
 LanguageArr['EN'] = InteractiveEnglish;
@@ -296,6 +297,25 @@ app.get('/musiclist',(req, res) => {
     })
     res.send({
       lvMusicList
+    }),(e) => {
+      res.status(400).send(e);
+    }
+  }
+});
+
+//Returns tvlist, It also checks current langauge and returns the music list
+app.get('/tvlist',(req, res) => {
+  console.log("In TVList");
+  if(verifyHeader(req, res)){
+    var lang = _trackIP.getIPLanguage(req.headers.xauth);
+    var lvTVList = TVList;
+    if(lang === 'CH')
+      lvTVList = TVList_CH;
+    res.set({
+      "Access-Control-Allow-Origin": "*"
+    })
+    res.send({
+      lvTVList
     }),(e) => {
       res.status(400).send(e);
     }

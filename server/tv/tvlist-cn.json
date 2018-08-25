@@ -1,0 +1,1562 @@
+{
+  "TVList": {
+    "code": "200",
+    "message": "success",
+    "slideshow": [
+      {
+        "slideid": "20020",
+        "imageURL": "images/media/tv/20020-slide.jpg",
+        "type": "tv"
+      },
+      {
+        "slideid": "20033",
+        "imageURL": "images/media/tv/20033-slide.jpg",
+        "type": "tv"
+      },
+      {
+        "slideid": "20044",
+        "imageURL": "images/media/tv/20044-slide.jpg",
+        "type": "tv"
+      },
+      {
+        "slideid": "20047",
+        "imageURL": "images/media/tv/20047-slide.jpg",
+        "type": "tv"
+      }
+    ],
+    "tvlist": [
+      {
+        "tid": "20020",
+        "posterImageURL": "images/media/tv/20020.jpg",
+        "title": "权力的游戏 -- 第一季",
+        "year": "2011",
+        "userrating": "4.5",
+        "description": " 超烧脑奇幻史诗巨作，各方势力为夺铁王座展开疯狂残暴的权力之争，城墙外的神秘生物也蓄势待发。 《权力的游戏》第一季剧情梗概： 该剧的故事背景是一个虚构的世界，分为两片大陆：位于西面的“日落国度”维斯特洛；位于东面的类似亚欧大陆。维斯特洛大陆边境处发现远古传说中早已灭绝的生物开始，危险也渐渐在靠近这里。这片大陆的临冬城主暨北境统领艾德史塔克家族也迎来了老友兼国王劳勃·拜拉席恩的来访。国王希望艾德·史塔克（肖恩·宾 Sean Bean 饰）能担任首相一职，对抗企图夺取铁王座的叛军。危情一触即发，整个王国看似平和的表面下却是波涛暗涌。权高位重的拜拉席恩家族、勇敢善良的史塔克家族、企图谋取王位的坦格利安家族、有着不可告人秘密的兰尼斯特家族。这些家族各怀鬼胎，这个国家将会陷入一场混战....",
+        "cast": "Sean Bean, Mark Addy, Nikolaj Coster-Waldau",
+        "genres": "Science fiction, Drama, Action",
+        "director": "Tim Van Patten",
+        "rating": "TV-MA",
+        "tvEpisodes": [
+          {
+            "eid": "2002001",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20020.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "61 min",
+            "releaseDate": "April 17,2011",
+            "description": "Series Premiere. Lord Ned Stark is troubled by disturbing reports from a Night's Watch deserter; King Robert and Lannisters arrive at Winterfell; the exiled Viserys Targaryen forges a powerful new allegiance.",
+            "genres": "科幻，戏剧，动作"
+          },
+          {
+            "eid": "2002002",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20020.jpg",
+            "audiotrackss": "en",
+            "subtitless": "en, ch",
+            "duration": "55 min",
+            "releaseDate": "April 24,2011",
+            "description": "Bran's fate remains in doubt; Jon and Tyrion head to the Wall; Ned faces a family crisis en route to King's Landing; Viserys bides his time in hopes of winning back the throne; Dany focuses on pleasing her new husband, Drogo.",
+            "genres": "科幻，戏剧，动作"
+          },
+          {
+            "eid": "2002003",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20020.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "durations": "57 min",
+            "releaseDate": "May 1,2011",
+            "description": "Jon impresses Tyrion at Castle Black; Ned confronts his past and future at King's Landing; Daenerys finds herself at odds with Viserys.",
+            "genres": "科幻，戏剧，动作"
+          }
+        ]
+      },
+      {
+        "tid": "20021",
+        "posterImageURL": "images/media/tv/20021.jpg",
+        "title": "权力的游戏第二季",
+        "year": "2011",
+        "userrating": "4.5",
+        "description": "《权力的游戏》第二季 精彩看点： 傲娇公主浴火重生成龙之母，开启复国模式，稚嫩王子登上铁王座残暴值跌破眼镜。 《权力的游戏》第二季 剧情梗概： 艾德·史塔克（肖恩·宾 Sean Bean 饰）死后，其属臣拥戴他的长子罗柏·史塔克（理查德·麦登 Richard Madden 饰）为北境之王。由罗柏·史塔克率领的北境大军与兰尼斯特实力相互对峙，蓝礼的南境雄兵则不断朝君临开拔，还有动向不明的史坦尼斯，以及西北黑海之上的铁群岛诸民。戍守北疆的守夜人与境外蛮族一决生死。龙之母丹妮莉丝（艾米莉亚·克拉克 Emilia Clarke 饰）带着老弱残兵组成的卡拉萨，跟随彗星的轨迹，穿越茫茫洪荒，朝遥远渺茫的复国大业进发。凛冬将至，冷风渐起，这片大陆这一次又将演奏一支怎样的冰与火之歌赞歌......",
+        "Starring": "Peter Dinklage, Lena Headey, Nikolaj Coster-Waldau",
+        "genres": "科幻，戏剧，动作",
+        "director": "Tim Van Patten",
+        "rating": "TV-MA",
+        "tvEpisodes": [
+          {
+            "eid": "2002101",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20021.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "52 min",
+            "releaseDate": "April 1,2012",
+            "description": "Season 2 Premiere. Tyrion arrives to save Joffrey's crown from threats old and new; Daenerys searches for allies and water in the Red Waste; Jon Snow and the Night's Watch face the wilderness beyond the Wall.",
+            "genres": "科幻，戏剧，动作"
+          },
+          {
+            "eid": "2002102",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20021.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "53 min",
+            "releaseDate": "April 3,2012",
+            "description": "Arya shares a secret with a familiar recruit; a scout returns to Dany with disturbing news; Theon comes home to the Iron Islands and his real family; Tyrion administers justice; Jon witnesses a terrible crime.",
+            "genres": "科幻，戏剧，动作"
+          },
+          {
+            "eid": "2002103",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20021.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "57 min",
+            "releaseDate": "May 1,2011",
+            "description": "At the Red Keep, Tyrion plots three alliances through the promise of marriage. Catelyn arrives in the Stormlands to forge an alliance of her own. But King Renly, his new wife Margaery, and her brother Loras Tyrell have other plans in mind.",
+            "genres": "科幻，戏剧，动作"
+          }
+        ]
+      },
+      {
+        "tid": "20022",
+        "posterImageURL": "images/media/tv/20022.jpg",
+        "title": "越狱 -- 第一季",
+        "year": "2006",
+        "userrating": "4.5",
+        "description": "迈克尔-斯科菲尔德正陷于无望的困境中——他的哥哥林肯-巴罗斯被认定犯有谋杀罪被投入了福克斯河监狱的死囚牢。虽然所有的证据都指出林肯就是凶手，迈克尔坚信兄长是无辜的。林肯的死刑执行日越来越逼近，在没有其他选择的情况下，迈克尔持枪闯入了一家银行，被捕入狱后来到了林肯的身边。身为建筑工程师的迈克尔参与了监狱的改造工程而对这里了若指掌，他设计了完整的越狱计划，入狱的唯一目的就是要把林肯救出生天并还其清白。",
+        "Starring": "Wentworth Miller, Dominic Purcell, Sarah Wayne Callies",
+        "genres": "动作，戏剧，悬疑",
+        "director": "Paul Scheuring",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2002201",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20022.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "Augest 29,2005",
+            "description": "A man gets himself sent to prison so he can plan an escape for his brother.",
+            "genres": "动作，戏剧，悬疑"
+          },
+          {
+            "eid": "2002202",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20022.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "44 min",
+            "releaseDate": "August 29,2005",
+            "description": "Michael tries to get a drug that will help him test positive for diabetes.",
+            "genres": "动作，戏剧，悬疑"
+          },
+          {
+            "eid": "2002203",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20022.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "44 min",
+            "releaseDate": "September 5,2005",
+            "description": "Michael encounters problems bringing Abruzzi and Sucre into his plan.",
+            "genres": "动作，戏剧，悬疑"
+          }
+        ]
+      },
+      {
+        "tid": "20023",
+        "posterImageURL": "images/media/tv/20023.jpg",
+        "title": "越狱 -- 第二季",
+        "year": "2007",
+        "userrating": "4.5",
+        "description": "第二季主要延续第一季最后主角们逃出了监狱的剧情，8个逃出生天的一级重犯分别逃窜，展开了新一轮的亡命旅途。",
+        "Starring": "Wentworth Miller, Dominic Purcell, Sarah Wayne Callies",
+        "genres": "动作，戏剧，悬疑",
+        "director": "Paul Scheuring",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2002301",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20023.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "41 min",
+            "releaseDate": "Aug 21,2006",
+            "description": "Eight hours after their escape from Fox River.",
+            "genres": "动作，戏剧，悬疑"
+          },
+          {
+            "eid": "2002302",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20023.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "August 28,2006",
+            "description": "Michael and Lincoln plan another breakout.",
+            "genres": "动作，戏剧，悬疑"
+          },
+          {
+            "eid": "2002303",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20023.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "September 4,2006",
+            "description": "Michael and Lincoln experience car trouble as Mahone's pursuit of them goes up in flames.",
+            "genres": "动作，戏剧，悬疑"
+          }
+        ]
+      },
+      {
+        "tid": "20024",
+        "posterImageURL": "images/media/tv/20024.jpg",
+        "title": "越狱 -- 第三季",
+        "year": "2006",
+        "userrating": "4.5",
+        "description": "就在迈克尔成功得将他被诬陷为杀人犯的哥哥林肯解救出福克斯河监狱后，迈克尔、林肯和其他几位越狱犯成为全国搜捕的目标，逐渐剩下的犯人们被引到了巴拿马。虽然随着真相逐渐明朗，林肯已经已经被美国法院宣布无罪，但是这对兄弟的自由和快乐时光非常短暂，因为很快迈克尔就被“公司”设计而被送往Sona监狱，这个有政府背景的“公司”也正是栽赃诬陷林肯入狱的“公司”。迈克尔很快意识到他之所以被送到这个监狱，是为了让他策划另一起看起来无比艰险、几乎无法完成的越狱，这次他要帮助越狱的人叫韦斯勒 ，他是一个非常神秘而且生活在下水道的囚犯。迈克尔被误抓到巴拿马的一个恐怖监狱Sona，这里没有法规，没有狱警，同时也没有逃脱的机会。",
+        "genres": "动作，戏剧，悬疑",
+        "director": "Paul Scheuring",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2002401",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20024.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "September 17,2007",
+            "description": "The season opener finds Michael Scofield in Sona, a hellish and deadly Panamanian prison where a previous riot has forced all authority out and has left the prisoners in charge of their own lives (and deaths).",
+            "genres": "动作，戏剧，悬疑"
+          },
+          {
+            "eid": "2002402",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20024.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "September 24,2007",
+            "description": "Michael races to find a hidden Whistler before Mahone; searching for clues outside the prison, Lincoln runs into an old friend and makes a new one; T-Bag slithers his way into Lechero's graces as the prisoners threaten a revolt due to the lack of agua (water).",
+            "genres": "动作，戏剧，悬疑"
+          },
+          {
+            "eid": "2002403",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20024.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "September 24,2007",
+            "description": "Determined to speak with Sara, Michael enlists T-Bag's help to get to the only phone in Sona: Lechero's; Lincoln attempts a daring rescue; Whistler comes clean to Michael, just as Mahone is tempted to fall back on a dirty habit; and Bellick makes an enemy while attempting to get back on his feet.",
+            "genres": "动作，戏剧，悬疑"
+          }
+        ]
+      },
+      {
+        "tid": "20025",
+        "posterImageURL": "images/media/tv/20025.jpg",
+        "title": "地球百子 -- 第一季",
+        "year": "2014",
+        "userrating": "3.5",
+        "description": "故事描述未来人类爆发核战争后，地球文明被彻底摧毁，幸存者不得不乘坐一艘太空船四处流浪。97年之后，这艘太空船上的幸存者们尝试重新对地球进行殖民。他们首先挑选了100名有犯罪记录的青少年到已经彻底改变外貌的地球表面进行探索，这些人成了人类生存下去的关键。该剧根据一套尚未出版的小说改编。",
+        "Starring": "Eliza Taylor, Paige Turco, Thomas McDonell",
+        "genres": "科幻，戏剧",
+        "director": "Jason Rothenberg",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2002501",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20025.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "41 min",
+            "releaseDate": "March 18,2014",
+            "description": "In the series premiere, 100 young exiles from a dying space station are sent to the planet Earth 97 years after a nuclear apocalypse to see if it's habitable.",
+            "genres": "科幻，戏剧"
+          },
+          {
+            "eid": "2002502",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20025.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "March 25,2014",
+            "description": "After discovering that Jasper may still be alive, Clarke, Bellamy, Octavia, Finn and Monty set out to locate him and are shocked at what they find.",
+            "genres": "科幻，戏剧"
+          },
+          {
+            "eid": "2002503",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20025.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "April 1,2014",
+            "description": "Clarke, Finn and Wells set out in search of an antibiotic to treat Jasper's wounds, when an acid fog forces them to seek shelter...and forgiveness for past crimes.",
+            "genres": "科幻，戏剧"
+          }
+        ]
+      },
+      {
+        "tid": "20026",
+        "posterImageURL": "images/media/tv/20026.jpg",
+        "title": "地球百子 -- 第二季",
+        "year": "2015",
+        "userrating": "3.5",
+        "description": "该剧延续第一季讲述天空人类，回到地表生活后，被山地人抓到韦瑟山地区之后的故事。",
+        "Starring": "Eliza Taylor, Paige Turco, Thomas McDonell",
+        "genres": "科幻，戏剧",
+        "director": "Jason Rothenberg",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2002601",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20026.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42:00",
+            "releaseDate": "October 21,2014",
+            "description": "In the season premiere, Clarke is still trapped, while the fate of Bellamy, Finn & Raven is still unknown. Meanwhile, the survivors of the Ark face a dangerous new world.",
+            "genres": "科幻，戏剧"
+          },
+          {
+            "eid": "2002602",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20026.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 28, 2014",
+            "description": "Clarke demands answers from President Wallace. Kane interrogates one of The 100, and Abby performs emergency surgery. Meanwhile, Octavia resorts to violence to find Lincoln.",
+            "genres": "科幻，戏剧"
+          },
+          {
+            "eid": "2002603",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20026.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "November 4, 2014",
+            "description": "Nothing is what it seems. When Clarke (ELIZA TAYLOR) discovers a horrifying project being carried out in Mount Weather's medical ward, she joins forces with an unlikely ally.",
+            "genres": "科幻，戏剧"
+          }
+        ]
+      },
+      {
+        "tid": "20027",
+        "posterImageURL": "images/media/tv/20027.jpg",
+        "title": "地球百子 -- 第三季",
+        "year": "2015",
+        "userrating": "3.5",
+        "description": "顺利抵达地球的年轻人急于摆脱方舟的束缚，克拉克则执意和几名同伴寻找供给，在此期间发现地球还有人类存在。另一方面，方舟内的政治局势波谲云诡，总理遇刺，代理总理凯恩（亨利·伊安·库斯克 Henry Ian Cusick 饰）蠢蠢欲动，人类的命运悬于一线。",
+        "Starring": "Eliza Taylor, Paige Turco, Thomas McDonell",
+        "genres": "科幻，戏剧",
+        "director": "Jason Rothenberg",
+        "rating": "tv-14",
+        "tvEpisodes": [
+          {
+            "eid": "2002701",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20027.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "January 20,2016",
+            "description": "In the season premiere, three months have passed since the tragedy at Mt. Weather. With a bounty on Clarke's head, Bellamy and Kane lead a team into Grounder territory to save her.",
+            "genres": "科幻，戏剧"
+          },
+          {
+            "eid": "2002702",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20027.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "January 27,2016",
+            "description": "Bellamy and Kane risk life and limb to rescue Clarke. In an attempt to avoid worrying about her daughter, Abby focuses on whether to open Mount Weather as a medical facility.",
+            "genres": "科幻，戏剧"
+          },
+          {
+            "eid": "2002703",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20027.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "February 3,2016",
+            "description": "Clarke wrestles with a decision. Bellamy learns that something isn't what it seems. Meanwhile, Murphy plots to betray his former Chancellor.",
+            "genres": "科幻，戏剧"
+          }
+        ]
+      },
+      {
+        "tid": "20028",
+        "posterImageURL": "images/media/tv/20028.jpg",
+        "title": "破产姐妹 -- 第一季",
+        "year": "2012",
+        "userrating": "3.5",
+        "description": "麦克斯（凯特·戴琳斯饰）在纽约布鲁克林区一家低档餐馆打工。餐馆同事包括小个子亚裔韩国老板李韩、爱讲荤段子的厨子奥列格（乔纳森·克特饰）和高龄收银员黑人厄尔。餐馆新来的女招待卡洛琳（贝丝·贝尔斯饰）金发高挑，名媛范十足，与餐馆档次格格不入。麦克斯对卡洛琳的身份产生了质疑，无意间得知卡洛琳是一位信托基金老板的千金，父亲的破产和入狱让她失去了一切富家小姐的生活，为了生存，她不得不放下小姐的尊严到威廉斯堡饭店来工作。嘴利心软的麦克斯收留了无家可归的卡洛琳，虽然身份背景不同，但同样身无分文的境地还是令两个女孩成为了好朋友",
+        "Starring": "Kat Dennings, Beth Behrs, Garrett Morris",
+        "genres": "喜剧",
+        "director": "Whitney Cummings, Michael Patrick King",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2002801",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20028.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "September 18,2011",
+            "description": "Kat Dennings and Beth Behrs star in this new comedy series from Michael Patrick King as waitresses in the same colorful Brooklyn diner who strike up an unlikely friendship.",
+            "genres": "喜剧"
+          },
+          {
+            "eid": "2002802",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20028.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "September 25,2011",
+            "description": "Caroline thinks she's doing Max a favor - but she is really stealing Max's thunder - when she takes it upon herself to facilitate Max's breakup with Robbie (recurring guest star NOAH MILLS Sex and the City 2).",
+            "genres": "喜剧"
+          },
+          {
+            "eid": "2002803",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20028.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "October 2,2011",
+            "description": "Max's lesson to Caroline on the art of thrift store shopping turns ugly over a coveted T-shirt. Plus, a sarcastic street artist, Johnny (NICK ZANO), flirts with Max.",
+            "genres": "喜剧"
+          }
+        ]
+      },
+      {
+        "tid": "20029",
+        "posterImageURL": "images/media/tv/20029.jpg",
+        "title": "破产姐妹 -- 第二季",
+        "year": "2013",
+        "userrating": "3.5",
+        "description": "两个有着不同背景的女孩为了共同的成功努力建立起貌似不太可能的友谊，她们的当务之急就是赚到钱。会来事儿的Max（at Dennings饰）为了生计打着两份工，其中之一就是在威廉姆斯堡餐厅值夜班当服务生；家境不错的Caroline（Beth Behrs饰）可以说是生活在城外的公主，但是在坏运气到来的时候她也不得不硬着头皮当上了服务生。起初Max见到Caroline以为她又是一个得让自己帮忙照应的笨手笨脚的家伙，但后来她发现Caroline还有两把刷子。",
+        "Starring": "Kat Dennings, Beth Behrs, Garrett Morris",
+        "genres": "喜剧",
+        "director": "Whitney Cummings, Michael Patrick King",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2002901",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20029.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "September 23,2012",
+            "description": "Max joins Caroline to visit her father, Martin Channing (STEVEN WEBER), in prison. He encourages them to purchase a particular item at the family auction.",
+            "genres": "喜剧"
+          },
+          {
+            "eid": "2002902",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20029.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "September 30,2012",
+            "description": "After Martha Stewart's positive response to one of their cupcakes, Max and Caroline eagerly await a call from her. Plus, Caroline loses a lucky keepsake.",
+            "genres": "喜剧"
+          },
+          {
+            "eid": "2002903",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20029.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "October 7,2012",
+            "description": "Max and Caroline show their true colors when the diner gets robbed. Meanwhile, everyone sees a surprising new side of Han. Recurring guest star BROOKE LYONS (Sullivan & Son, Jane by Design) appears as Peach.",
+            "genres": "喜剧"
+          }
+        ]
+      },
+      {
+        "tid": "20030",
+        "posterImageURL": "images/media/tv/20030.jpg",
+        "title": "破产姐妹 -- 第三季",
+        "year": "2014",
+        "userrating": "3.5",
+        "description": "第三季继续上演，这一季最受欢迎的喜剧之一是讽刺的麦克斯和老练的卡罗琳，他们是在布鲁克林同一家餐厅认识的新好友，他们想让自己的纸杯蛋糕生意更进一步。在第二季结束的时候，女孩们在餐厅里发现了一个隐藏的房间——完美的操作Max的自制蛋糕。",
+        "Starring": "Kat Dennings, Beth Behrs, Garrett Morris",
+        "genres": "喜剧",
+        "director": "Whitney Cummings, Michael Patrick King",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2003001",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20030.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "September 22,2013",
+            "description": "n the third season premiere, business booms for Max and Caroline's new cupcake walk-up window when word spreads about a shocking incident involving a rock star.",
+            "genres": "喜剧"
+          },
+          {
+            "eid": "2003002",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20030.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "September 29,2013",
+            "description": "Caroline tries to raise money for an expensive pair of new pants through an online fundraising site. Meanwhile, Max's new smartphone comes between her and Caroline.",
+            "genres": "喜剧"
+          },
+          {
+            "eid": "2003003",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20030.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "October 6,2013",
+            "description": "When Max becomes smitten with an old stray cat that's been hanging around the apartment, Caroline tries to convince her they need to find it a better home. But just when they think they've found one, the cat's fate takes a turn.",
+            "genres": "喜剧"
+          }
+        ]
+      },
+      {
+        "tid": "20031",
+        "posterImageURL": "images/media/tv/20031.jpg",
+        "title": "破产姐妹 -- 第四季",
+        "year": "2015",
+        "userrating": "3.5",
+        "description": "这个喜剧二人组就像纸杯蛋糕和糖霜一样，现在又回来了，比以前更搞笑了!这是《破产姐妹》第四季，迈克尔·帕特里克·金(《欲望都市》)主演，凯特·丹宁斯和贝丝·贝尔斯饰演两个朋友和室友，他们在布鲁克林的一家餐馆工作，在那里，他们用讽刺和聪明的语言来表达自己的想法，并在餐馆的弹出窗口出售麦克斯自制的纸杯蛋糕。咔!",
+        "Starring": "Kat Dennings, Beth Behrs, Garrett Morris",
+        "genres": "Comedy",
+        "director": "Whitney Cummings, Michael Patrick King",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2003101",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20031.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "October 26,2014",
+            "description": "In the fourth season premiere, Max and Caroline are approached about shooting an episode of a Kardashians' reality show at their cupcake window. KIM KARDASHIAN WEST guest stars.",
+            "genres": "喜剧"
+          },
+          {
+            "eid": "2003102",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20031.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "November 2,2014",
+            "description": "Max is embarrassed when she discovers Sebastian (guest star JESSE METCALFE - Dallas, Desperate Housewives), the hot guy she's been spending time with, is a DJ - at a grocery store.",
+            "genres": "喜剧"
+          },
+          {
+            "eid": "2003103",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20031.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "November 9,2014",
+            "description": "Max receives a sentimental gift from her mother, and Caroline accidentally loses Han's expensive fish.",
+            "genres": "喜剧"
+          }
+        ]
+      },
+      {
+        "tid": "20032",
+        "posterImageURL": "images/media/tv/20032.jpg",
+        "title": "行尸走肉 -- 第一季",
+        "year": "2010",
+        "userrating": "4",
+        "description": "该剧主要讲述的是主人公瑞克是亚特兰大城郊一座小镇的副警长。在执行公务的过程中，瑞克遭到枪击，伤势严重，被人紧急送往当地医院进行抢救。当瑞克醒来之后发现，世界已经丧尸蔓延、危机四伏。",
+        "Starring": "Andrew Lincoln, Jon Bernthal, Sarah Wayne Callies",
+        "genres": "戏剧，恐怖，悬疑",
+        "director": "Frank Darabont",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2003201",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20032.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "67 min",
+            "releaseDate": "October 31,2010",
+            "description": "Rick searches for his family after emerging from a coma into a world terrorized by the walking dead. Morgan and Duane, whom he meets along the way, help teach Rick the new rules for survival.",
+            "genres": "戏剧，恐怖，悬疑"
+          },
+          {
+            "eid": "2003202",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20032.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "44 min",
+            "releaseDate": "November 7,2010",
+            "description": "Rick unknowingly causes a group of survivors to be trapped by walkers. The group dynamic devolves from accusations to violence as Rick must confront an enemy far more dangerous than the undead.",
+            "genres": "戏剧，恐怖，悬疑"
+          },
+          {
+            "eid": "2003203",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20032.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "November 14,2010",
+            "description": "Rick makes a decision to go back into Atlanta to retrieve the bag of guns and save a man's life. Lori and Shane must deal with the surprising return of someone they thought was dead.",
+            "genres": "戏剧，恐怖，悬疑"
+          }
+        ]
+      },
+      {
+        "tid": "20033",
+        "posterImageURL": "images/media/tv/20033.jpg",
+        "title": "行尸走肉 -- 第二季",
+        "year": "2011",
+        "userrating": "4今年最受期待的电视节目将在第二季回归。AMC电视台的《行尸走肉》(The Walking Dead)是《华尔街日报》(Wall Street Journal)的《惊心动魄的小瞬间》(minute moments)和《暮光之城》(mystery from The first frame)。对里克·格兰姆斯和其他幸存者来说，文明的终结只是一个开始。随着生存斗争的加剧和个人竞争的加剧，这个组织在剩下的机会很渺茫的时候挣扎着坚持他们的人性。《行尸走肉》改编自罗伯特·柯克曼(Robert Kirkman)大获成功、广受欢迎的漫画系列;AMC原创剧集;《行尸走肉》(The Walking Dead)是一部史诗片 ",
+        "Starring": "Andrew Lincoln, Jon Bernthal, Sarah Wayne Callies",
+        "genres": "戏剧，恐怖，悬疑",
+        "director": "Frank Darabont",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2003301",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20033.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "62 min",
+            "releaseDate": "October 16,2011",
+            "description": "Rick leads the group out of Atlanta. On the highway, they are stopped by a threat unlike anything they have seen before.",
+            "genres": "戏剧，恐怖，悬疑"
+          },
+          {
+            "eid": "2003302",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20033.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 23,2011",
+            "description": "Coming to the aid of another, Rick discovers a possible safe haven. Shane must go on a dangerous mission to get badly needed medical supplies.",
+            "genres": "戏剧，恐怖，悬疑"
+          },
+          {
+            "eid": "2003303",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20033.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "October 30,2011",
+            "description": "The group desperately awaits Shane's return. Shane finds himself trapped in a school, surrounded by the undead. Daryl and Andrea search for someone in the woods.",
+            "genres": "戏剧，恐怖，悬疑"
+          }
+        ]
+      },
+      {
+        "tid": "20034",
+        "posterImageURL": "images/media/tv/20034.jpg",
+        "title": "行尸走肉 -- 第三季",
+        "year": "2012",
+        "userrating": "4",
+        "description": "AMC电视台的《行尸走肉》(The Walking Dead)是有线电视历史上收视率最高的剧集，新一季将回归。在这个荒凉的世界里，瑞克和他的幸存者们不仅要与死者战斗，还要面对一种全新的恐惧:生者。",
+        "Starring": "Andrew Lincoln, Sarah Wayne Callies, Laurie Holden",
+        "genres": "戏剧，恐怖，悬疑",
+        "director": "Frank Darabont",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2003401",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20034.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "October 14,2012",
+            "description": "With the world growing more dangerous and Lori's pregnancy advancing, Rick searches for a safer home, pushing the group to the limits.",
+            "genres": "戏剧，恐怖，悬疑"
+          },
+          {
+            "eid": "2003402",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20034.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "October 21,2012",
+            "description": "The shocking discovery of new foes further complicates matters as Rick and the group fight to save the life of one of their own.",
+            "genres": "戏剧，恐怖，悬疑"
+          },
+          {
+            "eid": "2003403",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20034.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "October 28,2012",
+            "description": "After witnessing an accident, Andrea and Michonne meet a new community of survivors.",
+            "genres": "戏剧，恐怖，悬疑"
+          }
+        ]
+      },
+      {
+        "tid": "20035",
+        "posterImageURL": "images/media/tv/20035.jpg",
+        "title": "美国恐怖故事 -- 第一季",
+        "year": "2010",
+        "userrating": "4",
+        "description": "《美国恐怖故事》讲述的是三个家庭从波士顿搬到洛杉矶的故事。执行制片人Ryan Murphy和Brad Falchuk (Nip Tuck)以及Dante Di Loreto (Temple Grandin)主演。",
+        "Starring": "Evan Peters, Sarah Paulson",
+        "genres": "戏剧，恐怖",
+        "director": "Ryan Murphy, Brad Falchuk",
+        "rating": "TV-MA",
+        "tvEpisodes": [
+          {
+            "eid": "2003501",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20035.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "51 min",
+            "releaseDate": "October 5,2011",
+            "description": "A therapist moves his wife and teenage daughter across the country to escape their troubled past.",
+            "genres": "戏剧，恐怖"
+          },
+          {
+            "eid": "2003502",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20035.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 12,2011",
+            "description": "Vivien and Violet find themselves in a dangerous situation eerily similar to a past event. Ben goes back to Boston to fix a mistake.",
+            "genres": "戏剧，恐怖"
+          },
+          {
+            "eid": "2003503",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20035.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 19,2011",
+            "description": "After putting the house back on the market, Vivien learns about its first residents. Ben's visitor causes him to further unravel. Constance and Moira's history is revealed.",
+            "genres": "戏剧，恐怖"
+          }
+        ]
+      },
+      {
+        "tid": "20036",
+        "posterImageURL": "images/media/tv/20036.jpg",
+        "title": "美国恐怖故事 -- 第二季",
+        "year": "2013",
+        "userrating": "4",
+        "description": "故事背景设定在1964年，《美国恐怖故事:精神病院》(American Horror Story: Asylum Story)把我们带进了一个教会管理的天堂，里面住着精神病罪犯，由修女裘德(Jude)(杰西卡兰格[Jessica Lange]饰)用铁腕统治。",
+        "Starring": "Evan Peters, Sarah Paulson",
+        "genres": "戏剧，恐怖",
+        "director": "Ryan Murphy, Brad Falchuk",
+        "rating": "TV-MA",
+        "tvEpisodes": [
+          {
+            "eid": "2003601",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20036.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "October 17,2012",
+            "description": "Welcome to Briarcliff Manor, a notorious insane asylum home to the deranged serial killer, Bloody Face. Lurking in the shadows of this 'sanctuary of healing' are terrifying evils that blur the boundaries between reality and insanity.",
+            "genres": "戏剧，恐怖"
+          },
+          {
+            "eid": "2003602",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20036.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "October 24,2012",
+            "description": "An Exorcist is summoned to Briarcliff to help save a troubled farm boy. Sister Jude's darkest secret is revealed.",
+            "genres": "戏剧，恐怖"
+          },
+          {
+            "eid": "2003603",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20036.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "41 min",
+            "releaseDate": "October 31,2012",
+            "description": "A group of patients attempt to escape from Briarcliff during a violent storm.",
+            "genres": "戏剧，恐怖"
+          }
+        ]
+      },
+      {
+        "tid": "20037",
+        "posterImageURL": "images/media/tv/20037.jpg",
+        "title": "美国恐怖故事 -- 第三季",
+        "year": "2014",
+        "userrating": "4",
+        "description": "Set in 1964, American Horror Story: Asylum takes us into a Church-run haven for the criminally insane, ruled with an iron fist by Sister Jude (Jessica Lange), a nun with a troubled past.",
+        "Starring": "Evan Peters, Sarah Paulson",
+        "genres": "戏剧，恐怖",
+        "director": "Ryan Murphy, Brad Falchuk",
+        "rating": "TV-MA",
+        "tvEpisodes": [
+          {
+            "eid": "2003701",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20037.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "48 min",
+            "releaseDate": "October 9,2013",
+            "description": "A young girl, Zoe, is shattered to discover she possesses a strange genetic affliction tracing back to the dark days of Salem.",
+            "genres": "戏剧，恐怖"
+          },
+          {
+            "eid": "2003702",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20037.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 16,2013",
+            "description": "Fiona helps Zoe and Madison deal with a horrible tragedy. Delphine LaLaurie struggles to adjust to modern life. Cordelia faces a dark decision about her family.",
+            "genres": "戏剧，恐怖"
+          },
+          {
+            "eid": "2003703",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20037.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "53 min",
+            "releaseDate": "October 23,2013",
+            "description": "Fiona takes on an unlikely protégé. A guilt-ridden Zoe tries to give Kyle his old life back. Madison has a fiery exchange with Joan Ramsey, a new neighbor.",
+            "genres": "戏剧，恐怖"
+          }
+        ]
+      },
+      {
+        "tid": "20038",
+        "posterImageURL": "images/media/tv/20038.jpg",
+        "title": "美国恐怖故事 -- 第四季",
+        "year": "2015",
+        "userrating": "4",
+        "description": "《美国恐怖故事:畸形秀》讲述的是表演者们在垂死的美国欲望世界中挣扎求生的故事。",
+        "Starring": "Evan Peters, Sarah Paulson",
+        "genres": "戏剧，恐怖",
+        "director": "Ryan Murphy, Brad Falchuk",
+        "rating": "TV-MA",
+        "tvEpisodes": [
+          {
+            "eid": "2003801",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20038.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "63 min",
+            "releaseDate": "October 8,2014",
+            "description": "One of the only surviving sideshows in the country struggles to stay in business during the dawning era of television.",
+            "genres": "戏剧，恐怖"
+          },
+          {
+            "eid": "2003802",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20038.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "55 min",
+            "releaseDate": "October 15,2014",
+            "description": "A citywide curfew threatens to shut down the Freak Show. A strongman from Ethel's troubled past arrives at camp. Gloria arranges a terrifying play date for Dandy. The Tattler Twins reveal a talent that could knock Elsa from the spotlight.",
+            "genres": "戏剧，恐怖"
+          },
+          {
+            "eid": "2003803",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20038.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "57 min",
+            "releaseDate": "October 22,2014",
+            "description": "The Freaks refuse to perform on Halloween due to an old carny superstition. Jimmy is smitten by a woman claiming to be a fortuneteller. Ethel receives life-changing news.",
+            "genres": "戏剧，恐怖"
+          }
+        ]
+      },
+      {
+        "tid": "20039",
+        "posterImageURL": "images/media/tv/20039.jpg",
+        "title": "美国恐怖故事 -- 第五季",
+        "year": "2016",
+        "userrating": "4",
+        "description": "这部第五期金球奖和艾美奖®®获得特许经营权,美国恐怖故事:酒店。",
+        "Starring": "Evan Peters, Sarah Paulson",
+        "genres": "戏剧，恐怖",
+        "director": "Ryan Murphy, Brad Falchuk",
+        "rating": "TV-MA",
+        "tvEpisodes": [
+          {
+            "eid": "2003901",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20039.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "62 min",
+            "releaseDate": "October 7,2015",
+            "description": "Detective and family man John Lowe investigates a chain of gruesome murders in Los Angeles. A mysterious tip points him to the enigmatic Hotel Cortez.",
+            "genres": "戏剧，恐怖"
+          },
+          {
+            "eid": "2003902",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20039.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "71 min",
+            "releaseDate": "October 14,2015",
+            "description": "Fashion mogul Will Drake brings couture to the Hotel Cortez. A model catches The Countess's eye. John learns about the hotel's sadistic first owner.",
+            "genres": "戏剧，恐怖"
+          },
+          {
+            "eid": "2003903",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20039.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "53 min",
+            "releaseDate": "October 21,2015",
+            "description": "Alex is pushed to her breaking point after Scarlett stirs up memories of Holden. Donovan is targeted by a dangerous rival of The Countess.",
+            "genres": "戏剧，恐怖"
+          }
+        ]
+      },
+      {
+        "tid": "20040",
+        "posterImageURL": "images/media/tv/20040.jpg",
+        "title": "心灵之地 -- 第一季",
+        "year": "2008",
+        "userrating": "4.5",
+        "description": "这部多代人的传奇故事发生在加拿大阿尔伯塔省，《心脏地带》讲述了一个家庭在牧场生活的起起伏伏。",
+        "Starring": "Amber Marshall, Graham Wardle, Shaun Johnston",
+        "genres": "戏剧，喜剧",
+        "director": "Dean Bennett",
+        "rating": "TV-PG",
+        "tvEpisodes": [
+          {
+            "eid": "2004001",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20040.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "44 min",
+            "releaseDate": "October 13,2007",
+            "description": "When Amy discovers a horse named Spartan is being abused she convinces her mother Marion to help rescue him. A storm causes their truck to crash and when Amy wakes up in the hospital she discovers her mother was killed in the accident. The family is left to carry on Marion's legacy by pitching in to run her ranch in Canada's heartland.",
+            "genres": "戏剧，喜剧"
+          },
+          {
+            "eid": "2004002",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20040.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "October 20,2007",
+            "description": "When Lou releases Mrs. Roach's horse before it is fully rehabilitated, the ranch's reputation takes a hit. Mrs. Stanton hurries to spread the bad word, drumming up business for her own trainers. Meanwhile, Amy is still angry about all that's happened and takes it out on Lou and Ty.",
+            "genres": "戏剧，喜剧"
+          },
+          {
+            "eid": "2004003",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20040.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "October 27,2007",
+            "description": "Lou stages an open house to drum up business and invites their estranged father, Tim. Amy takes on a new mare with behavioral problems. Ashley invites Ty to take her on a motorcycle ride while Jack needs his help preparing for the open house and Mallory waits for him at home. Later, Val Stanton challenges Amy to deal with a jumper that Val's people have been unsuccessful with.",
+            "genres": "戏剧，喜剧"
+          }
+        ]
+      },
+      {
+        "tid": "20041",
+        "posterImageURL": "images/media/tv/20041.jpg",
+        "title": "心灵之地 -- 第二季",
+        "year": "2009",
+        "userrating": "4.5",
+        "description": "这部多代人的传奇故事发生在加拿大阿尔伯塔省，《心脏地带》讲述了一个家庭在牧场生活的起起伏伏。",
+        "Starring": "Amber Marshall, Graham Wardle, Shaun Johnston",
+        "genres": "戏剧，喜剧",
+        "director": "Dean Bennett",
+        "rating": "TV-PG",
+        "tvEpisodes": [
+          {
+            "eid": "2004101",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20041.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "44 min",
+            "releaseDate": "October 4,2008",
+            "description": "As Amy's sweet sixteen approaches, new hand Caleb is interested in asking her out on a date. Meanwhile, Amy is fascinated with a white mustang that has been spotted around Heartland. Lou and her dad are working on plans for an 'Equine Executive Retreat,'' but Grandpa Jack is none too thrilled with the idea of an upscale dude ranch on his property.",
+            "genres": "戏剧，喜剧"
+          },
+          {
+            "eid": "2004102",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20041.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "October 11,2008",
+            "description": "Ty returns to Heartland to learn he has a rival for Amy's affections. Lou and her father go against Grandpa Jack about the direction of Heartland.",
+            "genres": "戏剧，喜剧"
+          },
+          {
+            "eid": "2004103",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20041.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "October 18,2008",
+            "description": "When Amy gets a horse for her birthday, she must decide whether she wants to continue helping at the ranch, or pursue a career in show-jumping.",
+            "genres": "戏剧，喜剧"
+          }
+        ]
+      },
+      {
+        "tid": "20042",
+        "posterImageURL": "images/media/tv/20042.jpg",
+        "title": "心灵之地 -- 第三季",
+        "year": "2010",
+        "userrating": "4.5",
+        "description": "这部多代人的传奇故事发生在加拿大阿尔伯塔省，《心脏地带》讲述了一个家庭在牧场生活的起起伏伏。",
+        "Starring": "Amber Marshall, Graham Wardle, Shaun Johnston",
+        "genres": "戏剧，喜剧",
+        "director": "Dean Bennett",
+        "rating": "TV-PG",
+        "tvEpisodes": [
+          {
+            "eid": "2004201",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20042.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "October 3,2009",
+            "description": "An accident on the highway involving a school bus and a trailer full of Olympic bound horses leads to sudden fame for Amy and a surge of business at Heartland.",
+            "genres": "戏剧，喜剧"
+          },
+          {
+            "eid": "2004202",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20042.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "October 10,2009",
+            "description": "Business at Heartland is booming because of Amy's sudden fame. When 10-year-old Taylor and her mother arrive at the ranch Tim promises to have Amy help them, despite how overwhelmed she is.",
+            "genres": "戏剧，喜剧"
+          },
+          {
+            "eid": "2004203",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20042.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "October 17,2009",
+            "description": "Jack's old truck breaks down as he is taking Lisa to a wedding and it's the final straw. Jack is pressured to get a new truck, though no one realizes why he is so attached to the old one. Meanwhile, Amy and Ty are preparing to attend a school dance together and Amy is afraid Ty doesn't want to go.",
+            "genres": "戏剧，喜剧"
+          }
+        ]
+      },
+      {
+        "tid": "20043",
+        "posterImageURL": "images/media/tv/20043.jpg",
+        "title": "心灵之地 -- 第四季",
+        "year": "2011",
+        "userrating": "4.5",
+        "description": "这部多代人的传奇故事发生在加拿大阿尔伯塔省，《心脏地带》讲述了一个家庭在牧场生活的起起伏伏。",
+        "Starring": "Amber Marshall, Graham Wardle, Shaun Johnston",
+        "genres": "戏剧，喜剧",
+        "director": "Dean Bennett",
+        "rating": "TV-PG",
+        "tvEpisodes": [
+          {
+            "eid": "2004301",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20043.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "September 25,2010",
+            "description": "Finding the ranch too much to handle by himself, Jack is anxious for folks to come home. Lou is in Dubai and Caleb and Ashley are on the rodeo circuit. Amy is returning from the Ring of Fire tour, but when Ty returns home after three months with a female 'friend' on the back of his motorcycle, Amy is disappointed.",
+            "genres": "戏剧，喜剧"
+          },
+          {
+            "eid": "2004302",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20043.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "October 2,2010",
+            "description": "Amy scratches the surface to discover Nick Harwell's problems with his polo horse, so it is up to her, Ty and Scott to find the problem. Meanwhile, Lou is home for a visit after finding Dubai may not be all that she hoped for. She is upset to find the dude ranch has been neglected in her absence.",
+            "genres": "戏剧，喜剧"
+          },
+          {
+            "eid": "2004303",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20043.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "October 9,2010",
+            "description": "JMrs. Bell has an accident in her pony cart and Ty needs to treat Sugarfoot at Heartland. Lou has extended her stay at the ranch and is ducking calls from Peter, who's still in Dubai. Chase shows up at the ranch and wants Amy to do a clinic with him. Ashley wants to host a birthday dinner for her Mother, despite Caleb's misgivings.",
+            "genres": "戏剧，喜剧"
+          }
+        ]
+      },
+      {
+        "tid": "20044",
+        "posterImageURL": "images/media/tv/20044.jpg",
+        "title": "兄弟连",
+        "year": "2001",
+        "userrating": "5",
+        "description": "这部具有里程碑意义的10集HBO迷你剧讲述了美国伞兵精英团队在第二次世界大战中的非凡成就。",
+        "Starring": "Nicholas Aaron, Kirk Acevedo, Philip Barantini",
+        "genres": "戏剧，动作",
+        "director": "Evandro Rosolen",
+        "rating": "TV-MA",
+        "tvEpisodes": [
+          {
+            "eid": "2004401",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20044.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "73 min",
+            "releaseDate": "September 9,2001",
+            "description": "On June 4, 1944--just two days before the Allied invasion of Normandy--Lts. Richard Winters and Lewis Nixon reflect back on the events and training that led them to D-Day with the 506th Parachute Infantry Regiment E (a.k.a. Easy Company).",
+            "genres": "戏剧，动作"
+          },
+          {
+            "eid": "2004402",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20044.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "51 min",
+            "releaseDate": "September 9,2011",
+            "description": "D-Day. Due to German flak, the tense men of Easy Company are dropped indiscriminately throughout the Normandy countryside, forcing Lt. Winters (Damian Lewis) to team up with a private from another company until he can find his mates.",
+            "genres": "戏剧，动作"
+          },
+          {
+            "eid": "2004403",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20044.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "65 min",
+            "releaseDate": "September 16,2001",
+            "description": "On D-Day plus two, the scattered men of Easy Company regroup with the help of Pvt. Albert Blithe (Marc Warren). Lt. Welsh (Rick Warden) then delivers their orders: they must take the town of Carentan.",
+            "genres": "戏剧，动作"
+          }
+        ]
+      },
+      {
+        "tid": "20045",
+        "posterImageURL": "images/media/tv/20045.jpg",
+        "title": "猎杀行动 -- 第一季",
+        "year": "2001",
+        "userrating": "3.5",
+        "description": "她才华横溢，美丽而无情……现在萨姆·亨特正在执行一项任务，要找出谁想要她死。梅丽莎·乔治在第一季中饰演一名秘密特工，她对真相的探索让她陷入了一个危险的谜题",
+        "Starring": "Melissa George, Adam Rayner, Stephen Dillane",
+        "genres": "戏剧，悬疑，动作",
+        "director": "Frank Spotnitz",
+        "rating": "TV-MA",
+        "tvEpisodes": [
+          {
+            "eid": "2004501",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20045.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "58 min",
+            "releaseDate": "October 19,2012",
+            "description": "Series Premiere. Sam Hunter (Melissa George), an operative for an elite private intelligence and security firm, has an attempt made on her life. Returning to work unannounced nearly a year later, Sam goes in search of the truth.",
+            "genres": "戏剧，悬疑，动作"
+          },
+          {
+            "eid": "2004502",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20045.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "57 min",
+            "releaseDate": "October 26,2012",
+            "description": "Brought into the household by Turner's son Stephen to tutor his son Edward, Sam and the team continue surveillance of Jack Turner's secret activities. Meanwhile, team members Zoe Morgan and Ian Fowkes track a briefcase that was delivered to Turner.",
+            "genres": "戏剧，悬疑，动作"
+          },
+          {
+            "eid": "2004503",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20045.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "58 min",
+            "releaseDate": "November 2,2012",
+            "description": "The Turner family travels to a country estate, where Jack Turner and other interested parties bid on the dam contract. Sam runs into a man from her past, whom she suspects might have something to do with the attempt on her life.",
+            "genres": "戏剧，悬疑，动作"
+          }
+        ]
+      },
+      {
+        "tid": "20046",
+        "posterImageURL": "images/media/tv/20046.jpg",
+        "title": "闪电侠 -- 第一季",
+        "year": "2015",
+        "userrating": "4",
+        "description": "这部快节奏的超级英雄电影讲述了巴里·艾伦的高速冒险故事。当一场意想不到的粒子加速器事故发生在巴里身上时，他发现自己突然被赋予了以惊人的速度运动的能力。虽然巴里在他的灵魂中一直是一个英雄，但他的新力量终于让他有能力表现得像一个英雄。",
+        "Starring": "Grant Gustin, Candice Patton, Rick Cosnett",
+        "genres": "戏剧，动作",
+        "director": "Greg Berlanti, Geoff Johns, Andrew Kreisberg",
+        "rating": "TV-PG",
+        "tvEpisodes": [
+          {
+            "eid": "2004601",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20046.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "44 min",
+            "releaseDate": "October 6,2014",
+            "description": "In the series premiere, Central City forensic scientist Barry Allen (GRANT GUSTIN) is accidentally given the power of super speed in a freak particle accelerator accident.",
+            "genres": "戏剧，动作"
+          },
+          {
+            "eid": "2004602",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20046.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 13,2014",
+            "description": "Much to Joe's disapproval, Barry has fun with his new powers, but a setback makes him question his ability to be a hero. Iris (CANDICE PATTON) is intrigued by the 'red streak.'",
+            "genres": "戏剧，动作"
+          },
+          {
+            "eid": "2004603",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20046.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 20,2014",
+            "description": "As Barry and the team work to capture a dangerous new meta-human with toxic gas powers, they revisit the night the particle accelerator exploded and killed Caitlin's fiancé, Ronnie.",
+            "genres": "戏剧，动作"
+          }
+        ]
+      },
+      {
+        "tid": "20047",
+        "posterImageURL": "images/media/tv/20047.jpg",
+        "title": "闪电侠 -- 第二季",
+        "year": "2016",
+        "userrating": "4",
+        "description": "F在巴里·艾伦的死敌Eobard Thawne(又名反向闪电)被击败后，闪电队迅速将注意力转向了在中心城市上空盘旋的奇点，吞噬了它路径上的所有东西。拥有英雄般的心和超快的速度移动的能力，巴里冲进了奇点之眼，但他真的能把他的城市从即将到来的厄运中拯救出来吗?",
+        "Starring": "Grant Gustin, Candice Patton, Rick Cosnett",
+        "genres": "戏剧，动作",
+        "director": "Greg Berlanti, Geoff Johns, Andrew Kreisberg",
+        "rating": "TV-PG",
+        "tvEpisodes": [
+          {
+            "eid": "2004701",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20047.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 5,2015",
+            "description": "In the season premiere, Barry Allen (GRANT GUSTIN) has chosen to protect the city on his own - until a meta-human named Atom Smasher (ADAM COPELAND) attacks.",
+            "genres": "戏剧，动作"
+          },
+          {
+            "eid": "2004702",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20047.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 12,2015",
+            "description": "Jay Garrick (TEDDY SEARS), a mysterious man from Earth-2, appears at S.T.A.R. Labs with a dire warning about an evil speedster named Zoom, who is set on destroying The Flash.'",
+            "genres": "戏剧，动作"
+          },
+          {
+            "eid": "2004703",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20047.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 19,2015",
+            "description": "When Barry and the team find out Captain Cold (WENTWORTH MILLER) has been kidnapped, they form an uneasy alliance with his sister, Lisa (PEYTON LIST).",
+            "genres": "戏剧，动作"
+          }
+        ]
+      },
+      {
+        "tid": "20048",
+        "posterImageURL": "images/media/tv/20048.jpg",
+        "title": "闪电侠 -- 第三季",
+        "year": "2017",
+        "userrating": "4",
+        "description": "作为世界上跑得最快的人，巴里·艾伦——又名闪电侠——面临着来自地球和地球2平行世界的超人类威胁。在第三季中，巴里面对的是未知——他不可挽回地改变了时间轴，从反光镜的魔爪中救出了他的母亲。现在唯一的问题是，他是否能找到出路?",
+        "Starring": "Grant Gustin, Candice Patton, Rick Cosnett",
+        "genres": "戏剧，动作",
+        "director": "Greg Berlanti, Geoff Johns, Andrew Kreisberg",
+        "rating": "TV-PG",
+        "tvEpisodes": [
+          {
+            "eid": "2004801",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20048.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 3,2016",
+            "description": "In the season premiere, Barry Allen (GRANT GUSTIN) is living the life he always wanted. But there are serious repercussions to living in this alternate Flashpoint universe.",
+            "genres": "戏剧，动作"
+          },
+          {
+            "eid": "2004802",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20048.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 10,2016",
+            "description": "Barry realizes the effects from Flashpoint are much greater than he thought. When he meets his new co-worker, Julian (TOM FELTON), he's surprised by Julian's immediate disdain.'",
+            "genres": "戏剧，动作"
+          },
+          {
+            "eid": "2004803",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20048.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 17,2016",
+            "description": "Earth-2 Wells returns to Central City with Jesse (VIOLETT BEANE) and confides in Barry and Caitlin that she's been using her powers as a speedster to save people on his Earth.",
+            "genres": "戏剧，动作"
+          }
+        ]
+      },
+      {
+        "tid": "20049",
+        "posterImageURL": "images/media/tv/20049.jpg",
+        "title": "闪电侠 -- 第四季",
+        "year": "2018",
+        "userrating": "4",
+        "description": "闪电侠在上个赛季对萨维塔的胜利是短暂的，一股不平衡的速度力量开始对中心城市造成破坏，迫使巴里为了更大的利益而牺牲自己。随着速度最快的人现在被困在超空间的能量中，未知的危险潜伏在阴影中，这将取决于闪电侠团队在第四季将巴里从他自己的地狱中释放出来。",
+        "Starring": "Grant Gustin, Candice Patton, Rick Cosnett",
+        "genres": "戏剧，动作",
+        "director": "Greg Berlanti, Geoff Johns, Andrew Kreisberg",
+        "rating": "TV-PG",
+        "tvEpisodes": [
+          {
+            "eid": "2004901",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20049.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 9,2017",
+            "description": "In the season four premiere, Cisco (CARLOS VALDES) makes a risky decision to break Barry (GRANT GUSTIN) out of the Speed Force.",
+            "genres": "戏剧，动作"
+          },
+          {
+            "eid": "2004902",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20049.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 16,2017",
+            "description": "Barry has his hands full when he takes on a dangerous meta, while also confronting obstacles in his personal life: like abandoning Iris to balance the Speed Force.",
+            "genres": "戏剧，动作"
+          },
+          {
+            "eid": "2004903",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20049.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 23,2017",
+            "description": "When Barry and the team are hit with a string of bad luck, they realize it's the handiwork of a new meta, Hazard (SUGAR-LYN BEARD), who's got the ability to manipulate luck.",
+            "genres": "戏剧，动作"
+          }
+        ]
+      }
+    ],
+    "data": [
+      {
+        "cid": "6000",
+        "name": "本月热门",
+        "total": "2000",
+        "current": "200",
+        "clist": [
+          20020,
+          20021,
+          20022,
+          20023,
+          20024,
+          20025,
+          20026,
+          20027,
+          20028,
+          20029,
+          20030,
+          20031,
+          20032,
+          20034,
+          20035,
+          20036,
+          20037,
+          20038,
+          20039,
+          20040,
+          20041,
+          20042,
+          20043,
+          20044,
+          20045,
+          20046,
+          20047,
+          20048,
+          20049
+        ]
+      },
+      {
+        "cid": "6001",
+        "name": "戏剧",
+        "total": "2000",
+        "current": "200",
+        "clist": [
+          20020,
+          20021,
+          20022,
+          20023,
+          20024,
+          20025,
+          20026,
+          20027,
+          20032,
+          20033,
+          20034,
+          20035,
+          20036,
+          20037,
+          20038,
+          20039,
+          20040,
+          20041,
+          20042,
+          20043,
+          20044,
+          20045,
+          20046,
+          20047,
+          20048,
+          20049
+        ]
+      },
+      {
+        "cid": "6002",
+        "name": "恐怖",
+        "total": "2000",
+        "current": "200",
+        "clist": [
+          20032,
+          20033,
+          20034,
+          20035,
+          20036,
+          20037,
+          20038,
+          20039
+        ]
+      },
+      {
+        "cid": "6003",
+        "name": "喜剧",
+        "total": "2000",
+        "current": "200",
+        "clist": [
+          20028,
+          20029,
+          20030,
+          20031,
+          20040,
+          20041,
+          20042,
+          20043
+        ]
+      },
+      {
+        "cid": "6004",
+        "name": "动作",
+        "total": "2000",
+        "current": "200",
+        "clist": [
+          20020,
+          20021,
+          20022,
+          20023,
+          20024,
+          20044,
+          20045,
+          20046,
+          20047,
+          20048,
+          20049
+        ]
+      }
+    ]
+  }
+}

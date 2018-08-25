@@ -1,0 +1,1564 @@
+{
+  "TVList": {
+    "code": "200",
+    "message": "success",
+    "slideshow": [
+      {
+        "slideid": "20020",
+        "imageURL": "images/media/tv/20020-slide.jpg",
+        "type": "tv"
+      },
+      {
+        "slideid": "20033",
+        "imageURL": "images/media/tv/20033-slide.jpg",
+        "type": "tv"
+      },
+      {
+        "slideid": "20044",
+        "imageURL": "images/media/tv/20044-slide.jpg",
+        "type": "tv"
+      },
+      {
+        "slideid": "20047",
+        "imageURL": "images/media/tv/20047-slide.jpg",
+        "type": "tv"
+      }
+    ],
+    "tvlist": [
+      {
+        "tid": "20020",
+        "posterImageURL": "images/media/tv/20020.jpg",
+        "title": "Game of Thrones -- Season 1",
+        "year": "2011",
+        "userrating": "4.5",
+        "description": "Get in the 'Game'! Experience the first season of this visionary HBO series set in a mythical world whose inhabitants vie for control of the Iron Throne. But in a land where seasons can last a lifetime, winter is coming...and an ancient evil has awakened",
+        "cast": "Sean Bean, Mark Addy, Nikolaj Coster-Waldau",
+        "genres": "Science fiction, Drama, Action",
+        "director": "Tim Van Patten",
+        "rating": "TV-MA",
+        "tvEpisodes": [
+          {
+            "eid": "2002001",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20020.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "61 min",
+            "releaseDate": "April 17,2011",
+            "description": "Series Premiere. Lord Ned Stark is troubled by disturbing reports from a Night's Watch deserter; King Robert and Lannisters arrive at Winterfell; the exiled Viserys Targaryen forges a powerful new allegiance.",
+            "genres": "Science fiction, Drama, Action"
+          },
+          {
+            "eid": "2002002",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20020.jpg",
+            "audiotrackss": "en",
+            "subtitless": "en, ch",
+            "duration": "55 min",
+            "releaseDate": "April 24,2011",
+            "description": "Bran's fate remains in doubt; Jon and Tyrion head to the Wall; Ned faces a family crisis en route to King's Landing; Viserys bides his time in hopes of winning back the throne; Dany focuses on pleasing her new husband, Drogo.",
+            "genres": "Science fiction, Drama, Action"
+          },
+          {
+            "eid": "2002003",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20020.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "durations": "57 min",
+            "releaseDate": "May 1,2011",
+            "description": "Jon impresses Tyrion at Castle Black; Ned confronts his past and future at King's Landing; Daenerys finds herself at odds with Viserys.",
+            "genres": "Science fiction, Drama, Action"
+          }
+        ]
+      },
+      {
+        "tid": "20021",
+        "posterImageURL": "images/media/tv/20021.jpg",
+        "title": "Game of Thrones -- Season 2",
+        "year": "2011",
+        "userrating": "4.5",
+        "description": "Five kings continue their quest for control of the all-powerful Iron Throne in Season 2 of this epic HBO series based on the bestselling book series by George R.R. Martin. See all 10 gripping episodes plus behind-the-scenes specials, interviews, and more.",
+        "Starring": "Peter Dinklage, Lena Headey, Nikolaj Coster-Waldau",
+        "genres": "science fiction, drama, action",
+        "director": "Tim Van Patten",
+        "rating": "TV-MA",
+        "tvEpisodes": [
+          {
+            "eid": "2002101",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20021.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "52 min",
+            "releaseDate": "April 1,2012",
+            "description": "Season 2 Premiere. Tyrion arrives to save Joffrey's crown from threats old and new; Daenerys searches for allies and water in the Red Waste; Jon Snow and the Night's Watch face the wilderness beyond the Wall.",
+            "genres": "Science fiction, Drama, Action"
+          },
+          {
+            "eid": "2002102",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20021.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "53 min",
+            "releaseDate": "April 3,2012",
+            "description": "Arya shares a secret with a familiar recruit; a scout returns to Dany with disturbing news; Theon comes home to the Iron Islands and his real family; Tyrion administers justice; Jon witnesses a terrible crime.",
+            "genres": "Science fiction, Drama, Action"
+          },
+          {
+            "eid": "2002103",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20021.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "57 min",
+            "releaseDate": "May 1,2011",
+            "description": "At the Red Keep, Tyrion plots three alliances through the promise of marriage. Catelyn arrives in the Stormlands to forge an alliance of her own. But King Renly, his new wife Margaery, and her brother Loras Tyrell have other plans in mind.",
+            "genres": "Science fiction, Drama, Action"
+          }
+        ]
+      },
+      {
+        "tid": "20022",
+        "posterImageURL": "images/media/tv/20022.jpg",
+        "title": "Prison Break -- Season 1",
+        "year": "2006",
+        "userrating": "4.5",
+        "description": "Due to a political conspiracy, an innocent man is framed for the death of the vice president's brother. But his own brother will not let him be executed for a crime he didn't commit, and the two plan to escape before his sentence is carried out.",
+        "Starring": "Wentworth Miller, Dominic Purcell, Sarah Wayne Callies",
+        "genres": "Action, Drama, Suspense",
+        "director": "Paul Scheuring",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2002201",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20022.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "Augest 29,2005",
+            "description": "A man gets himself sent to prison so he can plan an escape for his brother.",
+            "genres": "Action, Drama, Suspense"
+          },
+          {
+            "eid": "2002202",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20022.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "44 min",
+            "releaseDate": "August 29,2005",
+            "description": "Michael tries to get a drug that will help him test positive for diabetes.",
+            "genres": "Action, Drama, Suspense"
+          },
+          {
+            "eid": "2002203",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20022.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "44 min",
+            "releaseDate": "September 5,2005",
+            "description": "Michael encounters problems bringing Abruzzi and Sucre into his plan.",
+            "genres": "Action, Drama, Suspense"
+          }
+        ]
+      },
+      {
+        "tid": "20023",
+        "posterImageURL": "images/media/tv/20023.jpg",
+        "title": "Prison Break -- Season 2",
+        "year": "2007",
+        "userrating": "4.5",
+        "description": "In the second season of Prison Break, Michael, Lincoln and six other inmates, including pickpocket Tweener and the mentally unstable Haywire, have ultimately escaped from Fox River.",
+        "Starring": "Wentworth Miller, Dominic Purcell, Sarah Wayne Callies",
+        "genres": "Action, Drama, Suspense",
+        "director": "Paul Scheuring",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2002301",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20023.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "41 min",
+            "releaseDate": "Aug 21,2006",
+            "description": "Eight hours after their escape from Fox River.",
+            "genres": "Action, Drama, Suspense"
+          },
+          {
+            "eid": "2002302",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20023.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "August 28,2006",
+            "description": "Michael and Lincoln plan another breakout.",
+            "genres": "Action, Drama, Suspense"
+          },
+          {
+            "eid": "2002303",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20023.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "September 4,2006",
+            "description": "Michael and Lincoln experience car trouble as Mahone's pursuit of them goes up in flames.",
+            "genres": "Action, Drama, Suspense"
+          }
+        ]
+      },
+      {
+        "tid": "20024",
+        "posterImageURL": "images/media/tv/20024.jpg",
+        "title": "Prison Break -- Season 3",
+        "year": "2006",
+        "userrating": "4.5",
+        "description": "Just when they thought they were out, they are pulled back in for the most dangerous escape ever.",
+        "Starring": "Wentworth Miller, Dominic Purcell, Sarah Wayne Callies",
+        "genres": "Action, Drama, Suspense",
+        "director": "Paul Scheuring",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2002401",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20024.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "September 17,2007",
+            "description": "The season opener finds Michael Scofield in Sona, a hellish and deadly Panamanian prison where a previous riot has forced all authority out and has left the prisoners in charge of their own lives (and deaths).",
+            "genres": "Action, Drama, Suspense"
+          },
+          {
+            "eid": "2002402",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20024.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "September 24,2007",
+            "description": "Michael races to find a hidden Whistler before Mahone; searching for clues outside the prison, Lincoln runs into an old friend and makes a new one; T-Bag slithers his way into Lechero's graces as the prisoners threaten a revolt due to the lack of agua (water).",
+            "genres": "Action, Drama, Suspense"
+          },
+          {
+            "eid": "2002403",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20024.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "September 24,2007",
+            "description": "Determined to speak with Sara, Michael enlists T-Bag's help to get to the only phone in Sona: Lechero's; Lincoln attempts a daring rescue; Whistler comes clean to Michael, just as Mahone is tempted to fall back on a dirty habit; and Bellick makes an enemy while attempting to get back on his feet.",
+            "genres": "Action, Drama, Suspense"
+          }
+        ]
+      },
+      {
+        "tid": "20025",
+        "posterImageURL": "images/media/tv/20025.jpg",
+        "title": "The 100 -- Season 1",
+        "year": "2014",
+        "userrating": "3.5",
+        "description": "Ninety-seven years ago, Earth was devastated by a nuclear apocalypse, with the only survivors being the inhabitants of orbiting space stations at the time. Three generations later, resources are running out. Taking ruthless steps to ensure their future, a group of 100 juvenile prisoners are exiled to the Earth's surface to test whether it's habitable. No one has set foot on the planet until now.",
+        "Starring": "Eliza Taylor, Paige Turco, Thomas McDonell",
+        "genres": "Science Fiction, Drama",
+        "director": "Jason Rothenberg",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2002501",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20025.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "41 min",
+            "releaseDate": "March 18,2014",
+            "description": "In the series premiere, 100 young exiles from a dying space station are sent to the planet Earth 97 years after a nuclear apocalypse to see if it's habitable.",
+            "genres": "Science Fiction, Drama"
+          },
+          {
+            "eid": "2002502",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20025.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "March 25,2014",
+            "description": "After discovering that Jasper may still be alive, Clarke, Bellamy, Octavia, Finn and Monty set out to locate him and are shocked at what they find.",
+            "genres": "Science Fiction, Drama"
+          },
+          {
+            "eid": "2002503",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20025.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "April 1,2014",
+            "description": "Clarke, Finn and Wells set out in search of an antibiotic to treat Jasper's wounds, when an acid fog forces them to seek shelter...and forgiveness for past crimes.",
+            "genres": "Science Fiction, Drama"
+          }
+        ]
+      },
+      {
+        "tid": "20026",
+        "posterImageURL": "images/media/tv/20026.jpg",
+        "title": "The 100 -- Season 2",
+        "year": "2015",
+        "userrating": "3.5",
+        "description": "After the stunning events in the first season finale that found all of the survivors of the Ark attempting to return to the surface, and The 100 in an epic battle with the Grounders, there are plenty of questions for Season Two. Foremost: Who are the mysterious Mountain Men? Who survived the battle with the Grounders? And what's with that mysterious white room in Mt. Weather?",
+        "Starring": "Eliza Taylor, Paige Turco, Thomas McDonell",
+        "genres": "Science Fiction, Drama",
+        "director": "Jason Rothenberg",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2002601",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20026.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42:00",
+            "releaseDate": "October 21,2014",
+            "description": "In the season premiere, Clarke is still trapped, while the fate of Bellamy, Finn & Raven is still unknown. Meanwhile, the survivors of the Ark face a dangerous new world.",
+            "genres": "Science Fiction, Drama"
+          },
+          {
+            "eid": "2002602",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20026.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 28, 2014",
+            "description": "Clarke demands answers from President Wallace. Kane interrogates one of The 100, and Abby performs emergency surgery. Meanwhile, Octavia resorts to violence to find Lincoln.",
+            "genres": "Science Fiction, Drama"
+          },
+          {
+            "eid": "2002603",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20026.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "November 4, 2014",
+            "description": "Nothing is what it seems. When Clarke (ELIZA TAYLOR) discovers a horrifying project being carried out in Mount Weather's medical ward, she joins forces with an unlikely ally.",
+            "genres": "Science Fiction, Drama"
+          }
+        ]
+      },
+      {
+        "tid": "20027",
+        "posterImageURL": "images/media/tv/20027.jpg",
+        "title": "The 100 -- Season 3",
+        "year": "2015",
+        "userrating": "3.5",
+        "description": "The sacrifices and heartbreaking choices of The 100 have changed everyone forever, but as they set out to stake their place in this dangerous and beautiful new world, they continue to face physical peril and moral dilemmas as they reforge society. The challenges mount even further in season three as they not only determine what kind of lives they will build, but what it will ultimately cost them.",
+        "Starring": "Eliza Taylor, Paige Turco, Thomas McDonell",
+        "genres": "Science Fiction, Drama",
+        "director": "Jason Rothenberg",
+        "rating": "tv-14",
+        "tvEpisodes": [
+          {
+            "eid": "2002701",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20027.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "January 20,2016",
+            "description": "In the season premiere, three months have passed since the tragedy at Mt. Weather. With a bounty on Clarke's head, Bellamy and Kane lead a team into Grounder territory to save her.",
+            "genres": "Science Fiction, Drama"
+          },
+          {
+            "eid": "2002702",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20027.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "January 27,2016",
+            "description": "Bellamy and Kane risk life and limb to rescue Clarke. In an attempt to avoid worrying about her daughter, Abby focuses on whether to open Mount Weather as a medical facility.",
+            "genres": "Science Fiction, Drama"
+          },
+          {
+            "eid": "2002703",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20027.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "February 3,2016",
+            "description": "Clarke wrestles with a decision. Bellamy learns that something isn't what it seems. Meanwhile, Murphy plots to betray his former Chancellor.",
+            "genres": "Science Fiction, Drama"
+          }
+        ]
+      },
+      {
+        "tid": "20028",
+        "posterImageURL": "images/media/tv/20028.jpg",
+        "title": "2 Broke Girls -- Season 1",
+        "year": "2012",
+        "userrating": "3.5",
+        "description": "In this fun, outrageous comedy series from Emmy® winner Michael Patrick King (Sex and the City) and comedian Whitney Cummings, two girls from very different backgrounds - Max, poor from birth, and Caroline, born wealthy but down on her luck - wind up as waitresses in the same colorful Brooklyn diner and strike up an unlikely friendship that could lead to a successful business venture.",
+        "Starring": "Kat Dennings, Beth Behrs, Garrett Morris",
+        "genres": "Comedy",
+        "director": "Whitney Cummings, Michael Patrick King",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2002801",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20028.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "September 18,2011",
+            "description": "Kat Dennings and Beth Behrs star in this new comedy series from Michael Patrick King as waitresses in the same colorful Brooklyn diner who strike up an unlikely friendship.",
+            "genres": "Comedy"
+          },
+          {
+            "eid": "2002802",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20028.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "September 25,2011",
+            "description": "Caroline thinks she's doing Max a favor - but she is really stealing Max's thunder - when she takes it upon herself to facilitate Max's breakup with Robbie (recurring guest star NOAH MILLS Sex and the City 2).",
+            "genres": "Comedy"
+          },
+          {
+            "eid": "2002803",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20028.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "October 2,2011",
+            "description": "Max's lesson to Caroline on the art of thrift store shopping turns ugly over a coveted T-shirt. Plus, a sarcastic street artist, Johnny (NICK ZANO), flirts with Max.",
+            "genres": "Comedy"
+          }
+        ]
+      },
+      {
+        "tid": "20029",
+        "posterImageURL": "images/media/tv/20029.jpg",
+        "title": "2 Broke Girls -- Season 2",
+        "year": "2013",
+        "userrating": "3.5",
+        "description": "As the #1 new comedy of its debut season continues, sarcastic Max (Kat Dennings) and sophisticated Caroline (Beth Behrs) - who met waitressing at the same Brooklyn diner - move closer to their goal of running a cupcake business and closer as friends. Jennifer Coolidge (American Pie films) joins the starring cast this season and Ryan Hansen (Party Down) guest stars as Caroline's love interest.",
+        "Starring": "Kat Dennings, Beth Behrs, Garrett Morris",
+        "genres": "Comedy",
+        "director": "Whitney Cummings, Michael Patrick King",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2002901",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20029.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "September 23,2012",
+            "description": "Max joins Caroline to visit her father, Martin Channing (STEVEN WEBER), in prison. He encourages them to purchase a particular item at the family auction.",
+            "genres": "Comedy"
+          },
+          {
+            "eid": "2002902",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20029.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "September 30,2012",
+            "description": "After Martha Stewart's positive response to one of their cupcakes, Max and Caroline eagerly await a call from her. Plus, Caroline loses a lucky keepsake.",
+            "genres": "Comedy"
+          },
+          {
+            "eid": "2002903",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20029.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "October 7,2012",
+            "description": "Max and Caroline show their true colors when the diner gets robbed. Meanwhile, everyone sees a surprising new side of Han. Recurring guest star BROOKE LYONS (Sullivan & Son, Jane by Design) appears as Peach.",
+            "genres": "Comedy"
+          }
+        ]
+      },
+      {
+        "tid": "20030",
+        "posterImageURL": "images/media/tv/20030.jpg",
+        "title": "2 Broke Girls -- Season 3",
+        "year": "2014",
+        "userrating": "3.5",
+        "description": "One of television's top comedies continues for a third sensational season as sarcastic Max and sophisticated Caroline, new best friends who met waitressing at the same Brooklyn diner - try to get their cupcake business further off the ground. At the end of season two, the girls discovered a hidden room in the diner - perfect to operate Max's Homemade Cupcakes out of.",
+        "Starring": "Kat Dennings, Beth Behrs, Garrett Morris",
+        "genres": "Comedy",
+        "director": "Whitney Cummings, Michael Patrick King",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2003001",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20030.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "September 22,2013",
+            "description": "n the third season premiere, business booms for Max and Caroline's new cupcake walk-up window when word spreads about a shocking incident involving a rock star.",
+            "genres": "Comedy"
+          },
+          {
+            "eid": "2003002",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20030.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "September 29,2013",
+            "description": "Caroline tries to raise money for an expensive pair of new pants through an online fundraising site. Meanwhile, Max's new smartphone comes between her and Caroline.",
+            "genres": "Comedy"
+          },
+          {
+            "eid": "2003003",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20030.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "October 6,2013",
+            "description": "When Max becomes smitten with an old stray cat that's been hanging around the apartment, Caroline tries to convince her they need to find it a better home. But just when they think they've found one, the cat's fate takes a turn.",
+            "genres": "Comedy"
+          }
+        ]
+      },
+      {
+        "tid": "20031",
+        "posterImageURL": "images/media/tv/20031.jpg",
+        "title": "2 Broke Girls -- Season 4",
+        "year": "2015",
+        "userrating": "3.5",
+        "description": "The comedic duo that goes together like cupcakes and frosting is back in business and more hilarious than ever! It's season four of 2 Broke Girls, from Michael Patrick King (Sex and the City), starring Kat Dennings and Beth Behrs as two friends and roomies who work at a Brooklyn diner where they dish up sarcasm and smarts - and sell Max's Homemade Cupcakes at the diner's pop-up window. Ka-ching!",
+        "Starring": "Kat Dennings, Beth Behrs, Garrett Morris",
+        "genres": "Comedy",
+        "director": "Whitney Cummings, Michael Patrick King",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2003101",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20031.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "October 26,2014",
+            "description": "In the fourth season premiere, Max and Caroline are approached about shooting an episode of a Kardashians' reality show at their cupcake window. KIM KARDASHIAN WEST guest stars.",
+            "genres": "Comedy"
+          },
+          {
+            "eid": "2003102",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20031.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "November 2,2014",
+            "description": "Max is embarrassed when she discovers Sebastian (guest star JESSE METCALFE - Dallas, Desperate Housewives), the hot guy she's been spending time with, is a DJ - at a grocery store.",
+            "genres": "Comedy"
+          },
+          {
+            "eid": "2003103",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20031.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "21 min",
+            "releaseDate": "November 9,2014",
+            "description": "Max receives a sentimental gift from her mother, and Caroline accidentally loses Han's expensive fish.",
+            "genres": "Comedy"
+          }
+        ]
+      },
+      {
+        "tid": "20032",
+        "posterImageURL": "images/media/tv/20032.jpg",
+        "title": "The Walking Dead -- Season 1",
+        "year": "2010",
+        "userrating": "4",
+        "description": "When the world is ravaged by a zombie apocalypse, police officer Rick Grimes and a small group of others must face a terrifying new reality. Can they survive 'the dead' and each other? The Walking Dead is a survival adventure series from the director of The Shawshank Redemption and the producer of The Terminator.",
+        "Starring": "Andrew Lincoln, Jon Bernthal, Sarah Wayne Callies",
+        "genres": "Drama, Horror, Suspense",
+        "director": "Frank Darabont",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2003201",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20032.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "67 min",
+            "releaseDate": "October 31,2010",
+            "description": "Rick searches for his family after emerging from a coma into a world terrorized by the walking dead. Morgan and Duane, whom he meets along the way, help teach Rick the new rules for survival.",
+            "genres": "Drama, Horror, Suspense"
+          },
+          {
+            "eid": "2003202",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20032.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "44 min",
+            "releaseDate": "November 7,2010",
+            "description": "Rick unknowingly causes a group of survivors to be trapped by walkers. The group dynamic devolves from accusations to violence as Rick must confront an enemy far more dangerous than the undead.",
+            "genres": "Drama, Horror, Suspense"
+          },
+          {
+            "eid": "2003203",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20032.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "November 14,2010",
+            "description": "Rick makes a decision to go back into Atlanta to retrieve the bag of guns and save a man's life. Lori and Shane must deal with the surprising return of someone they thought was dead.",
+            "genres": "Drama, Horror, Suspense"
+          }
+        ]
+      },
+      {
+        "tid": "20033",
+        "posterImageURL": "images/media/tv/20033.jpg",
+        "title": "The Walking Dead -- Season 2",
+        "year": "2011",
+        "userrating": "4",
+        "description": "The most anticipated television event of the year returns for a second season. AMC's The Walking Dead is 'breathtaking in its small moments' (Wall Street Journal) and 'creepy from the first frame' (Variety). The end of civilization was just the beginning for Rick Grimes and the other survivors. As the fight to stay alive intensifies and personal rivalries continue to fuel;the group struggles to hold on to their humanity in a time where slim chances are all that is left. Based on Robert Kirkman's hugely successful and popular comic book series;AMC's original series;The Walking Dead is an epic;edge-of-your-seat drama where personal struggles ",
+        "Starring": "Andrew Lincoln, Jon Bernthal, Sarah Wayne Callies",
+        "genres": "Drama, Horror, Suspense",
+        "director": "Frank Darabont",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2003301",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20033.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "62 min",
+            "releaseDate": "October 16,2011",
+            "description": "Rick leads the group out of Atlanta. On the highway, they are stopped by a threat unlike anything they have seen before.",
+            "genres": "Drama, Horror, Suspense"
+          },
+          {
+            "eid": "2003302",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20033.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 23,2011",
+            "description": "Coming to the aid of another, Rick discovers a possible safe haven. Shane must go on a dangerous mission to get badly needed medical supplies.",
+            "genres": "Drama, Horror, Suspense"
+          },
+          {
+            "eid": "2003303",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20033.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "October 30,2011",
+            "description": "The group desperately awaits Shane's return. Shane finds himself trapped in a school, surrounded by the undead. Daryl and Andrea search for someone in the woods.",
+            "genres": "Drama, Horror, Suspense"
+          }
+        ]
+      },
+      {
+        "tid": "20034",
+        "posterImageURL": "images/media/tv/20034.jpg",
+        "title": "The Walking Dead -- Season 3",
+        "year": "2012",
+        "userrating": "4",
+        "description": "AMC's 'The Walking Dead,' the most watched drama in basic cable history returns for a thrilling new season. In this desolate world, Rick and his band of survivors must not only fight the dead, but face a whole new fear: the living.",
+        "Starring": "Andrew Lincoln, Sarah Wayne Callies, Laurie Holden",
+        "genres": "Drama, Horror, Suspense",
+        "director": "Frank Darabont",
+        "rating": "TV-14",
+        "tvEpisodes": [
+          {
+            "eid": "2003401",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20034.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "October 14,2012",
+            "description": "With the world growing more dangerous and Lori's pregnancy advancing, Rick searches for a safer home, pushing the group to the limits.",
+            "genres": "Drama, Horror, Suspense"
+          },
+          {
+            "eid": "2003402",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20034.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "October 21,2012",
+            "description": "The shocking discovery of new foes further complicates matters as Rick and the group fight to save the life of one of their own.",
+            "genres": "Drama, Horror, Suspense"
+          },
+          {
+            "eid": "2003403",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20034.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "October 28,2012",
+            "description": "After witnessing an accident, Andrea and Michonne meet a new community of survivors.",
+            "genres": "Drama, Horror, Suspense"
+          }
+        ]
+      },
+      {
+        "tid": "20035",
+        "posterImageURL": "images/media/tv/20035.jpg",
+        "title": "American Horror Story -- Season 1",
+        "year": "2010",
+        "userrating": "4",
+        "description": "American Horror Story revolves around The Harmons, a family of three who moved from Boston to Los Angeles as a means to reconcile past anguish. From executive producers Ryan Murphy and Brad Falchuk (Nip Tuck) and Dante Di Loreto (Temple Grandin).",
+        "Starring": "Evan Peters, Sarah Paulson",
+        "genres": "Drama, Horror",
+        "director": "Ryan Murphy, Brad Falchuk",
+        "rating": "TV-MA",
+        "tvEpisodes": [
+          {
+            "eid": "2003501",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20035.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "51 min",
+            "releaseDate": "October 5,2011",
+            "description": "A therapist moves his wife and teenage daughter across the country to escape their troubled past.",
+            "genres": "Drama, Horror"
+          },
+          {
+            "eid": "2003502",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20035.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 12,2011",
+            "description": "Vivien and Violet find themselves in a dangerous situation eerily similar to a past event. Ben goes back to Boston to fix a mistake.",
+            "genres": "Drama, Horror"
+          },
+          {
+            "eid": "2003503",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20035.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 19,2011",
+            "description": "After putting the house back on the market, Vivien learns about its first residents. Ben's visitor causes him to further unravel. Constance and Moira's history is revealed.",
+            "genres": "Drama, Horror"
+          }
+        ]
+      },
+      {
+        "tid": "20036",
+        "posterImageURL": "images/media/tv/20036.jpg",
+        "title": "American Horror Story -- Season 2",
+        "year": "2013",
+        "userrating": "4",
+        "description": "Set in 1964, American Horror Story: Asylum takes us into a Church-run haven for the criminally insane, ruled with an iron fist by Sister Jude (Jessica Lange), a nun with a troubled past.",
+        "Starring": "Evan Peters, Sarah Paulson",
+        "genres": "Drama, Horror",
+        "director": "Ryan Murphy, Brad Falchuk",
+        "rating": "TV-MA",
+        "tvEpisodes": [
+          {
+            "eid": "2003601",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20036.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "October 17,2012",
+            "description": "Welcome to Briarcliff Manor, a notorious insane asylum home to the deranged serial killer, Bloody Face. Lurking in the shadows of this 'sanctuary of healing' are terrifying evils that blur the boundaries between reality and insanity.",
+            "genres": "Drama, Horror"
+          },
+          {
+            "eid": "2003602",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20036.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "43 min",
+            "releaseDate": "October 24,2012",
+            "description": "An Exorcist is summoned to Briarcliff to help save a troubled farm boy. Sister Jude's darkest secret is revealed.",
+            "genres": "Drama, Horror"
+          },
+          {
+            "eid": "2003603",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20036.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "41 min",
+            "releaseDate": "October 31,2012",
+            "description": "A group of patients attempt to escape from Briarcliff during a violent storm.",
+            "genres": "Drama, Horror"
+          }
+        ]
+      },
+      {
+        "tid": "20037",
+        "posterImageURL": "images/media/tv/20037.jpg",
+        "title": "American Horror Story -- Season 3",
+        "year": "2014",
+        "userrating": "4",
+        "description": "Set in 1964, American Horror Story: Asylum takes us into a Church-run haven for the criminally insane, ruled with an iron fist by Sister Jude (Jessica Lange), a nun with a troubled past.",
+        "Starring": "Evan Peters, Sarah Paulson",
+        "genres": "Drama, Horror",
+        "director": "Ryan Murphy, Brad Falchuk",
+        "rating": "TV-MA",
+        "tvEpisodes": [
+          {
+            "eid": "2003701",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20037.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "48 min",
+            "releaseDate": "October 9,2013",
+            "description": "A young girl, Zoe, is shattered to discover she possesses a strange genetic affliction tracing back to the dark days of Salem.",
+            "genres": "Drama, Horror"
+          },
+          {
+            "eid": "2003702",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20037.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 16,2013",
+            "description": "Fiona helps Zoe and Madison deal with a horrible tragedy. Delphine LaLaurie struggles to adjust to modern life. Cordelia faces a dark decision about her family.",
+            "genres": "Drama, Horror"
+          },
+          {
+            "eid": "2003703",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20037.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "53 min",
+            "releaseDate": "October 23,2013",
+            "description": "Fiona takes on an unlikely protégé. A guilt-ridden Zoe tries to give Kyle his old life back. Madison has a fiery exchange with Joan Ramsey, a new neighbor.",
+            "genres": "Drama, Horror"
+          }
+        ]
+      },
+      {
+        "tid": "20038",
+        "posterImageURL": "images/media/tv/20038.jpg",
+        "title": "American Horror Story -- Season 4",
+        "year": "2015",
+        "userrating": "4",
+        "description": "American Horror Story: Freak Show is the story of the performers and their desperate journey of survival amidst the dying world of the American carny experience.",
+        "Starring": "Evan Peters, Sarah Paulson",
+        "genres": "Drama, Horror",
+        "director": "Ryan Murphy, Brad Falchuk",
+        "rating": "TV-MA",
+        "tvEpisodes": [
+          {
+            "eid": "2003801",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20038.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "63 min",
+            "releaseDate": "October 8,2014",
+            "description": "One of the only surviving sideshows in the country struggles to stay in business during the dawning era of television.",
+            "genres": "Drama, Horror"
+          },
+          {
+            "eid": "2003802",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20038.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "55 min",
+            "releaseDate": "October 15,2014",
+            "description": "A citywide curfew threatens to shut down the Freak Show. A strongman from Ethel's troubled past arrives at camp. Gloria arranges a terrifying play date for Dandy. The Tattler Twins reveal a talent that could knock Elsa from the spotlight.",
+            "genres": "Drama, Horror"
+          },
+          {
+            "eid": "2003803",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20038.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "57 min",
+            "releaseDate": "October 22,2014",
+            "description": "The Freaks refuse to perform on Halloween due to an old carny superstition. Jimmy is smitten by a woman claiming to be a fortuneteller. Ethel receives life-changing news.",
+            "genres": "Drama, Horror"
+          }
+        ]
+      },
+      {
+        "tid": "20039",
+        "posterImageURL": "images/media/tv/20039.jpg",
+        "title": "American Horror Story -- Season 5",
+        "year": "2016",
+        "userrating": "4",
+        "description": "The 13-episode fifth installment of the Emmy® and Golden Globe® winning franchise, American Horror Story: Hotel.",
+        "Starring": "Evan Peters, Sarah Paulson",
+        "genres": "Drama, Horror",
+        "director": "Ryan Murphy, Brad Falchuk",
+        "rating": "TV-MA",
+        "tvEpisodes": [
+          {
+            "eid": "2003901",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20039.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "62 min",
+            "releaseDate": "October 7,2015",
+            "description": "Detective and family man John Lowe investigates a chain of gruesome murders in Los Angeles. A mysterious tip points him to the enigmatic Hotel Cortez.",
+            "genres": "Drama, Horror"
+          },
+          {
+            "eid": "2003902",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20039.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "71 min",
+            "releaseDate": "October 14,2015",
+            "description": "Fashion mogul Will Drake brings couture to the Hotel Cortez. A model catches The Countess's eye. John learns about the hotel's sadistic first owner.",
+            "genres": "Drama, Horror"
+          },
+          {
+            "eid": "2003903",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20039.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "53 min",
+            "releaseDate": "October 21,2015",
+            "description": "Alex is pushed to her breaking point after Scarlett stirs up memories of Holden. Donovan is targeted by a dangerous rival of The Countess.",
+            "genres": "Drama, Horror"
+          }
+        ]
+      },
+      {
+        "tid": "20040",
+        "posterImageURL": "images/media/tv/20040.jpg",
+        "title": "Heartland -- Season 1",
+        "year": "2008",
+        "userrating": "4.5",
+        "description": "A multi-generational saga set in Alberta, Canada, 'Heartland' follows a family through the highs and lows of life on the ranch.",
+        "Starring": "Amber Marshall, Graham Wardle, Shaun Johnston",
+        "genres": "Drama,Comedy",
+        "director": "Dean Bennett",
+        "rating": "TV-PG",
+        "tvEpisodes": [
+          {
+            "eid": "2004001",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20040.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "44 min",
+            "releaseDate": "October 13,2007",
+            "description": "When Amy discovers a horse named Spartan is being abused she convinces her mother Marion to help rescue him. A storm causes their truck to crash and when Amy wakes up in the hospital she discovers her mother was killed in the accident. The family is left to carry on Marion's legacy by pitching in to run her ranch in Canada's heartland.",
+            "genres": "Drama,Comedy"
+          },
+          {
+            "eid": "2004002",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20040.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "October 20,2007",
+            "description": "When Lou releases Mrs. Roach's horse before it is fully rehabilitated, the ranch's reputation takes a hit. Mrs. Stanton hurries to spread the bad word, drumming up business for her own trainers. Meanwhile, Amy is still angry about all that's happened and takes it out on Lou and Ty.",
+            "genres": "Drama,Comedy"
+          },
+          {
+            "eid": "2004003",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20040.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "October 27,2007",
+            "description": "Lou stages an open house to drum up business and invites their estranged father, Tim. Amy takes on a new mare with behavioral problems. Ashley invites Ty to take her on a motorcycle ride while Jack needs his help preparing for the open house and Mallory waits for him at home. Later, Val Stanton challenges Amy to deal with a jumper that Val's people have been unsuccessful with.",
+            "genres": "Drama,Comedy"
+          }
+        ]
+      },
+      {
+        "tid": "20041",
+        "posterImageURL": "images/media/tv/20041.jpg",
+        "title": "Heartland -- Season 2",
+        "year": "2009",
+        "userrating": "4.5",
+        "description": "A multi-generational saga set in Alberta, Canada, 'Heartland' follows a family through the highs and lows of life on the ranch.",
+        "Starring": "Amber Marshall, Graham Wardle, Shaun Johnston",
+        "genres": "Drama,Comedy",
+        "director": "Dean Bennett",
+        "rating": "TV-PG",
+        "tvEpisodes": [
+          {
+            "eid": "2004101",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20041.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "44 min",
+            "releaseDate": "October 4,2008",
+            "description": "As Amy's sweet sixteen approaches, new hand Caleb is interested in asking her out on a date. Meanwhile, Amy is fascinated with a white mustang that has been spotted around Heartland. Lou and her dad are working on plans for an 'Equine Executive Retreat,'' but Grandpa Jack is none too thrilled with the idea of an upscale dude ranch on his property.",
+            "genres": "Drama,Comedy"
+          },
+          {
+            "eid": "2004102",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20041.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "October 11,2008",
+            "description": "Ty returns to Heartland to learn he has a rival for Amy's affections. Lou and her father go against Grandpa Jack about the direction of Heartland.",
+            "genres": "Drama,Comedy"
+          },
+          {
+            "eid": "2004103",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20041.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "October 18,2008",
+            "description": "When Amy gets a horse for her birthday, she must decide whether she wants to continue helping at the ranch, or pursue a career in show-jumping.",
+            "genres": "Drama,Comedy"
+          }
+        ]
+      },
+      {
+        "tid": "20042",
+        "posterImageURL": "images/media/tv/20042.jpg",
+        "title": "Heartland -- Season 3",
+        "year": "2010",
+        "userrating": "4.5",
+        "description": "A multi-generational saga set in Alberta, Canada, 'Heartland' follows a family through the highs and lows of life on the ranch.",
+        "Starring": "Amber Marshall, Graham Wardle, Shaun Johnston",
+        "genres": "Drama",
+        "director": "Dean Bennett",
+        "rating": "TV-PG",
+        "tvEpisodes": [
+          {
+            "eid": "2004201",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20042.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "October 3,2009",
+            "description": "An accident on the highway involving a school bus and a trailer full of Olympic bound horses leads to sudden fame for Amy and a surge of business at Heartland.",
+            "genres": "Drama,Comedy"
+          },
+          {
+            "eid": "2004202",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20042.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "October 10,2009",
+            "description": "Business at Heartland is booming because of Amy's sudden fame. When 10-year-old Taylor and her mother arrive at the ranch Tim promises to have Amy help them, despite how overwhelmed she is.",
+            "genres": "Drama,Comedy"
+          },
+          {
+            "eid": "2004203",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20042.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "October 17,2009",
+            "description": "Jack's old truck breaks down as he is taking Lisa to a wedding and it's the final straw. Jack is pressured to get a new truck, though no one realizes why he is so attached to the old one. Meanwhile, Amy and Ty are preparing to attend a school dance together and Amy is afraid Ty doesn't want to go.",
+            "genres": "Drama,Comedy"
+          }
+        ]
+      },
+      {
+        "tid": "20043",
+        "posterImageURL": "images/media/tv/20043.jpg",
+        "title": "Heartland -- Season 4",
+        "year": "2011",
+        "userrating": "4.5",
+        "description": "A multi-generational saga set in Alberta, Canada, 'Heartland' follows a family through the highs and lows of life on the ranch.",
+        "Starring": "Amber Marshall, Graham Wardle, Shaun Johnston",
+        "genres": "Drama,Comedy",
+        "director": "Dean Bennett",
+        "rating": "TV-PG",
+        "tvEpisodes": [
+          {
+            "eid": "2004301",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20043.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "September 25,2010",
+            "description": "Finding the ranch too much to handle by himself, Jack is anxious for folks to come home. Lou is in Dubai and Caleb and Ashley are on the rodeo circuit. Amy is returning from the Ring of Fire tour, but when Ty returns home after three months with a female 'friend' on the back of his motorcycle, Amy is disappointed.",
+            "genres": "Drama,Comedy"
+          },
+          {
+            "eid": "2004302",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20043.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "October 2,2010",
+            "description": "Amy scratches the surface to discover Nick Harwell's problems with his polo horse, so it is up to her, Ty and Scott to find the problem. Meanwhile, Lou is home for a visit after finding Dubai may not be all that she hoped for. She is upset to find the dude ranch has been neglected in her absence.",
+            "genres": "Drama,Comedy"
+          },
+          {
+            "eid": "2004303",
+            "videoURL": "videos/tv/20020.mp4",
+            "posterImageURL": "images/media/tv/20043.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "45 min",
+            "releaseDate": "October 9,2010",
+            "description": "JMrs. Bell has an accident in her pony cart and Ty needs to treat Sugarfoot at Heartland. Lou has extended her stay at the ranch and is ducking calls from Peter, who's still in Dubai. Chase shows up at the ranch and wants Amy to do a clinic with him. Ashley wants to host a birthday dinner for her Mother, despite Caleb's misgivings.",
+            "genres": "Drama,Comedy"
+          }
+        ]
+      },
+      {
+        "tid": "20044",
+        "posterImageURL": "images/media/tv/20044.jpg",
+        "title": "Band of Brothers -- Season 1",
+        "year": "2001",
+        "userrating": "5",
+        "description": "This landmark ten-part HBO miniseries recounts the remarkable achievements of an elite team of U.S. paratroopers in World War II.",
+        "Starring": "Nicholas Aaron, Kirk Acevedo, Philip Barantini",
+        "genres": "Drama, Action",
+        "director": "Evandro Rosolen",
+        "rating": "TV-MA",
+        "tvEpisodes": [
+          {
+            "eid": "2004401",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20044.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "73 min",
+            "releaseDate": "September 9,2001",
+            "description": "On June 4, 1944--just two days before the Allied invasion of Normandy--Lts. Richard Winters and Lewis Nixon reflect back on the events and training that led them to D-Day with the 506th Parachute Infantry Regiment E (a.k.a. Easy Company).",
+            "genres": "Drama, Action"
+          },
+          {
+            "eid": "2004402",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20044.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "51 min",
+            "releaseDate": "September 9,2011",
+            "description": "D-Day. Due to German flak, the tense men of Easy Company are dropped indiscriminately throughout the Normandy countryside, forcing Lt. Winters (Damian Lewis) to team up with a private from another company until he can find his mates.",
+            "genres": "Drama, Action"
+          },
+          {
+            "eid": "2004403",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20044.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "65 min",
+            "releaseDate": "September 16,2001",
+            "description": "On D-Day plus two, the scattered men of Easy Company regroup with the help of Pvt. Albert Blithe (Marc Warren). Lt. Welsh (Rick Warden) then delivers their orders: they must take the town of Carentan.",
+            "genres": "Drama, Action"
+          }
+        ]
+      },
+      {
+        "tid": "20045",
+        "posterImageURL": "images/media/tv/20045.jpg",
+        "title": "Hunted -- Season 1",
+        "year": "2001",
+        "userrating": "3.5",
+        "description": "She's brilliant, beautiful and ruthless...and now Sam Hunter is on a mission to find out who wants her dead. Melissa George stars in Season 1 of this series as the covert operative whose search for the truth leads her into a dangerous mystery",
+        "Starring": "Melissa George, Adam Rayner, Stephen Dillane",
+        "genres": "Drama, Suspense, Action",
+        "director": "Frank Spotnitz",
+        "rating": "TV-MA",
+        "tvEpisodes": [
+          {
+            "eid": "2004501",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20045.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "58 min",
+            "releaseDate": "October 19,2012",
+            "description": "Series Premiere. Sam Hunter (Melissa George), an operative for an elite private intelligence and security firm, has an attempt made on her life. Returning to work unannounced nearly a year later, Sam goes in search of the truth.",
+            "genres": "Drama, Suspense, Action"
+          },
+          {
+            "eid": "2004502",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20045.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "57 min",
+            "releaseDate": "October 26,2012",
+            "description": "Brought into the household by Turner's son Stephen to tutor his son Edward, Sam and the team continue surveillance of Jack Turner's secret activities. Meanwhile, team members Zoe Morgan and Ian Fowkes track a briefcase that was delivered to Turner.",
+            "genres": "Drama, Suspense, Action"
+          },
+          {
+            "eid": "2004503",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20045.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "58 min",
+            "releaseDate": "November 2,2012",
+            "description": "The Turner family travels to a country estate, where Jack Turner and other interested parties bid on the dam contract. Sam runs into a man from her past, whom she suspects might have something to do with the attempt on her life.",
+            "genres": "Drama, Suspense, Action"
+          }
+        ]
+      },
+      {
+        "tid": "20046",
+        "posterImageURL": "images/media/tv/20046.jpg",
+        "title": "The Flash -- Season 1",
+        "year": "2015",
+        "userrating": "4",
+        "description": "This fast-paced super hero drama follows the high-speed adventures of Barry Allen, an everyday guy with the desire to help others. When an unexpected particle accelerator accident strikes Barry, he finds himself suddenly charged with the incredible power to move at super speeds. While Barry has always been a hero in his soul, his newfound powers have finally given him the ability to act like one.",
+        "Starring": "Grant Gustin, Candice Patton, Rick Cosnett",
+        "genres": "Drama, Action",
+        "director": "Greg Berlanti, Geoff Johns, Andrew Kreisberg",
+        "rating": "TV-PG",
+        "tvEpisodes": [
+          {
+            "eid": "2004601",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20046.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "44 min",
+            "releaseDate": "October 6,2014",
+            "description": "In the series premiere, Central City forensic scientist Barry Allen (GRANT GUSTIN) is accidentally given the power of super speed in a freak particle accelerator accident.",
+            "genres": "Drama, Action"
+          },
+          {
+            "eid": "2004602",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20046.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 13,2014",
+            "description": "Much to Joe's disapproval, Barry has fun with his new powers, but a setback makes him question his ability to be a hero. Iris (CANDICE PATTON) is intrigued by the 'red streak.'",
+            "genres": "Drama, Action"
+          },
+          {
+            "eid": "2004603",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20046.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 20,2014",
+            "description": "As Barry and the team work to capture a dangerous new meta-human with toxic gas powers, they revisit the night the particle accelerator exploded and killed Caitlin's fiancé, Ronnie.",
+            "genres": "Drama, Action"
+          }
+        ]
+      },
+      {
+        "tid": "20047",
+        "posterImageURL": "images/media/tv/20047.jpg",
+        "title": "The Flash -- Season 2",
+        "year": "2016",
+        "userrating": "4",
+        "description": "Following the defeat of Barry Allen's arch-nemesis Eobard Thawne (aka Reverse Flash), Team Flash quickly turned their attention to the singularity swirling high above Central City, consuming everything in its path. Armed with the heart of a hero and the ability to move at super speeds, Barry charged into the eye of the singularity, but can he actually save his city from impending doom?",
+        "Starring": "Grant Gustin, Candice Patton, Rick Cosnett",
+        "genres": "Drama, Action",
+        "director": "Greg Berlanti, Geoff Johns, Andrew Kreisberg",
+        "rating": "TV-PG",
+        "tvEpisodes": [
+          {
+            "eid": "2004701",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20047.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 5,2015",
+            "description": "In the season premiere, Barry Allen (GRANT GUSTIN) has chosen to protect the city on his own - until a meta-human named Atom Smasher (ADAM COPELAND) attacks.",
+            "genres": "Drama, Action"
+          },
+          {
+            "eid": "2004702",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20047.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 12,2015",
+            "description": "Jay Garrick (TEDDY SEARS), a mysterious man from Earth-2, appears at S.T.A.R. Labs with a dire warning about an evil speedster named Zoom, who is set on destroying The Flash.'",
+            "genres": "Drama, Action"
+          },
+          {
+            "eid": "2004703",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20047.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 19,2015",
+            "description": "When Barry and the team find out Captain Cold (WENTWORTH MILLER) has been kidnapped, they form an uneasy alliance with his sister, Lisa (PEYTON LIST).",
+            "genres": "Drama, Action"
+          }
+        ]
+      },
+      {
+        "tid": "20048",
+        "posterImageURL": "images/media/tv/20048.jpg",
+        "title": "The Flash -- Season 3",
+        "year": "2017",
+        "userrating": "4",
+        "description": "As the fastest man alive, Barry Allen - aka The Flash - faced metahuman threats from both this world and the parallel world of Earth-2. In Season Three, Barry faces the unknown - as he irrevocably alters the timeline by saving his mother from the clutches of the Reverse-Flash. The only question now - as he remains trapped in his own Flashpoint Paradox - is will he be able to find a way out?",
+        "Starring": "Grant Gustin, Candice Patton, Rick Cosnett",
+        "genres": "Drama, Action",
+        "director": "Greg Berlanti, Geoff Johns, Andrew Kreisberg",
+        "rating": "TV-PG",
+        "tvEpisodes": [
+          {
+            "eid": "2004801",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20048.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 3,2016",
+            "description": "In the season premiere, Barry Allen (GRANT GUSTIN) is living the life he always wanted. But there are serious repercussions to living in this alternate Flashpoint universe.",
+            "genres": "Drama, Action"
+          },
+          {
+            "eid": "2004802",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20048.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 10,2016",
+            "description": "Barry realizes the effects from Flashpoint are much greater than he thought. When he meets his new co-worker, Julian (TOM FELTON), he's surprised by Julian's immediate disdain.'",
+            "genres": "Drama, Action"
+          },
+          {
+            "eid": "2004803",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20048.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 17,2016",
+            "description": "Earth-2 Wells returns to Central City with Jesse (VIOLETT BEANE) and confides in Barry and Caitlin that she's been using her powers as a speedster to save people on his Earth.",
+            "genres": "Drama, Action"
+          }
+        ]
+      },
+      {
+        "tid": "20049",
+        "posterImageURL": "images/media/tv/20049.jpg",
+        "title": "The Flash -- Season 4",
+        "year": "2018",
+        "userrating": "4",
+        "description": "The Flash's victory over Savitar last season was short-lived, as an unbalanced Speed Force began to wreak havoc on Central City, forcing Barry to sacrifice himself for the greater good. With The Fastest Man Alive now trapped inside an extra-dimensional energy, and unknown dangers lurking in the shadows, it will be up to Team Flash to free Barry from his own personal Hell in Season 4.",
+        "Starring": "Grant Gustin, Candice Patton, Rick Cosnett",
+        "genres": "Drama, Action",
+        "director": "Greg Berlanti, Geoff Johns, Andrew Kreisberg",
+        "rating": "TV-PG",
+        "tvEpisodes": [
+          {
+            "eid": "2004901",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20049.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 9,2017",
+            "description": "In the season four premiere, Cisco (CARLOS VALDES) makes a risky decision to break Barry (GRANT GUSTIN) out of the Speed Force.",
+            "genres": "Drama, Action"
+          },
+          {
+            "eid": "2004902",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20049.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 16,2017",
+            "description": "Barry has his hands full when he takes on a dangerous meta, while also confronting obstacles in his personal life: like abandoning Iris to balance the Speed Force.",
+            "genres": "Drama, Action"
+          },
+          {
+            "eid": "2004903",
+            "videoURL": "videos/tv/20022.mp4",
+            "posterImageURL": "images/media/tv/20049.jpg",
+            "audiotracks": "en",
+            "subtitles": "en, ch",
+            "duration": "42 min",
+            "releaseDate": "October 23,2017",
+            "description": "When Barry and the team are hit with a string of bad luck, they realize it's the handiwork of a new meta, Hazard (SUGAR-LYN BEARD), who's got the ability to manipulate luck.",
+            "genres": "Drama, Action"
+          }
+        ]
+      }
+    ],
+    "data": [
+      {
+        "cid": "6000",
+        "name": "Most Watched This Month",
+        "total": "2000",
+        "current": "200",
+        "clist": [
+          20020,
+          20021,
+          20022,
+          20023,
+          20024,
+          20025,
+          20026,
+          20027,
+          20028,
+          20029,
+          20030,
+          20031,
+          20032,
+          20034,
+          20035,
+          20036,
+          20037,
+          20038,
+          20039,
+          20040,
+          20041,
+          20042,
+          20043,
+          20044,
+          20045,
+          20046,
+          20047,
+          20048,
+          20049
+        ]
+      },
+      {
+        "cid": "6001",
+        "name": "Drama",
+        "total": "2000",
+        "current": "200",
+        "clist": [
+          20020,
+          20021,
+          20022,
+          20023,
+          20024,
+          20025,
+          20026,
+          20027,
+          20032,
+          20033,
+          20034,
+          20035,
+          20036,
+          20037,
+          20038,
+          20039,
+          20040,
+          20041,
+          20042,
+          20043,
+          20044,
+          20045,
+          20046,
+          20047,
+          20048,
+          20049
+        ]
+      },
+      {
+        "cid": "6002",
+        "name": "Horror",
+        "total": "2000",
+        "current": "200",
+        "clist": [
+          20032,
+          20033,
+          20034,
+          20035,
+          20036,
+          20037,
+          20038,
+          20039
+        ]
+      },
+      {
+        "cid": "6003",
+        "name": "Comedy",
+        "total": "2000",
+        "current": "200",
+        "clist": [
+          20028,
+          20029,
+          20030,
+          20031,
+          20040,
+          20041,
+          20042,
+          20043
+        ]
+      },
+      {
+        "cid": "6004",
+        "name": "Action",
+        "total": "2000",
+        "current": "200",
+        "clist": [
+          20020,
+          20021,
+          20022,
+          20023,
+          20024,
+          20044,
+          20045,
+          20046,
+          20047,
+          20048,
+          20049
+        ]
+      }
+    ]
+  }
+}
