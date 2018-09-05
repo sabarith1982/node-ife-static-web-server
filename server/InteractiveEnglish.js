@@ -71,7 +71,15 @@ const InteractiveEnglish = {
 	  "kidssubmit": "Submit",
 	  "kidsquitpin": "Please Confirm PIN to quit kids mode",
 	  "kidsquitpininfo": "Four-digit numbers only. Ask flight attendant to reset kids mode if forget PIN",
-	  "kidsinvalidpwd": "Invalid Password"
+	  "kidsinvalidpwd": "Invalid Password",
+	  "musicplayalltxt": "Play All",
+	  "musicaddallplaylisttxt": "Add All To Playlist",
+	  "musicaddedtoplaylisttxt": "Added To Playlist",
+	  "musicsongstxt": "Songs",
+	  "musicsearchtexttxt": "Please type text to search",
+	  "musicnowplayingtxt": "Now Playing",
+	  "musicplaylisttxt": "Playlist",
+	  "readsearchtexttxt": "Please type text to search"
     }
 }
 

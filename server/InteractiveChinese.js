@@ -71,7 +71,15 @@ const InteractiveChinese = {
 	  "kidssubmit": "提交",
 	  "kidsquitpin": "输入密码以退出儿童模式",
 	  "kidsquitpininfo": "仅限四位数字。如需帮助请联系空服人员",
-	  "kidsinvalidpwd": "密码错误"
+	  "kidsinvalidpwd": "密码错误",
+	  "musicplayalltxt": "播放全部",
+	  "musicaddallplaylisttxt": "添加全部到播放列表",
+	  "musicaddedtoplaylisttxt": "成功添加到播放列表",
+	  "musicsongstxt": "首",
+	  "musicsearchtexttxt": "搜索音乐、歌手、专辑",
+	  "musicnowplayingtxt": "正在播放",
+	  "musicplaylisttxt": "播放列表",
+	  "readsearchtexttxt": "搜索书刊、作者"
     }
 }
 
