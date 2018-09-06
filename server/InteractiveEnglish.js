@@ -66,7 +66,7 @@ const InteractiveEnglish = {
 	  "searchuserratingstxt": "User ratings",
 	  "searchtxt": "Search",
 	  "searchfoundtxt": "found",
-	  "kidspin": "Pleasee set PIN to turn on kids mode",
+	  "kidspin": "Please set PIN to turn on kids mode",
 	  "kidspininfo": "Four-digit numbers only",
 	  "kidssubmit": "Submit",
 	  "kidsquitpin": "Please Confirm PIN to quit kids mode",
