@@ -17,26 +17,6 @@ const MusicList_CH = {
         "slideid": "30301",
         "imageURL": "images/media/music/30301-slide.jpg",
         "type": "album"
-      },
-      {
-        "slideid": "30020",
-        "imageURL": "images/media/music/30020-slide.jpg",
-        "type": "album"
-      },
-      {
-        "slideid": "30014",
-        "imageURL": "images/media/music/30014-slide.jpg",
-        "type": "album"
-      },
-      {
-        "slideid": "30101",
-        "imageURL": "images/media/music/30101-slide.jpg",
-        "type": "playlist"
-      },
-      {
-        "slideid": "30021",
-        "imageURL": "images/media/music/30021-slide.jpg",
-        "type": "album"
       }
     ],
     "list": [

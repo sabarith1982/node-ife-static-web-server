@@ -79,6 +79,8 @@ const InteractiveChinese = {
 	  "musicsearchtexttxt": "搜索音乐、歌手、专辑",
 	  "musicnowplayingtxt": "正在播放",
 	  "musicplaylisttxt": "播放列表",
+	  "musicfilenotexisttxt": "音乐文件不存在",
+	  "readfilenotexisttxt": "阅读文件不存在",
 	  "readsearchtexttxt": "搜索书刊、作者"
     }
 }

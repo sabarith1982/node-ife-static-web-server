@@ -79,6 +79,8 @@ const InteractiveEnglish = {
 	  "musicsearchtexttxt": "Please type text to search",
 	  "musicnowplayingtxt": "Now Playing",
 	  "musicplaylisttxt": "Playlist",
+	  "musicfilenotexisttxt": "Music file doesn't exist",
+	  "readfilenotexisttxt": "Read file doesn't exist",
 	  "readsearchtexttxt": "Please type text to search"
     }
 }
